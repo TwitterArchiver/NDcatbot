@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052758848893865984"
+      ],
+      "media_source_tweet_id": [
+        "2052920738781577283"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2052982870822842845",
+    "created_at": "2026-05-09T05:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052982870822842845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1368897611672018953",
+          "start": 3,
+          "username": "XUEQIUxka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CqdigOcG7I",
+          "end": 61,
+          "expanded_url": "https://x.com/XUEQIUxka/status/2052920738781577283/photo/1",
+          "media_key": "3_2052758848893865984",
+          "start": 38,
+          "url": "https://t.co/CqdigOcG7I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052982870822842845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052920738781577283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XUEQIUxka: 天才如过江之鲫，一般人想破脑袋也想不出这种法 https://t.co/CqdigOcG7I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2052758848893865984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzdTA3b0AA3aHS.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052758848893865984"
+          ],
+          "media_source_tweet_id": [
+            "2052920738781577283"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2052982870822842845",
+        "created_at": "2026-05-09T05:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052982870822842845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1368897611672018953",
+              "start": 3,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CqdigOcG7I",
+              "end": 61,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2052920738781577283/photo/1",
+              "media_key": "3_2052758848893865984",
+              "start": 38,
+              "url": "https://t.co/CqdigOcG7I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052982870822842845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052920738781577283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XUEQIUxka: 天才如过江之鲫，一般人想破脑袋也想不出这种法 https://t.co/CqdigOcG7I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052758848893865984"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2052920738781577283",
+        "created_at": "2026-05-09T01:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T02:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052920738781577283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CqdigOcG7I",
+              "end": 46,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2052920738781577283/photo/1",
+              "media_key": "3_2052758848893865984",
+              "start": 23,
+              "url": "https://t.co/CqdigOcG7I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052920738781577283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3356,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天才如过江之鲫，一般人想破脑袋也想不出这种法 https://t.co/CqdigOcG7I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 110,
+          "like_count": 2140,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 366
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "@Xyliaxka，淡圈，提供咨询，尝试恢复社交中，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTF，#MTFT男娘，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 99,
+                "tag": "家长党"
+              },
+              {
+                "end": 108,
+                "start": 104,
+                "tag": "MTF"
+              },
+              {
+                "end": 116,
+                "start": 109,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 121,
+                "start": 117,
+                "tag": "HRT"
+              },
+              {
+                "end": 126,
+                "start": 122,
+                "tag": "Les"
+              },
+              {
+                "end": 130,
+                "start": 127,
+                "tag": "双相"
+              },
+              {
+                "end": 136,
+                "start": 131,
+                "tag": "ADHD"
+              },
+              {
+                "end": 143,
+                "start": 137,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 53,
+                "start": 44,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8291,
+          "following_count": 2191,
+          "like_count": 29228,
+          "listed_count": 27,
+          "media_count": 1230,
+          "tweet_count": 4865
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

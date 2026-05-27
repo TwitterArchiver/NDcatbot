@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2041926855532671000",
+    "created_at": "2026-04-08T17:11:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T18:11:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041926855532671000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1910749531161190400",
+          "start": 3,
+          "username": "r0x_ht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041926855532671000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 250
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040997031486140589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @r0x_ht: 你可以用自慰顶替性生活 但什么都顶替不了拥抱和亲吻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2041926855532671000",
+        "created_at": "2026-04-08T17:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T18:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041926855532671000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1910749531161190400",
+              "start": 3,
+              "username": "r0x_ht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041926855532671000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 250
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040997031486140589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @r0x_ht: 你可以用自慰顶替性生活 但什么都顶替不了拥抱和亲吻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910749531161190400",
+        "conversation_id": "2040997031486140589",
+        "created_at": "2026-04-06T03:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T04:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040997031486140589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040997031486140589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 204858,
+          "like_count": 2454,
+          "quote_count": 37,
+          "reply_count": 292,
+          "retweet_count": 250
+        },
+        "reply_settings": "everyone",
+        "text": "你可以用自慰顶替性生活 但什么都顶替不了拥抱和亲吻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 46,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 73
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T17:39:32.000Z",
+        "description": "可爱又可爱",
+        "id": "1910749531161190400",
+        "location": "🚪18 ",
+        "name": "Miko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974949239118876672/NZ4Hm47I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36826,
+          "following_count": 9,
+          "like_count": 492,
+          "listed_count": 69,
+          "media_count": 138,
+          "tweet_count": 450
+        },
+        "username": "r0x_ht",
+        "verified": false
+      }
+    ]
+  }
+}

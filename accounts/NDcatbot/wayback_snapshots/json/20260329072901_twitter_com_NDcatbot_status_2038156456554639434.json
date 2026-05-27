@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2038156456554639434",
+    "created_at": "2026-03-29T07:29:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T08:29:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038156456554639434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1748763011140169729",
+          "start": 3,
+          "username": "lovelyshuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038156456554639434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037841148157559087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovelyshuimao: 我现实中怎么没见到\n校门口卖毒品小零食的坏人\n路上给人贴致幻邮票的坏人\n群里诱导变性打激素的坏人\n这些坏人哪里找啊😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2038156456554639434",
+        "created_at": "2026-03-29T07:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T08:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038156456554639434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1748763011140169729",
+              "start": 3,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038156456554639434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037841148157559087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovelyshuimao: 我现实中怎么没见到\n校门口卖毒品小零食的坏人\n路上给人贴致幻邮票的坏人\n群里诱导变性打激素的坏人\n这些坏人哪里找啊😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2037841148157559087",
+        "created_at": "2026-03-28T10:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T11:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037841148157559087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037841148157559087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 37214,
+          "like_count": 359,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "我现实中怎么没见到\n校门口卖毒品小零食的坏人\n路上给人贴致幻邮票的坏人\n群里诱导变性打激素的坏人\n这些坏人哪里找啊😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 28,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 24
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4885,
+          "following_count": 1021,
+          "like_count": 270,
+          "listed_count": 13,
+          "media_count": 3086,
+          "tweet_count": 13718
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

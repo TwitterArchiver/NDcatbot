@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053375904315998208"
+      ],
+      "media_source_tweet_id": [
+        "2053375906576818460"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2053437233504625038",
+    "created_at": "2026-05-10T11:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053437233504625038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1807044386104238080",
+          "start": 3,
+          "username": "cishenfeiwoyou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KrIOrvuhw5",
+          "end": 139,
+          "expanded_url": "https://x.com/cishenfeiwoyou/status/2053375906576818460/photo/1",
+          "media_key": "3_2053375904315998208",
+          "start": 116,
+          "url": "https://t.co/KrIOrvuhw5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053437233504625038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053375906576818460",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cishenfeiwoyou: 感受到顺直男的恶意了…\n舍友刷抖音刷到他亲戚，然后去视奸他的关注列表…\n然后发现亲戚是男同性恋…\n之后直接跟他妈说了，然后到处打电话扩散这个事，要给那个亲戚出柜…\n说完然后很高兴的在那得意… https://t.co/KrIOrvuhw5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2053375904315998208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH8OgXcaAAAjF5j.jpg",
+        "width": 982
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053375904315998208"
+          ],
+          "media_source_tweet_id": [
+            "2053375906576818460"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2053437233504625038",
+        "created_at": "2026-05-10T11:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053437233504625038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1807044386104238080",
+              "start": 3,
+              "username": "cishenfeiwoyou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KrIOrvuhw5",
+              "end": 139,
+              "expanded_url": "https://x.com/cishenfeiwoyou/status/2053375906576818460/photo/1",
+              "media_key": "3_2053375904315998208",
+              "start": 116,
+              "url": "https://t.co/KrIOrvuhw5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053437233504625038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053375906576818460",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cishenfeiwoyou: 感受到顺直男的恶意了…\n舍友刷抖音刷到他亲戚，然后去视奸他的关注列表…\n然后发现亲戚是男同性恋…\n之后直接跟他妈说了，然后到处打电话扩散这个事，要给那个亲戚出柜…\n说完然后很高兴的在那得意… https://t.co/KrIOrvuhw5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053375904315998208"
+          ]
+        },
+        "author_id": "1807044386104238080",
+        "conversation_id": "2053375906576818460",
+        "created_at": "2026-05-10T07:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T08:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053375906576818460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KrIOrvuhw5",
+              "end": 119,
+              "expanded_url": "https://x.com/cishenfeiwoyou/status/2053375906576818460/photo/1",
+              "media_key": "3_2053375904315998208",
+              "start": 96,
+              "url": "https://t.co/KrIOrvuhw5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053375906576818460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3215,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "感受到顺直男的恶意了…\n舍友刷抖音刷到他亲戚，然后去视奸他的关注列表…\n然后发现亲戚是男同性恋…\n之后直接跟他妈说了，然后到处打电话扩散这个事，要给那个亲戚出柜…\n说完然后很高兴的在那得意… https://t.co/KrIOrvuhw5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 114,
+          "like_count": 2431,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 405
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T13:32:32.000Z",
+        "description": "MTF🏳️‍⚧️Ⅰ同类贴贴，关注必回Ⅰ☯东方厨Ⅰ爱听摇滚\n\n妹妹@fufumiaoQxQ_\n姐姐@xinxin9277",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "fufumiaoQxQ_"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "xinxin9277"
+              }
+            ]
+          }
+        },
+        "id": "1807044386104238080",
+        "location": "幻想乡",
+        "name": "小夜🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984705942404153347/0SVgBT98_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 980,
+          "following_count": 828,
+          "like_count": 794,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 360
+        },
+        "username": "cishenfeiwoyou",
+        "verified": false
+      }
+    ]
+  }
+}

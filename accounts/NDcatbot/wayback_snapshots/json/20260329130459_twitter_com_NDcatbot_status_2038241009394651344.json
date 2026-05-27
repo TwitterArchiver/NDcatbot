@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2038241009394651344",
+    "created_at": "2026-03-29T13:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T14:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038241009394651344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1842504398850928640",
+          "start": 3,
+          "username": "hsn8086k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038241009394651344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038159702153179205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086k: 金星."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2038241009394651344",
+        "created_at": "2026-03-29T13:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T14:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038241009394651344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1842504398850928640",
+              "start": 3,
+              "username": "hsn8086k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038241009394651344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038159702153179205",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086k: 金星."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842504398850928640",
+        "conversation_id": "2038159702153179205",
+        "created_at": "2026-03-29T07:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T08:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038159702153179205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Swathy17531761…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/Swathy17531761/status/2037783573114319213",
+              "start": 4,
+              "url": "https://t.co/XRWWT2IKtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038159702153179205",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10380,
+          "like_count": 174,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037783573114319213",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "金星. https://t.co/XRWWT2IKtw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 35,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 42
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T09:57:44.000Z",
+        "description": "NullPointerException",
+        "id": "1842504398850928640",
+        "location": "Tokyo-to, Japan",
+        "name": "hsn今天吃什么",
+        "pinned_tweet_id": "1896570405504369088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020950332801785857/WwJ3oHpC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 214,
+          "like_count": 6520,
+          "listed_count": 5,
+          "media_count": 161,
+          "tweet_count": 1727
+        },
+        "username": "hsn8086k",
+        "verified": false
+      }
+    ]
+  }
+}

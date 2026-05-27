@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2043640526218399986",
+    "created_at": "2026-04-14T03:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T04:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043898608282677306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1867035438051131393",
+          "start": 0,
+          "username": "Iwilldieyoutoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043898608282677306",
+    "in_reply_to_user_id": "1867035438051131393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043640526218399986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iwilldieyoutoo 抽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2043640526218399986",
+        "created_at": "2026-04-14T03:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T04:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043898608282677306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1867035438051131393",
+              "start": 0,
+              "username": "Iwilldieyoutoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043898608282677306",
+        "in_reply_to_user_id": "1867035438051131393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043640526218399986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iwilldieyoutoo 抽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867035438051131393",
+        "conversation_id": "2043640526218399986",
+        "created_at": "2026-04-13T10:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043640526218399986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043640526218399986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2701,
+          "like_count": 81,
+          "quote_count": 1,
+          "reply_count": 53,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "我去105fo了，我将开抽奖，如果没人抽我将假装什么都没发生然后删掉帖子\n奖品👇\n一等奖：愈美片三盒（折现35）\n二等奖：普瑞胶囊两盒（折现30）\n三等奖：200ml斯米诺伏特加一支（折现28）\n各抽一个人，会用口令红包的方式兑换喵😽\n转帖+评论+赞+关注参与\n4.14日晚7：30到8：00左右开奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 52,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 99
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T02:35:24.000Z",
+        "description": "顺女泛性恋 // ✝精品神药滥用✝ // adhd // 会回fo但是会比较慢大概一到三天 // 🚪52解锁qq好友位 // 只收口令红包喵 // 周末不怎么上X可能错过口令请见谅 // 四叶草是幸运十叶草是螺旋桨带我升天 // 生日9.28求一个生日那天给我爆金币的好心人😢",
+        "id": "1867035438051131393",
+        "name": "十字草草",
+        "pinned_tweet_id": "2043640526218399986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010682131769663488/N8kFV-tv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 207,
+          "like_count": 4875,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 821
+        },
+        "username": "Iwilldieyoutoo",
+        "verified": false
+      }
+    ]
+  }
+}

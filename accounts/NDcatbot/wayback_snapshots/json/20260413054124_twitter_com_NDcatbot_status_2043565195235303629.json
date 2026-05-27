@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2043565195235303629",
+    "created_at": "2026-04-13T05:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T06:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043565195235303629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1680834021377593344",
+          "start": 3,
+          "username": "Ikks0413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043565195235303629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043352234348667267",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ikks0413: 比那个主播女孩好看👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2043565195235303629",
+        "created_at": "2026-04-13T05:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043565195235303629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1680834021377593344",
+              "start": 3,
+              "username": "Ikks0413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043565195235303629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043352234348667267",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ikks0413: 比那个主播女孩好看👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680834021377593344",
+        "conversation_id": "2043352234348667267",
+        "created_at": "2026-04-12T15:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043352234348667267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rinii165892/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/rinii165892/status/2043307075854553534",
+              "start": 11,
+              "url": "https://t.co/owKSDKWB9T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043352234348667267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043307075854553534",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "比那个主播女孩好看👍 https://t.co/owKSDKWB9T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 47,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 91
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "07｜MtFree｜Asexual/Agender｜Intel新芽衣滞华汁做题国难长毛人妖垮处 ｜ただ夏の匂いに目を瞑りたい｜◂Ⓘ▸ ｜🐖❤️@Lyrica_1005",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 71,
+                "username": "Lyrica_1005"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ikukoo0413",
+                "end": 23,
+                "expanded_url": "http://t.me/ikukoo0413",
+                "start": 0,
+                "url": "https://t.co/vac9121CFI"
+              }
+            ]
+          }
+        },
+        "id": "1680834021377593344",
+        "location": "Room 13",
+        "name": "粥白粥粥白🍥🌛🕊️🕊️",
+        "pinned_tweet_id": "2040716391289131504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040262760144175104/Kyeycx3d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2535,
+          "following_count": 988,
+          "like_count": 131122,
+          "listed_count": 15,
+          "media_count": 4610,
+          "tweet_count": 32261
+        },
+        "url": "https://t.co/vac9121CFI",
+        "username": "Ikks0413",
+        "verified": false
+      }
+    ]
+  }
+}

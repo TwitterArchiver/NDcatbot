@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2037617832238997855",
+    "created_at": "2026-03-27T19:48:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T20:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037617832238997855"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NDcatbot/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/NDcatbot/status/2037106579678650675",
+          "start": 4,
+          "url": "https://t.co/RbgrzKk0gx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037617832238997855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037106579678650675",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求转贴 https://t.co/RbgrzKk0gx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2037617832238997855",
+        "created_at": "2026-03-27T19:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T20:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037617832238997855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NDcatbot/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/NDcatbot/status/2037106579678650675",
+              "start": 4,
+              "url": "https://t.co/RbgrzKk0gx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037617832238997855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037106579678650675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求转贴 https://t.co/RbgrzKk0gx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2037106579678650675",
+        "created_at": "2026-03-26T09:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T10:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037106579678650675"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037106579678650675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1149,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "也许是面条喵重返推特（？\n再被封我就真的没招了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 19,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "username": "NDcatbot",
+        "verified": false
+      }
+    ]
+  }
+}

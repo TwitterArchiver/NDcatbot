@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054050437079461888"
+      ],
+      "media_source_tweet_id": [
+        "2054050439306567899"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2054114406343319737",
+    "created_at": "2026-05-12T08:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T09:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054114406343319737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1792158516096180224",
+          "start": 3,
+          "username": "Dr_Duckter"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OthXQSCKDL",
+          "end": 44,
+          "expanded_url": "https://x.com/Dr_Duckter/status/2054050439306567899/photo/1",
+          "media_key": "3_2054050437079461888",
+          "start": 21,
+          "url": "https://t.co/OthXQSCKDL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054114406343319737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054050439306567899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dr_Duckter: 谁来了？ https://t.co/OthXQSCKDL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1628,
+        "media_key": "3_2054050437079461888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFz_VzbcAAaChi.jpg",
+        "width": 874
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054050437079461888"
+          ],
+          "media_source_tweet_id": [
+            "2054050439306567899"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2054114406343319737",
+        "created_at": "2026-05-12T08:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T09:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054114406343319737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1792158516096180224",
+              "start": 3,
+              "username": "Dr_Duckter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OthXQSCKDL",
+              "end": 44,
+              "expanded_url": "https://x.com/Dr_Duckter/status/2054050439306567899/photo/1",
+              "media_key": "3_2054050437079461888",
+              "start": 21,
+              "url": "https://t.co/OthXQSCKDL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054114406343319737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054050439306567899",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dr_Duckter: 谁来了？ https://t.co/OthXQSCKDL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054050437079461888"
+          ]
+        },
+        "author_id": "1792158516096180224",
+        "conversation_id": "2054050439306567899",
+        "created_at": "2026-05-12T04:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T05:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054050439306567899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OthXQSCKDL",
+              "end": 28,
+              "expanded_url": "https://x.com/Dr_Duckter/status/2054050439306567899/photo/1",
+              "media_key": "3_2054050437079461888",
+              "start": 5,
+              "url": "https://t.co/OthXQSCKDL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054050439306567899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2625,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁来了？ https://t.co/OthXQSCKDL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "hyachana"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "berrrry_na"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 116,
+          "like_count": 2656,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 433
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T11:41:14.000Z",
+        "description": "逃生仓 @Dr__Duckter  \n\n不主动B人，被B了就是你友链的原因  \n\n查成分回关\n\nemail（吃灰中）：drduckter@proton.me\n\n致力于打造全推最尊重腊肉的账号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "Dr__Duckter"
+              }
+            ]
+          }
+        },
+        "id": "1792158516096180224",
+        "location": "Kiss Land",
+        "name": "Dr Ducky Drizzy Duckter Duckworth DingDongji",
+        "pinned_tweet_id": "2049065986897412581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041732131186208769/TvZD5dx0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2039,
+          "following_count": 1123,
+          "like_count": 20495,
+          "listed_count": 19,
+          "media_count": 499,
+          "tweet_count": 2762
+        },
+        "username": "Dr_Duckter",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2052428367979573527",
+    "created_at": "2026-05-08T09:17:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T10:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052679371421544555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "289298525",
+          "start": 0,
+          "username": "jiandu23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052679371421544555",
+    "in_reply_to_user_id": "289298525",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052428367979573527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiandu23333 分母"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052428365534294017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuwuWabcAEyzOe.jpg",
+        "width": 946
+      },
+      {
+        "height": 1389,
+        "media_key": "3_2052428365559390208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuwuWgaYAA6pAD.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2052428367979573527",
+        "created_at": "2026-05-08T09:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052679371421544555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "289298525",
+              "start": 0,
+              "username": "jiandu23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052679371421544555",
+        "in_reply_to_user_id": "289298525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052428367979573527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiandu23333 分母"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052428365534294017",
+            "3_2052428365559390208"
+          ]
+        },
+        "author_id": "289298525",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052428367979573527",
+        "created_at": "2026-05-07T16:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052428367979573527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GwETSptXoN",
+              "end": 78,
+              "expanded_url": "https://x.com/jiandu23333/status/2052428367979573527/photo/1",
+              "media_key": "3_2052428365534294017",
+              "start": 55,
+              "url": "https://t.co/GwETSptXoN"
+            },
+            {
+              "display_url": "pic.x.com/GwETSptXoN",
+              "end": 78,
+              "expanded_url": "https://x.com/jiandu23333/status/2052428367979573527/photo/1",
+              "media_key": "3_2052428365559390208",
+              "start": 55,
+              "url": "https://t.co/GwETSptXoN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052428367979573527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 129,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "20fo\n关注+转帖+评论+❤️\n抽奖\n东方冰之勇者记CDK一份（折19r）\n5月8日—5月11日\nAI开奖 https://t.co/GwETSptXoN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 110,
+          "like_count": 2003,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 347
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-28T11:50:45.000Z",
+        "description": "沃尔玛塑料袋/INTP/06年/19+/轻度游戏爱好/東方/互fo私信/颓废中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiandu23333",
+                "end": 23,
+                "expanded_url": "http://ngl.link/jiandu23333",
+                "start": 0,
+                "url": "https://t.co/lwH4XonMoS"
+              }
+            ]
+          }
+        },
+        "id": "289298525",
+        "location": "Hong Kong",
+        "name": "饼酱",
+        "pinned_tweet_id": "2052428367979573527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051385937419186176/ZRhKnOoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 91,
+          "like_count": 549,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 53
+        },
+        "url": "https://t.co/lwH4XonMoS",
+        "username": "jiandu23333",
+        "verified": false
+      }
+    ]
+  }
+}

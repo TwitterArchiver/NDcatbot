@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2058767778665140634",
+    "created_at": "2026-05-25T07:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T08:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058816365990162470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1928705633135767600",
+          "start": 0,
+          "username": "PriseTwinkle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058816365990162470",
+    "in_reply_to_user_id": "1928705633135767600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058767778665140634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PriseTwinkle 分母"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 687,
+        "media_key": "3_2058767775737499648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJI2Ylva0AAiXU6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2058767778665140634",
+        "created_at": "2026-05-25T07:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T08:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058816365990162470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "PriseTwinkle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058816365990162470",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058767778665140634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PriseTwinkle 分母"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058767775737499648"
+          ]
+        },
+        "author_id": "1928705633135767600",
+        "conversation_id": "2058767778665140634",
+        "created_at": "2026-05-25T04:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T05:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058767778665140634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CasLw3W91w",
+              "end": 206,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2058767778665140634/photo/1",
+              "media_key": "3_2058767775737499648",
+              "start": 183,
+              "url": "https://t.co/CasLw3W91w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058767778665140634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为了庆祝我涨到了首个1000fo🥳，抽奖活动来了喵~\n\n第一: 100¥ CNY（共一个）\n第二: 50¥ CNY（共一个）\n第三: 25¥    CNY（共一个）\n第四/五：12.5 ¥   CNY（共二个）\n---------------------\n所有人都可以参加，关注，点赞，评论，并转帖，您才有资格获奖。\n时间：May 25- 29 ,May 30开奖 （提前另通知）\n方式：Grok抽奖\n\n*此贴为抽奖贴，上一推文不算\n\n期待你的中奖！🥰\nby: \n         @𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2196,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 58,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "为了庆祝我涨到了首个1000fo🥳，抽奖活动来了喵~\n\n第一: 100¥ CNY（共一个）\n第二: 50¥ CNY（共一个）\n第三: 25¥    CNY（共一个）\n第四/五：12.5 ¥   CNY（共二个）\n---------------------\n所有人都可以参加，关注，点赞，评论，并转帖，您才有资格获奖。\n时间：May 25- 29 ,May 30开奖 https://t.co/CasLw3W91w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 129,
+          "like_count": 3911,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 609
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "13岁 7年级 也许是泛性恋？跨圈最小的? \n无证小药娘🍥2026.4.7 MTF\n从小想做个女孩子-炸柜：5.2,/继续深柜ing\n喜欢折腾电脑和会一点编程\n分享Hrt日常-磕药药割手手💊🔪\n喜欢我的话点个关注吧🥺 求求你了~\n@TeamRain_2024 | http://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 115,
+                "username": "TeamRain_2024"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 154,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 132,
+                "url": "http://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/vVpfNV6DFI"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2041475934608380289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050189894278897664/xk4hCXpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 7,
+          "like_count": 1950,
+          "listed_count": 5,
+          "media_count": 106,
+          "tweet_count": 720
+        },
+        "url": "https://t.co/vVpfNV6DFI",
+        "username": "PriseTwinkle",
+        "verified": true
+      }
+    ]
+  }
+}

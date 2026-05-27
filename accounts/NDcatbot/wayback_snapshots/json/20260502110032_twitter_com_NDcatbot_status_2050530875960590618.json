@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050443628334448641"
+      ],
+      "media_source_tweet_id": [
+        "2050443642519629954"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2050530875960590618",
+    "created_at": "2026-05-02T11:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T12:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050530875960590618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1752569012012363776",
+          "start": 3,
+          "username": "queue_prompt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/D9nompO1R4",
+          "end": 73,
+          "expanded_url": "https://x.com/queue_prompt/status/2050443642519629954/photo/1",
+          "media_key": "3_2050443628334448641",
+          "start": 50,
+          "url": "https://t.co/D9nompO1R4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050530875960590618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050443642519629954",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @queue_prompt: 猜猜哪个更贵\nA，这桌饭\nB，我用的手机+手表+一年hrt费用 https://t.co/D9nompO1R4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2050443628334448641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSjncLWgAEOfA9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050443628334448641"
+          ],
+          "media_source_tweet_id": [
+            "2050443642519629954"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050530875960590618",
+        "created_at": "2026-05-02T11:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T12:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050530875960590618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1752569012012363776",
+              "start": 3,
+              "username": "queue_prompt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9nompO1R4",
+              "end": 73,
+              "expanded_url": "https://x.com/queue_prompt/status/2050443642519629954/photo/1",
+              "media_key": "3_2050443628334448641",
+              "start": 50,
+              "url": "https://t.co/D9nompO1R4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050530875960590618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050443642519629954",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @queue_prompt: 猜猜哪个更贵\nA，这桌饭\nB，我用的手机+手表+一年hrt费用 https://t.co/D9nompO1R4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050443628334448641"
+          ]
+        },
+        "author_id": "1752569012012363776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2050443642519629954",
+        "created_at": "2026-05-02T05:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050443642519629954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9nompO1R4",
+              "end": 55,
+              "expanded_url": "https://x.com/queue_prompt/status/2050443642519629954/photo/1",
+              "media_key": "3_2050443628334448641",
+              "start": 32,
+              "url": "https://t.co/D9nompO1R4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050443642519629954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1707,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猜猜哪个更贵\nA，这桌饭\nB，我用的手机+手表+一年hrt费用 https://t.co/D9nompO1R4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 75,
+          "like_count": 880,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 175
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T05:46:59.000Z",
+        "description": "",
+        "id": "1752569012012363776",
+        "name": "queue_prompt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016811635126784005/lksQ5Rjl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 100,
+          "like_count": 14142,
+          "listed_count": 3,
+          "media_count": 245,
+          "tweet_count": 3036
+        },
+        "username": "queue_prompt",
+        "verified": false
+      }
+    ]
+  }
+}

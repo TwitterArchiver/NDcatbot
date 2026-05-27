@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2038886797082787840",
+        "7_2038886962187366400"
+      ],
+      "media_source_tweet_id": [
+        "2038887253641244714",
+        "2038887253641244714"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2039016948458201172",
+    "created_at": "2026-03-31T16:28:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T17:28:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039016948458201172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1885154179922227200",
+          "start": 3,
+          "username": "Snow_Xue_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/G3NHajrHGF",
+          "end": 46,
+          "expanded_url": "https://x.com/Snow_Xue_/status/2038887253641244714/video/1",
+          "media_key": "7_2038886797082787840",
+          "start": 23,
+          "url": "https://t.co/G3NHajrHGF"
+        },
+        {
+          "display_url": "pic.x.com/G3NHajrHGF",
+          "end": 46,
+          "expanded_url": "https://x.com/Snow_Xue_/status/2038887253641244714/video/1",
+          "media_key": "7_2038886962187366400",
+          "start": 23,
+          "url": "https://t.co/G3NHajrHGF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039016948458201172",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038887253641244714",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Snow_Xue_: n55虚空舞萌 https://t.co/G3NHajrHGF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20881,
+        "height": 1280,
+        "media_key": "7_2038886797082787840",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2038886797082787840/pu/img/UYY3IYz5lpgK7IOx.jpg",
+        "public_metrics": {
+          "view_count": 6815
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038886797082787840/pu/vid/avc1/320x568/qB00R4pfAVgxTxUq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038886797082787840/pu/vid/avc1/480x852/qp3oqqtaeI63-QEK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038886797082787840/pu/vid/avc1/720x1280/MGzBxk7yqmbMXAn2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2038886797082787840/pu/pl/zzuLrKvjyaFo-SUV.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 21150,
+        "height": 1280,
+        "media_key": "7_2038886962187366400",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2038886962187366400/pu/img/Q7oc9c8p1fXMq6lU.jpg",
+        "public_metrics": {
+          "view_count": 964
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038886962187366400/pu/vid/avc1/320x568/rx_BFrM5GWXMcQgf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038886962187366400/pu/vid/avc1/480x852/k9vm8MOj4hgU7_kq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038886962187366400/pu/vid/avc1/720x1280/p_ZR_QB3-fkrSEQr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2038886962187366400/pu/pl/--ubRfLIWtcnd5vI.m3u8?tag=12&v=4c2"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2038886797082787840",
+            "7_2038886962187366400"
+          ],
+          "media_source_tweet_id": [
+            "2038887253641244714",
+            "2038887253641244714"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2039016948458201172",
+        "created_at": "2026-03-31T16:28:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T17:28:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039016948458201172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1885154179922227200",
+              "start": 3,
+              "username": "Snow_Xue_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G3NHajrHGF",
+              "end": 46,
+              "expanded_url": "https://x.com/Snow_Xue_/status/2038887253641244714/video/1",
+              "media_key": "7_2038886797082787840",
+              "start": 23,
+              "url": "https://t.co/G3NHajrHGF"
+            },
+            {
+              "display_url": "pic.x.com/G3NHajrHGF",
+              "end": 46,
+              "expanded_url": "https://x.com/Snow_Xue_/status/2038887253641244714/video/1",
+              "media_key": "7_2038886962187366400",
+              "start": 23,
+              "url": "https://t.co/G3NHajrHGF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039016948458201172",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038887253641244714",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Snow_Xue_: n55虚空舞萌 https://t.co/G3NHajrHGF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2038886797082787840",
+            "7_2038886962187366400"
+          ]
+        },
+        "author_id": "1885154179922227200",
+        "conversation_id": "2038887253641244714",
+        "created_at": "2026-03-31T07:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T08:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038887253641244714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G3NHajrHGF",
+              "end": 31,
+              "expanded_url": "https://x.com/Snow_Xue_/status/2038887253641244714/video/1",
+              "media_key": "7_2038886797082787840",
+              "start": 8,
+              "url": "https://t.co/G3NHajrHGF"
+            },
+            {
+              "display_url": "pic.x.com/G3NHajrHGF",
+              "end": 31,
+              "expanded_url": "https://x.com/Snow_Xue_/status/2038887253641244714/video/1",
+              "media_key": "7_2038886962187366400",
+              "start": 8,
+              "url": "https://t.co/G3NHajrHGF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038887253641244714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 17617,
+          "like_count": 228,
+          "quote_count": 16,
+          "reply_count": 49,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "n55虚空舞萌 https://t.co/G3NHajrHGF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 39,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 49
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "| 普通的上海入 | 位于** | 不见证（懒得管那些了，以前见过） | 没咋割手 | o！长在春风中，活在药效里！ | 没染上乌蒙 | 咱想咱老婆了 | 生产日期2010.3.16 | 纯s | 家长不管党（od割手也都不管 | hrt🍥2025.11 |\n| b站：屑冷雪",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow_xue_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/snow_xue_",
+                "start": 0,
+                "url": "https://t.co/UJzajXA6Cp"
+              }
+            ]
+          }
+        },
+        "id": "1885154179922227200",
+        "location": "上海",
+        "name": "雪🍥",
+        "pinned_tweet_id": "2038807680480129275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014003117520748544/Yng-qPnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 1404,
+          "like_count": 47131,
+          "listed_count": 3,
+          "media_count": 647,
+          "tweet_count": 4718
+        },
+        "url": "https://t.co/UJzajXA6Cp",
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

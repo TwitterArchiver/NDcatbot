@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2051668556467888469",
+    "created_at": "2026-05-05T14:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T15:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051668556467888469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kuukiwfn/statu…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/kuukiwfn/status/2051655073357606982",
+          "start": 28,
+          "url": "https://t.co/5o38hUwyGl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051668556467888469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051655073357606982",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和曲奇打電話的時候我就注意到了 曲奇念的是ㄓㄠˇ🐈🐈🐈 https://t.co/5o38hUwyGl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2051668556467888469",
+        "created_at": "2026-05-05T14:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051668556467888469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kuukiwfn/statu…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/kuukiwfn/status/2051655073357606982",
+              "start": 28,
+              "url": "https://t.co/5o38hUwyGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051668556467888469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051655073357606982",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和曲奇打電話的時候我就注意到了 曲奇念的是ㄓㄠˇ🐈🐈🐈 https://t.co/5o38hUwyGl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775833048493240320",
+        "conversation_id": "2051655073357606982",
+        "created_at": "2026-05-05T13:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051655073357606982"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051655073357606982",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "热知识（\n\n  「魔爪」在中文的读音\n是\n  「mó zhǎo」\n  「ㄇㄛˊ ㄓㄠˇ」\n\n而不是\n  「mó zhuǎ」\n  「ㄇㄛˊ ㄓㄨㄚˇ」\n\n呃呃不过上过小学的应该都知道（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "hyachana"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 86,
+          "like_count": 1056,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 214
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T10:29:48.000Z",
+        "description": "⟡ ✞ nonbinary ✟ ⛧ ✟ 歡迎互fo喵 ✞ ✧ \n✟⛧✟ ᗜˬᗜ 東方project ᗜˬᗜ ♡⋆ ⛧overdose lover♡ ✦\n⟡ v-kei ꙳scenecore lover ♡ ✦ rebzyyx₊kets4eki fans ⭒\n†† @voixora_sama †† ✧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 132,
+                "username": "voixora_sama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/knyxia…",
+                "end": 23,
+                "expanded_url": "http://bsky.app/profile/knyxial.bsky.social",
+                "start": 0,
+                "url": "https://t.co/pgwJK3I4t6"
+              }
+            ]
+          }
+        },
+        "id": "1775833048493240320",
+        "location": "✟ kuuki小黒屋 ✟",
+        "name": "✟ 𝕜𝕦𝕦𝕜𝕚 ✟",
+        "pinned_tweet_id": "2051381252717166622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041491910490304512/juOj7D4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 735,
+          "like_count": 36227,
+          "listed_count": 1,
+          "media_count": 836,
+          "tweet_count": 3213
+        },
+        "url": "https://t.co/pgwJK3I4t6",
+        "username": "kuukiwfn",
+        "verified": false
+      }
+    ]
+  }
+}

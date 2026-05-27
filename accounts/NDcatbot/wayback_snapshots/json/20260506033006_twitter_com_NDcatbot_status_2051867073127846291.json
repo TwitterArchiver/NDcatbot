@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2051867073127846291",
+    "created_at": "2026-05-06T03:30:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T04:30:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051867073127846291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1779149099084009472",
+          "start": 3,
+          "username": "MikuLoverr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051867073127846291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051668284567879796",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MikuLoverr_: 我笑不活了现在\n因为我躯体化不舒服我尝试捏魔丸缓解\n捏多了现在魔丸痛了一天\n但是，每次感觉到魔丸痛我就绷不住笑\n然后，这一堆bug就运行起来了\n不舒服捏魔丸\n魔丸痛就想笑\n笑一笑改善情绪\n只有魔丸受伤的世界达成了\n下次生个好人家别在我身上受罪了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2051867073127846291",
+        "created_at": "2026-05-06T03:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T04:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051867073127846291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779149099084009472",
+              "start": 3,
+              "username": "MikuLoverr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051867073127846291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051668284567879796",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MikuLoverr_: 我笑不活了现在\n因为我躯体化不舒服我尝试捏魔丸缓解\n捏多了现在魔丸痛了一天\n但是，每次感觉到魔丸痛我就绷不住笑\n然后，这一堆bug就运行起来了\n不舒服捏魔丸\n魔丸痛就想笑\n笑一笑改善情绪\n只有魔丸受伤的世界达成了\n下次生个好人家别在我身上受罪了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779149099084009472",
+        "conversation_id": "2051668284567879796",
+        "created_at": "2026-05-05T14:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051668284567879796"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051668284567879796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 932,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我笑不活了现在\n因为我躯体化不舒服我尝试捏魔丸缓解\n捏多了现在魔丸痛了一天\n但是，每次感觉到魔丸痛我就绷不住笑\n然后，这一堆bug就运行起来了\n不舒服捏魔丸\n魔丸痛就想笑\n笑一笑改善情绪\n只有魔丸受伤的世界达成了\n下次生个好人家别在我身上受罪了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "hyachana"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 94,
+          "like_count": 1323,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 244
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T14:06:24.000Z",
+        "description": "Miku单推人/抑郁疯癫二相体/SRS预备/音游痴迷/重庆09年17岁理科牲/mtf🏳️‍⚧️/里推 @HiddenEmmMiku/双相ADHD感统失调/恋人 @mikumiku3648 /tips：本人玩梗不等同于自己实际立场",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "HiddenEmmMiku"
+              },
+              {
+                "end": 93,
+                "start": 80,
+                "username": "mikumiku3648"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ys-api.mihoyo.com/event/download…",
+                "end": 23,
+                "expanded_url": "https://ys-api.mihoyo.com/event/download_porter/link/ys_cn/official/android_default",
+                "start": 0,
+                "url": "https://t.co/rz5fLl5d1r"
+              }
+            ]
+          }
+        },
+        "id": "1779149099084009472",
+        "location": "劳资蜀道山",
+        "name": "emm🥝",
+        "pinned_tweet_id": "1994783507596677183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007766586707648513/c_VucSAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1540,
+          "following_count": 1141,
+          "like_count": 30388,
+          "listed_count": 12,
+          "media_count": 990,
+          "tweet_count": 14762
+        },
+        "url": "https://t.co/rz5fLl5d1r",
+        "username": "MikuLoverr_",
+        "verified": false
+      }
+    ]
+  }
+}

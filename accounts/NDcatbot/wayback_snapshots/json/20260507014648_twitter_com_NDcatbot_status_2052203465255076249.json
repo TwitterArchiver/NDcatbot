@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2052203465255076249",
+    "created_at": "2026-05-07T01:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T02:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052203465255076249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1484231561784737792",
+          "start": 3,
+          "username": "AirdropAlchemis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052203465255076249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048607223308562795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AirdropAlchemis: 给大家翻墙的技巧，不容易喝茶：\n\n1️⃣买一部最新的华为手机并插上电话卡\n2️⃣把输入法换成搜狗输入法\n3️⃣在手机里下个老王VPN并连接。\n4️⃣用qq邮箱或和+86号码注册x和tg付费5️⃣别用gmail或outlook邮箱和它国号…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2052203465255076249",
+        "created_at": "2026-05-07T01:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052203465255076249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1484231561784737792",
+              "start": 3,
+              "username": "AirdropAlchemis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052203465255076249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048607223308562795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AirdropAlchemis: 给大家翻墙的技巧，不容易喝茶：\n\n1️⃣买一部最新的华为手机并插上电话卡\n2️⃣把输入法换成搜狗输入法\n3️⃣在手机里下个老王VPN并连接。\n4️⃣用qq邮箱或和+86号码注册x和tg付费5️⃣别用gmail或outlook邮箱和它国号…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484231561784737792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2048607223308562795",
+        "created_at": "2026-04-27T03:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T04:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048607223308562795"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048607223308562795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "给大家翻墙的技巧，不容易喝茶：\n\n1️⃣买一部最新的华为手机并插上电话卡\n2️⃣把输入法换成搜狗输入法\n3️⃣在手机里下个老王VPN并连接。\n4️⃣用qq邮箱或和+86号码注册x和tg付费5️⃣别用gmail或outlook邮箱和它国号码\n6️⃣在推特上大放厥词，关注建政博主\n7️⃣一定要在小县城翻，别去大城市里\n\n完成后你再也不用怕被叫喝茶了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 522,
+          "impression_count": 574740,
+          "like_count": 1293,
+          "quote_count": 9,
+          "reply_count": 834,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "给大家翻墙的技巧，不容易喝茶：\n\n1️⃣买一部最新的华为手机并插上电话卡\n2️⃣把输入法换成搜狗输入法\n3️⃣在手机里下个老王VPN并连接。\n4️⃣用qq邮箱或和+86号码注册x和tg付费5️⃣别用gmail或outlook邮箱和它国号码\n6️⃣在推特上大放厥词，关注建政博主\n7️⃣一定要在小县城翻，别去大城市里"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 100,
+          "like_count": 1529,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 260
+        },
+        "url": "",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-20T18:29:24.000Z",
+        "description": "纯玩抽象的不构成任何投资建议\n🟣Solar member @solana_zh\n🟠炼金弟弟 @lianjinshushu\n👉https://t.co/28LJt8RXUv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "solana_zh"
+              },
+              {
+                "end": 60,
+                "start": 46,
+                "username": "lianjinshushu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "web3.okx.com",
+                "end": 85,
+                "expanded_url": "http://web3.okx.com",
+                "start": 62,
+                "url": "https://t.co/28LJt8RXUv"
+              }
+            ]
+          }
+        },
+        "id": "1484231561784737792",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "炼金叔叔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821804297723764736/iKiwTO9z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61301,
+          "following_count": 3127,
+          "like_count": 75034,
+          "listed_count": 926,
+          "media_count": 8232,
+          "tweet_count": 57200
+        },
+        "url": "",
+        "username": "AirdropAlchemis",
+        "verified": true
+      }
+    ]
+  }
+}

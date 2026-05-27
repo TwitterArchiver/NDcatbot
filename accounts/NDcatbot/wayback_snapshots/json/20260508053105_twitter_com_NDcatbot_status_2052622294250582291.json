@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2052622294250582291",
+    "created_at": "2026-05-08T05:31:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T06:31:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052622294250582291"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/DIC_EWE/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/DIC_EWE/status/2052447388137316496",
+          "start": 5,
+          "url": "https://t.co/VlwMk3DU82"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052622294250582291",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052447388137316496",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也💦💦 https://t.co/VlwMk3DU82"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2052622294250582291",
+        "created_at": "2026-05-08T05:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052622294250582291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DIC_EWE/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/DIC_EWE/status/2052447388137316496",
+              "start": 5,
+              "url": "https://t.co/VlwMk3DU82"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052622294250582291",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052447388137316496",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也💦💦 https://t.co/VlwMk3DU82"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816508247651860480",
+        "conversation_id": "2052447388137316496",
+        "created_at": "2026-05-07T17:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052447388137316496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052447388137316496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 438,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "平时在学校性欲强到夹腿\n在家咋就没动静了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 107,
+          "like_count": 1905,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 333
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T16:18:17.000Z",
+        "description": "一般通过初三学生        期待很多东西\n                                \n杀杀杀杀杀杀杀 🚪67/91/167无区别纯绿好友位                 此人不温顺很凶狠！ @123mp27 温良的喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 109,
+                "username": "123mp27"
+              }
+            ]
+          }
+        },
+        "id": "1816508247651860480",
+        "location": "家",
+        "name": "大骰目",
+        "pinned_tweet_id": "2051300515569688952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033310866901463040/p5F5E2Ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 342,
+          "like_count": 11657,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 2800
+        },
+        "username": "DIC_EWE",
+        "verified": false
+      }
+    ]
+  }
+}

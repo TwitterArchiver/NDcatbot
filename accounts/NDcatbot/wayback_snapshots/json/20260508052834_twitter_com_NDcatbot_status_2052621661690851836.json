@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2052621661690851836",
+    "created_at": "2026-05-08T05:28:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T06:28:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052621661690851836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2052033351305863172",
+          "start": 3,
+          "username": "Stepth901"
+        },
+        {
+          "end": 24,
+          "id": "1632405182079467520",
+          "start": 15,
+          "username": "gugussaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052621661690851836",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052384872430203031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Stepth901: @gugussaa 你可以去中国上高中"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2052621661690851836",
+        "created_at": "2026-05-08T05:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052621661690851836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2052033351305863172",
+              "start": 3,
+              "username": "Stepth901"
+            },
+            {
+              "end": 24,
+              "id": "1632405182079467520",
+              "start": 15,
+              "username": "gugussaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052621661690851836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052384872430203031",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Stepth901: @gugussaa 你可以去中国上高中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052033351305863172",
+        "conversation_id": "2052352645155983618",
+        "created_at": "2026-05-07T13:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052384872430203031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1632405182079467520",
+              "start": 0,
+              "username": "gugussaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052384872430203031",
+        "in_reply_to_user_id": "1632405182079467520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7064,
+          "like_count": 239,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052352645155983618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gugussaa 你可以去中国上高中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 107,
+          "like_count": 1902,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 332
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T14:31:45.000Z",
+        "description": "",
+        "id": "2052033351305863172",
+        "name": "Stepth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052033722082349059/CKsjpVAd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 10,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Stepth901",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-05T15:38:33.000Z",
+        "description": "谁天生宅爱情只靠下载",
+        "id": "1632405182079467520",
+        "name": "gugussaa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632406198933946370/1jjDUEHU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43508,
+          "following_count": 159,
+          "like_count": 5494,
+          "listed_count": 237,
+          "media_count": 590,
+          "tweet_count": 5828
+        },
+        "username": "gugussaa",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

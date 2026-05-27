@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2054115279966519659",
+    "created_at": "2026-05-12T08:23:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T09:23:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054115279966519659"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bbbkamen/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/bbbkamen/status/2053836254547247189",
+          "start": 3,
+          "url": "https://t.co/AZraHqulSH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054115279966519659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053836254547247189",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "广州 https://t.co/AZraHqulSH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2054115279966519659",
+        "created_at": "2026-05-12T08:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T09:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054115279966519659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bbbkamen/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/bbbkamen/status/2053836254547247189",
+              "start": 3,
+              "url": "https://t.co/AZraHqulSH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054115279966519659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053836254547247189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "广州 https://t.co/AZraHqulSH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955218488185982980",
+        "conversation_id": "2053836254547247189",
+        "created_at": "2026-05-11T13:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T14:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053836254547247189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KfirC10SRC/sta…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/KfirC10SRC/status/2051229447173677468",
+              "start": 48,
+              "url": "https://t.co/zqYQwBEKT6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053836254547247189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051229447173677468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发现一个规律…\n\n只要你的推文里带个地名，即使没有流量\n\n很多人机也会过来评论\n\n试试：成都 https://t.co/zqYQwBEKT6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "hyachana"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "berrrry_na"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 116,
+          "like_count": 2660,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 434
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T10:43:18.000Z",
+        "description": "传奇耐电王/MTX/出厂日09.7.11/友跨/高二物化生/不政/🍥凝胶💊OD/正在关注圈子情况/前世@aaakamen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "aaakamen"
+              }
+            ]
+          }
+        },
+        "id": "1955218488185982980",
+        "location": "中国河北",
+        "name": "一颗地雷/柒酱",
+        "pinned_tweet_id": "2040935095008407933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040938841524301824/DBpinweT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 328,
+          "like_count": 483,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 198
+        },
+        "username": "bbbkamen",
+        "verified": false
+      }
+    ]
+  }
+}

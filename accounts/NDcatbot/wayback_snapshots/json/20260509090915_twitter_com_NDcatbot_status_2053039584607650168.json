@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2053039584607650168",
+    "created_at": "2026-05-09T09:09:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T10:09:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053039584607650168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huajuanshiwo/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/huajuanshiwo/status/2052990328530202643",
+          "start": 15,
+          "url": "https://t.co/wjr09QW97V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053039584607650168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052990328530202643",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "紫=粉&gt;白&gt;其他 https://t.co/wjr09QW97V"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2053039584607650168",
+        "created_at": "2026-05-09T09:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053039584607650168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huajuanshiwo/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/huajuanshiwo/status/2052990328530202643",
+              "start": 15,
+              "url": "https://t.co/wjr09QW97V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053039584607650168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052990328530202643",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "紫=粉&gt;白&gt;其他 https://t.co/wjr09QW97V"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755765450707709952",
+        "conversation_id": "2052990328530202643",
+        "created_at": "2026-05-09T05:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052990328530202643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052990328530202643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 298,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "魔爪口味个人喜爱度排序\n1.白色\n2.绿色\n3.蓝色\n4.粉色\n5.紫色\n6.黑色"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 111,
+          "like_count": 2177,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 369
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T01:28:44.000Z",
+        "description": "じゅかい｜厉害的生命也会露出茫然的神色吗?｜雄性｜16岁｜文具控 术力口 科技食品爱好者｜里推@shuhaishiwo｜老公@sharksovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 47,
+                "username": "shuhaishiwo"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "sharksovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/vUdsXWw2h5",
+                "end": 23,
+                "expanded_url": "https://xhslink.com/m/vUdsXWw2h5",
+                "start": 0,
+                "url": "https://t.co/DeDtrCIx26"
+              }
+            ]
+          }
+        },
+        "id": "1755765450707709952",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "2051657958724075974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050780675603853312/8O0XU3en_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2287,
+          "following_count": 2293,
+          "like_count": 53226,
+          "listed_count": 6,
+          "media_count": 1970,
+          "tweet_count": 12054
+        },
+        "url": "https://t.co/DeDtrCIx26",
+        "username": "huajuanshiwo",
+        "verified": false
+      }
+    ]
+  }
+}

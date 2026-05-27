@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2053870449160036639",
+    "created_at": "2026-05-12T08:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T09:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054116604724818321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1775833048493240320",
+          "start": 0,
+          "username": "kuukiwfn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054116604724818321",
+    "in_reply_to_user_id": "1775833048493240320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053870449160036639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuukiwfn 法法我"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2053870449160036639].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2053870449160036639",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2053870449160036639"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2053870449160036639",
+        "created_at": "2026-05-12T08:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T09:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054116604724818321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1775833048493240320",
+              "start": 0,
+              "username": "kuukiwfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054116604724818321",
+        "in_reply_to_user_id": "1775833048493240320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053870449160036639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuukiwfn 法法我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "hyachana"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "berrrry_na"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 116,
+          "like_count": 2665,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 435
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T10:29:48.000Z",
+        "description": "⟡ ✞ nonbinary ✟ ⛧ ✟ 互fo喵 ✞ ✧ \n✟⛧✟ ᗜˬᗜ 東方project ᗜˬᗜ ♡⋆ ⛧overdose lover♡ ✦\n⟡ v-kei ꙳scenecore lover ♡ ✦ rebzyyx₊kets4eki fans ⭒",
+        "id": "1775833048493240320",
+        "location": "✟ Internet ✟",
+        "name": "✟ 𝕜𝕦𝕦𝕜𝕚 ✟",
+        "pinned_tweet_id": "2051381252717166622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041491910490304512/juOj7D4Q_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 739,
+          "like_count": 37576,
+          "listed_count": 1,
+          "media_count": 878,
+          "tweet_count": 3361
+        },
+        "username": "kuukiwfn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2052353375556218889",
+    "created_at": "2026-05-07T11:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T12:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052353375556218889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2046530162536357888",
+          "start": 3,
+          "username": "yueyechunxue"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/gduQJzWW",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/gduQJzWW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052353375556218889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051773036660228442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yueyechunxue: 某些人是觉得LGBT连最基本的可见都不能有吗，iOS26的LGBT骄傲墙纸无论是日语还是繁中都能正常的翻译成是宣扬LGBTQ+社群，只有简中翻译成彩虹，真恶心啊，他妈这么怕我们脏了你国顺直的眼睛吗？ https://t.co/gduQJzWW…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 714,
+        "media_key": "3_2051773029412454400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlcsxHbQAA7eCv.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1028,
+        "media_key": "3_2051773029404086272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlcsxFbkAAZSox.jpg",
+        "width": 1205
+      },
+      {
+        "height": 623,
+        "media_key": "3_2051773029395599360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlcsxDaEAA8QHk.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2052353375556218889",
+        "created_at": "2026-05-07T11:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T12:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052353375556218889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2046530162536357888",
+              "start": 3,
+              "username": "yueyechunxue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/gduQJzWW",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/gduQJzWW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052353375556218889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051773036660228442",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yueyechunxue: 某些人是觉得LGBT连最基本的可见都不能有吗，iOS26的LGBT骄傲墙纸无论是日语还是繁中都能正常的翻译成是宣扬LGBTQ+社群，只有简中翻译成彩虹，真恶心啊，他妈这么怕我们脏了你国顺直的眼睛吗？ https://t.co/gduQJzWW…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051773029412454400",
+            "3_2051773029404086272",
+            "3_2051773029395599360"
+          ]
+        },
+        "author_id": "2046530162536357888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051773036660228442",
+        "created_at": "2026-05-05T21:16:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T22:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051773036660228442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gduQJzWWOO",
+              "end": 123,
+              "expanded_url": "https://x.com/yueyechunxue/status/2051773036660228442/photo/1",
+              "media_key": "3_2051773029412454400",
+              "start": 100,
+              "url": "https://t.co/gduQJzWWOO"
+            },
+            {
+              "display_url": "pic.x.com/gduQJzWWOO",
+              "end": 123,
+              "expanded_url": "https://x.com/yueyechunxue/status/2051773036660228442/photo/1",
+              "media_key": "3_2051773029404086272",
+              "start": 100,
+              "url": "https://t.co/gduQJzWWOO"
+            },
+            {
+              "display_url": "pic.x.com/gduQJzWWOO",
+              "end": 123,
+              "expanded_url": "https://x.com/yueyechunxue/status/2051773036660228442/photo/1",
+              "media_key": "3_2051773029395599360",
+              "start": 100,
+              "url": "https://t.co/gduQJzWWOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051773036660228442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4417,
+          "like_count": 186,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "某些人是觉得LGBT连最基本的可见都不能有吗，iOS26的LGBT骄傲墙纸无论是日语还是繁中都能正常的翻译成是宣扬LGBTQ+社群，只有简中翻译成彩虹，真恶心啊，他妈这么怕我们脏了你国顺直的眼睛吗？ https://t.co/gduQJzWWOO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 103,
+          "like_count": 1722,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 296
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T10:04:01.000Z",
+        "description": "这里是春雪狐哦，是个小药娘,08年出厂,主要发碎碎念和一些图。 \n线下服务准备开放中🚪70加tg咨询",
+        "id": "2046530162536357888",
+        "location": "Sendai-shi Miyagino, Miyagi",
+        "name": "はるゆき狐🌸🍥",
+        "pinned_tweet_id": "2051417032965734467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046535232296570880/KSm_JaEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 78,
+          "like_count": 321,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 491
+        },
+        "username": "yueyechunxue",
+        "verified": true
+      }
+    ]
+  }
+}

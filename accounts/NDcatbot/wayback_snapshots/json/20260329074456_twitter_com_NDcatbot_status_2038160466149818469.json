@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2037645773920497704",
+    "created_at": "2026-03-29T07:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T08:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038160466149818469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1816123872087007235",
+          "start": 0,
+          "username": "jim71351321670"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038160466149818469",
+    "in_reply_to_user_id": "1816123872087007235",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037645773920497704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jim71351321670 我入"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 718,
+        "media_key": "3_2037645665262817280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEcr78ga0AAopTd.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2037645773920497704",
+        "created_at": "2026-03-29T07:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T08:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038160466149818469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1816123872087007235",
+              "start": 0,
+              "username": "jim71351321670"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038160466149818469",
+        "in_reply_to_user_id": "1816123872087007235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037645773920497704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jim71351321670 我入"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037645665262817280"
+          ]
+        },
+        "author_id": "1816123872087007235",
+        "conversation_id": "2037645773920497704",
+        "created_at": "2026-03-27T21:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T22:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037645773920497704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Czmfvu96La",
+              "end": 35,
+              "expanded_url": "https://x.com/jim71351321670/status/2037645773920497704/photo/1",
+              "media_key": "3_2037645665262817280",
+              "start": 12,
+              "url": "https://t.co/Czmfvu96La"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037645773920497704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 257,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "國人應有看眼識人之能力 https://t.co/Czmfvu96La"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 30,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 29
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T14:51:17.000Z",
+        "description": "Chinese/mnber/English/Japanese\n  平壤江東郡現任執事【2025-2028】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "on-tract.com",
+                "end": 23,
+                "expanded_url": "http://on-tract.com",
+                "start": 0,
+                "url": "https://t.co/m4LSYIdv0q"
+              }
+            ]
+          }
+        },
+        "id": "1816123872087007235",
+        "location": "Kaohsiung, Taiwan",
+        "name": "冉冉面（s版）🇨🇳🇹🇼",
+        "pinned_tweet_id": "2019415026894008823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968738138823737344/_2fdpg7j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 632,
+          "like_count": 14152,
+          "listed_count": 3,
+          "media_count": 435,
+          "tweet_count": 2917
+        },
+        "url": "https://t.co/m4LSYIdv0q",
+        "username": "jim71351321670",
+        "verified": false
+      }
+    ]
+  }
+}

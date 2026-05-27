@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056056916112297984"
+      ],
+      "media_source_tweet_id": [
+        "2056056920096805139"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2056281593346662576",
+    "created_at": "2026-05-18T07:51:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T08:51:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056281593346662576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1477645652796776452",
+          "start": 3,
+          "username": "114514Arster"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OsUy8cEJbw",
+          "end": 87,
+          "expanded_url": "https://x.com/114514Arster/status/2056056920096805139/photo/1",
+          "media_key": "3_2056056916112297984",
+          "start": 64,
+          "url": "https://t.co/OsUy8cEJbw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056281593346662576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056056920096805139",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @114514Arster: 就算被推特限制不让我发推文我也要发。\n666还有第二关\n梅莉会让莲子吃掉自己下的蛋补充营养 https://t.co/OsUy8cEJbw"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2056281593346662576].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2056281593346662576",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2056281593346662576"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1253,
+        "media_key": "3_2056056916112297984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIiU3yrb0AAHEac.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056056916112297984"
+          ]
+        },
+        "author_id": "1477645652796776452",
+        "conversation_id": "2055709746641146081",
+        "created_at": "2026-05-17T16:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T17:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056056920096805139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OsUy8cEJbw",
+              "end": 69,
+              "expanded_url": "https://x.com/114514Arster/status/2056056920096805139/photo/1",
+              "media_key": "3_2056056916112297984",
+              "start": 46,
+              "url": "https://t.co/OsUy8cEJbw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056056920096805139",
+        "in_reply_to_user_id": "1477645652796776452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 1973,
+          "like_count": 147,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055709746641146081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就算被推特限制不让我发推文我也要发。\n666还有第二关\n梅莉会让莲子吃掉自己下的蛋补充营养 https://t.co/OsUy8cEJbw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 116,
+          "like_count": 3359,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 527
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-02T14:19:26.000Z",
+        "description": "🇨🇳废话很多的异食癖百合控。\nメリ蓮左右固定洁癖。\n❌NG：拆逆、一体论、AI\n🦋BS→https://t.co/gBma92kGx8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/114514…",
+                "end": 67,
+                "expanded_url": "https://bsky.app/profile/114514arster.bsky.social",
+                "start": 44,
+                "url": "https://t.co/gBma92kGx8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/c3v5swlm0nldei…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/c3v5swlm0nldeij?t=bQbqcF&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/cd7h9pNaXc"
+              }
+            ]
+          }
+        },
+        "id": "1477645652796776452",
+        "location": "Dr.Latency庭園",
+        "name": "セキエイ。",
+        "pinned_tweet_id": "2053745285051154871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053894194998157312/cJkRL6ix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1307,
+          "following_count": 151,
+          "like_count": 2702,
+          "listed_count": 6,
+          "media_count": 195,
+          "tweet_count": 2761
+        },
+        "url": "https://t.co/cd7h9pNaXc",
+        "username": "114514Arster",
+        "verified": false
+      }
+    ]
+  }
+}

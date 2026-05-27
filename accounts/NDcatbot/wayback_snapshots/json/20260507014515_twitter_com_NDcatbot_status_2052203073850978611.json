@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2051775588302749697"
+      ],
+      "media_source_tweet_id": [
+        "2051775604845142087"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2052203073850978611",
+    "created_at": "2026-05-07T01:45:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T02:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052203073850978611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1963779825304477696",
+          "start": 3,
+          "username": "n_jyaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cBNJPpCBtK",
+          "end": 39,
+          "expanded_url": "https://x.com/n_jyaa/status/2051775604845142087/video/1",
+          "media_key": "13_2051775588302749697",
+          "start": 16,
+          "url": "https://t.co/cBNJPpCBtK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052203073850978611",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4632
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051775604845142087",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @n_jyaa: ❗️❓ https://t.co/cBNJPpCBtK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5735,
+        "height": 720,
+        "media_key": "13_2051775588302749697",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051775588302749697/img/-_CEJKBzYXZOJZ2R.jpg",
+        "public_metrics": {
+          "view_count": 71765
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051775588302749697/vid/avc1/274x270/dJzYvKPdU1Rh3T2Z.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051775588302749697/vid/avc1/366x360/QTPpAH09RP-qj4tE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051775588302749697/vid/avc1/734x720/iBK1D1HbTmwwSGhp.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051775588302749697/pl/IAcg53HQl9voZ4gc.m3u8?tag=14"
+          }
+        ],
+        "width": 734
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051775588302749697"
+          ],
+          "media_source_tweet_id": [
+            "2051775604845142087"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2052203073850978611",
+        "created_at": "2026-05-07T01:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052203073850978611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1963779825304477696",
+              "start": 3,
+              "username": "n_jyaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cBNJPpCBtK",
+              "end": 39,
+              "expanded_url": "https://x.com/n_jyaa/status/2051775604845142087/video/1",
+              "media_key": "13_2051775588302749697",
+              "start": 16,
+              "url": "https://t.co/cBNJPpCBtK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052203073850978611",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4632
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051775604845142087",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @n_jyaa: ❗️❓ https://t.co/cBNJPpCBtK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051775588302749697"
+          ]
+        },
+        "author_id": "1963779825304477696",
+        "conversation_id": "2051775604845142087",
+        "created_at": "2026-05-05T21:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T22:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051775604845142087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cBNJPpCBtK",
+              "end": 27,
+              "expanded_url": "https://x.com/n_jyaa/status/2051775604845142087/video/1",
+              "media_key": "13_2051775588302749697",
+              "start": 4,
+              "url": "https://t.co/cBNJPpCBtK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051775604845142087",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1672,
+          "impression_count": 246874,
+          "like_count": 22940,
+          "quote_count": 94,
+          "reply_count": 43,
+          "retweet_count": 4632
+        },
+        "reply_settings": "everyone",
+        "text": "❗️❓ https://t.co/cBNJPpCBtK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 100,
+          "like_count": 1529,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 259
+        },
+        "url": "",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T01:43:01.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/n_jyaa",
+                "end": 23,
+                "expanded_url": "http://throne.com/n_jyaa",
+                "start": 0,
+                "url": "https://t.co/u9tP1HHQM2"
+              }
+            ]
+          }
+        },
+        "id": "1963779825304477696",
+        "name": "♪|c0mms open",
+        "pinned_tweet_id": "2034656159085613551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046348905349292033/BXqKgoAA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 233,
+          "like_count": 5835,
+          "listed_count": 6,
+          "media_count": 61,
+          "tweet_count": 1588
+        },
+        "url": "https://t.co/u9tP1HHQM2",
+        "username": "n_jyaa",
+        "verified": false
+      }
+    ]
+  }
+}

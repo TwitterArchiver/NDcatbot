@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2051909623570178152",
+    "created_at": "2026-05-06T06:19:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T07:19:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051909623570178152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XldMtX/status/…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/XldMtX/status/2051903277139398668",
+          "start": 57,
+          "url": "https://t.co/hg3yja06zH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051909623570178152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051903277139398668",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来人给我打点钱吧，我可能是穷疯了 \n我没有原味，穿破的袜子还不能扔 \n我也没有私密照，你只能看到一排排骨而不是胸 https://t.co/hg3yja06zH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2051909623570178152",
+        "created_at": "2026-05-06T06:19:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T07:19:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051909623570178152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XldMtX/status/…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/XldMtX/status/2051903277139398668",
+              "start": 57,
+              "url": "https://t.co/hg3yja06zH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051909623570178152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051903277139398668",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来人给我打点钱吧，我可能是穷疯了 \n我没有原味，穿破的袜子还不能扔 \n我也没有私密照，你只能看到一排排骨而不是胸 https://t.co/hg3yja06zH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "conversation_id": "2051903277139398668",
+        "created_at": "2026-05-06T05:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T06:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051903277139398668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tokerumaisurii…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/tokerumaisurii/status/2051871480921690616",
+              "start": 57,
+              "url": "https://t.co/FiHFlWaDbs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051903277139398668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051871480921690616",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来人给我打点钱吧，我可能是穷疯了 \n我没有原味，穿破的袜子还不能扔 \n我也没有私密照，你只能看到一排排骨而不是胸 https://t.co/FiHFlWaDbs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 95,
+          "like_count": 1398,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 248
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114我恨我@Allenium114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "Allenium114"
+              },
+              {
+                "end": 30,
+                "start": 18,
+                "username": "Allenium114"
+              },
+              {
+                "end": 45,
+                "start": 33,
+                "username": "Allenium114"
+              },
+              {
+                "end": 60,
+                "start": 48,
+                "username": "Allenium114"
+              },
+              {
+                "end": 75,
+                "start": 63,
+                "username": "Allenium114"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "Allenium114"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "Allenium114"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "Allenium114"
+              },
+              {
+                "end": 135,
+                "start": 123,
+                "username": "Allenium114"
+              },
+              {
+                "end": 150,
+                "start": 138,
+                "username": "Allenium114"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+k6R8ZoB6cPMyN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+k6R8ZoB6cPMyN2M1",
+                "start": 0,
+                "url": "https://t.co/3iPzLTBTRw"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "重慶",
+        "name": "🍁🍥翎🍥🍁",
+        "pinned_tweet_id": "2050782009254117680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042113258090528768/f1mH6fZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7205,
+          "following_count": 945,
+          "like_count": 50241,
+          "listed_count": 13,
+          "media_count": 3478,
+          "tweet_count": 29353
+        },
+        "url": "https://t.co/3iPzLTBTRw",
+        "username": "XldMtX",
+        "verified": true
+      }
+    ]
+  }
+}

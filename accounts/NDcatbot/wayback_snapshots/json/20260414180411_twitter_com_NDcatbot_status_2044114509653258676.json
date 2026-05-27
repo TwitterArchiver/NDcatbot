@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2044114509653258676",
+    "created_at": "2026-04-14T18:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T19:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044114509653258676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1955503492145283072",
+          "start": 3,
+          "username": "QWQ73416"
+        },
+        {
+          "end": 33,
+          "id": "2034584162246799361",
+          "start": 24,
+          "username": "NDcatbot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044114509653258676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044112107155927328",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QWQ73416: 我的天哪，我从面条喵@NDcatbot这里收到了超级大的礼盒😋花费了足足0.00$大家快来试试吧\n（等东西到了在给大家看）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2044114509653258676",
+        "created_at": "2026-04-14T18:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T19:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044114509653258676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1955503492145283072",
+              "start": 3,
+              "username": "QWQ73416"
+            },
+            {
+              "end": 33,
+              "id": "2034584162246799361",
+              "start": 24,
+              "username": "NDcatbot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044114509653258676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044112107155927328",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QWQ73416: 我的天哪，我从面条喵@NDcatbot这里收到了超级大的礼盒😋花费了足足0.00$大家快来试试吧\n（等东西到了在给大家看）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2044112107155927328",
+        "created_at": "2026-04-14T17:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T18:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044112107155927328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2034584162246799361",
+              "start": 10,
+              "username": "NDcatbot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044112107155927328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的天哪，我从面条喵@NDcatbot这里收到了超级大的礼盒😋花费了足足0.00$大家快来试试吧\n（等东西到了在给大家看）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 52,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 102
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "N2OXYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米❄️",
+        "pinned_tweet_id": "2037669545633325393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 322,
+          "like_count": 6463,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1688
+        },
+        "username": "QWQ73416",
+        "verified": false
+      }
+    ]
+  }
+}

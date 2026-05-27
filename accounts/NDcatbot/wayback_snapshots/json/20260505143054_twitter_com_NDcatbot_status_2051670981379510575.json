@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2051670981379510575",
+    "created_at": "2026-05-05T14:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T15:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051670981379510575"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kagura_Yukikaz…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Kagura_Yukikaze/status/2051326977790054763",
+          "start": 8,
+          "url": "https://t.co/6bDyN9JpgQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051670981379510575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051326977790054763",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "钱…窝药钱…. https://t.co/6bDyN9JpgQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2051670981379510575",
+        "created_at": "2026-05-05T14:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051670981379510575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kagura_Yukikaz…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Kagura_Yukikaze/status/2051326977790054763",
+              "start": 8,
+              "url": "https://t.co/6bDyN9JpgQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051670981379510575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051326977790054763",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "钱…窝药钱…. https://t.co/6bDyN9JpgQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "2051326977790054763",
+        "created_at": "2026-05-04T15:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T16:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051326977790054763"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051326977790054763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 868,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "钱…窝药钱…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "hyachana"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 86,
+          "like_count": 1063,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 217
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/mULPRvdJlA"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3010,
+          "following_count": 2901,
+          "like_count": 104606,
+          "listed_count": 8,
+          "media_count": 780,
+          "tweet_count": 12735
+        },
+        "url": "https://t.co/mULPRvdJlA",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

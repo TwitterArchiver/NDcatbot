@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2047559510571749666",
+    "created_at": "2026-04-24T06:13:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T07:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047559510571749666"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qusuunmd/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/qusuunmd/status/2046507029431542165",
+          "start": 7,
+          "url": "https://t.co/DfccraeBWr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047559510571749666",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046507029431542165",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想要😭😭 https://t.co/DfccraeBWr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046507020023697408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGanSrbbEAAS2rW.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2047559510571749666",
+        "created_at": "2026-04-24T06:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047559510571749666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qusuunmd/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/qusuunmd/status/2046507029431542165",
+              "start": 7,
+              "url": "https://t.co/DfccraeBWr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047559510571749666",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046507029431542165",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想要😭😭 https://t.co/DfccraeBWr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046507020023697408"
+          ]
+        },
+        "author_id": "1943561677762646016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046507029431542165",
+        "created_at": "2026-04-21T08:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046507029431542165"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X1V3AGCdrW",
+              "end": 48,
+              "expanded_url": "https://x.com/qusuunmd/status/2046507029431542165/photo/1",
+              "media_key": "3_2046507020023697408",
+              "start": 25,
+              "url": "https://t.co/X1V3AGCdrW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046507029431542165",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 78438,
+          "like_count": 756,
+          "quote_count": 2,
+          "reply_count": 45,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "www这个好好看（）就是一套算下来差不多要565 https://t.co/X1V3AGCdrW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 65,
+          "like_count": 579,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 133
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T06:44:29.000Z",
+        "description": "2010年的xyn/167cm 57.5kg（www我要减肥）/hrt🍥时间:2025.8.15/无证含糖🍥/高一牲/有点缺爱/想要贴贴/同类互fo喵/常住于青岛喵/过年会回泉州/穷穷穷 想要钱钱/不抽烟不喝酒不od不割手/不圆角谢谢 勿扰",
+        "id": "1943561677762646016",
+        "location": "Hachinohe-shi, Aomori",
+        "name": "曲速 u🍥",
+        "pinned_tweet_id": "2026888122144010402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025830754715090944/KciDNY7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 288,
+          "like_count": 1738,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 708
+        },
+        "username": "qusuunmd",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038642607635775488"
+      ],
+      "media_source_tweet_id": [
+        "2038642610177552519"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2038865102573912356",
+    "created_at": "2026-03-31T06:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T07:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038865102573912356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1973792014455152640",
+          "start": 3,
+          "username": "TTypezhi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HuZt5q3gIq",
+          "end": 71,
+          "expanded_url": "https://x.com/TTypezhi/status/2038642610177552519/photo/1",
+          "media_key": "3_2038642607635775488",
+          "start": 48,
+          "url": "https://t.co/HuZt5q3gIq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038865102573912356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038642610177552519",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TTypezhi: 唐毓文的威胁:扣货扣钱拿前任隐私威胁😓\n你们还敢找他买也是有了😓😓 https://t.co/HuZt5q3gIq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038642607635775488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEq2poQbQAAmSbJ.jpg",
+        "width": 548
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038642607635775488"
+          ],
+          "media_source_tweet_id": [
+            "2038642610177552519"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038865102573912356",
+        "created_at": "2026-03-31T06:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T07:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038865102573912356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1973792014455152640",
+              "start": 3,
+              "username": "TTypezhi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HuZt5q3gIq",
+              "end": 71,
+              "expanded_url": "https://x.com/TTypezhi/status/2038642610177552519/photo/1",
+              "media_key": "3_2038642607635775488",
+              "start": 48,
+              "url": "https://t.co/HuZt5q3gIq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038865102573912356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038642610177552519",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TTypezhi: 唐毓文的威胁:扣货扣钱拿前任隐私威胁😓\n你们还敢找他买也是有了😓😓 https://t.co/HuZt5q3gIq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038642607635775488"
+          ]
+        },
+        "author_id": "1973792014455152640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038642610177552519",
+        "created_at": "2026-03-30T15:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T16:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038642610177552519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HuZt5q3gIq",
+              "end": 57,
+              "expanded_url": "https://x.com/TTypezhi/status/2038642610177552519/photo/1",
+              "media_key": "3_2038642607635775488",
+              "start": 34,
+              "url": "https://t.co/HuZt5q3gIq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038642610177552519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6084,
+          "like_count": 67,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "唐毓文的威胁:扣货扣钱拿前任隐私威胁😓\n你们还敢找他买也是有了😓😓 https://t.co/HuZt5q3gIq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 39,
+          "like_count": 181,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 46
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T16:47:54.000Z",
+        "description": "🏳️‍⚧️hrt:2025/01/09🍭/She Her/爱哭的小女孩/喜欢贴贴🥰🥰/身高167/持证含糖/好希望跟大家做朋友🥺/常驻湖北/生日20090307现在17喵🥺/永怀大号@zhishi_cook",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "zhishi_cook"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "http://zinet.top",
+                "start": 0,
+                "url": "https://t.co/SDCzGxo8Po"
+              }
+            ]
+          }
+        },
+        "id": "1973792014455152640",
+        "location": "🍥🍥🏳️‍⚧️🏳️‍⚧️",
+        "name": "知式（三代目）🍥🍭🥑🍰",
+        "pinned_tweet_id": "2013112043508035682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973792191043809284/lzew5Epz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2514,
+          "following_count": 1154,
+          "like_count": 64,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 769
+        },
+        "url": "https://t.co/SDCzGxo8Po",
+        "username": "TTypezhi",
+        "verified": true
+      }
+    ]
+  }
+}

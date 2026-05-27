@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053043172012625920"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053004314575307238",
+    "created_at": "2026-05-09T09:23:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T10:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053043174319501403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1755765450707709952",
+          "start": 0,
+          "username": "huajuanshiwo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GhmrJJOpcU",
+          "end": 43,
+          "expanded_url": "https://x.com/NDcatbot/status/2053043174319501403/photo/1",
+          "media_key": "3_2053043172012625920",
+          "start": 20,
+          "url": "https://t.co/GhmrJJOpcU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053043174319501403",
+    "in_reply_to_user_id": "1755765450707709952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053004314575307238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajuanshiwo 我也收到了 https://t.co/GhmrJJOpcU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2053043172012625920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3f4zBakAAz88k.png",
+        "width": 534
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053004307159756800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH28ikKasAAydQE.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053043172012625920"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053004314575307238",
+        "created_at": "2026-05-09T09:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053043174319501403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755765450707709952",
+              "start": 0,
+              "username": "huajuanshiwo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GhmrJJOpcU",
+              "end": 43,
+              "expanded_url": "https://x.com/NDcatbot/status/2053043174319501403/photo/1",
+              "media_key": "3_2053043172012625920",
+              "start": 20,
+              "url": "https://t.co/GhmrJJOpcU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053043174319501403",
+        "in_reply_to_user_id": "1755765450707709952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053004314575307238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajuanshiwo 我也收到了 https://t.co/GhmrJJOpcU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053004307159756800"
+          ]
+        },
+        "author_id": "1755765450707709952",
+        "conversation_id": "2053004314575307238",
+        "created_at": "2026-05-09T06:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053004314575307238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1E9Nws7XgA",
+              "end": 28,
+              "expanded_url": "https://x.com/huajuanshiwo/status/2053004314575307238/photo/1",
+              "media_key": "3_2053004307159756800",
+              "start": 5,
+              "url": "https://t.co/1E9Nws7XgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053004314575307238",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 230,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一眼假… https://t.co/1E9Nws7XgA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 111,
+          "like_count": 2190,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 371
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T01:28:44.000Z",
+        "description": "じゅかい｜厉害的生命也会露出茫然的神色吗?｜雄性｜16岁｜文具控 术力口 科技食品爱好者｜里推@shuhaishiwo｜老公@sharksovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 47,
+                "username": "shuhaishiwo"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "sharksovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/vUdsXWw2h5",
+                "end": 23,
+                "expanded_url": "https://xhslink.com/m/vUdsXWw2h5",
+                "start": 0,
+                "url": "https://t.co/DeDtrCIx26"
+              }
+            ]
+          }
+        },
+        "id": "1755765450707709952",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "2051657958724075974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050780675603853312/8O0XU3en_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2287,
+          "following_count": 2293,
+          "like_count": 53226,
+          "listed_count": 6,
+          "media_count": 1970,
+          "tweet_count": 12054
+        },
+        "url": "https://t.co/DeDtrCIx26",
+        "username": "huajuanshiwo",
+        "verified": false
+      }
+    ]
+  }
+}

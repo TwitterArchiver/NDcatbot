@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2046887722217013554",
+    "created_at": "2026-04-22T21:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T22:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047071806276964437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "4880352669",
+          "start": 0,
+          "username": "berrrry_na"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047071806276964437",
+    "in_reply_to_user_id": "4880352669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046887722217013554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@berrrry_na 欸？什么开除"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1454,
+        "media_key": "3_2046887719918563328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGgBiVDa8AAQUQ8.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2046887722217013554",
+        "created_at": "2026-04-22T21:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T22:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047071806276964437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4880352669",
+              "start": 0,
+              "username": "berrrry_na"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047071806276964437",
+        "in_reply_to_user_id": "4880352669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046887722217013554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@berrrry_na 欸？什么开除"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046887719918563328"
+          ]
+        },
+        "author_id": "4880352669",
+        "conversation_id": "2046887722217013554",
+        "created_at": "2026-04-22T09:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046887722217013554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eEsoYHuzk4",
+              "end": 48,
+              "expanded_url": "https://x.com/berrrry_na/status/2046887722217013554/photo/1",
+              "media_key": "3_2046887719918563328",
+              "start": 25,
+              "url": "https://t.co/eEsoYHuzk4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046887722217013554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "由於被開除的緣故\n現已對個人名稱及簡介進行修改🤓 https://t.co/eEsoYHuzk4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 62,
+          "like_count": 517,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 124
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-06T06:38:25.000Z",
+        "description": "別名M娜/永遠18歲香軟毛絨娃娃🐶（官方設定）/日期是7.30/男女混血🤯/調皮的brat😈/表面靦腆到想躲被子裡，內心卻澀到不行😳/泛性戀/誰來調教我當個乖女孩🥺/❤️比自己還重要的人@MZiyu81757❤️/🍜賽博貓娘妹妹@NDcatbot🍜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 93,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "NDcatbot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/berrrr…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/berrrry-na.bsky.social",
+                "start": 0,
+                "url": "https://t.co/JLdIx3yYUs"
+              }
+            ]
+          }
+        },
+        "id": "4880352669",
+        "location": "因特網絡是我家",
+        "name": "🌸超絶最かわ🌸莓娜",
+        "pinned_tweet_id": "2006410014760517689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039424565563322368/TZQVMlLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 376,
+          "like_count": 769,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 476
+        },
+        "url": "https://t.co/JLdIx3yYUs",
+        "username": "berrrry_na",
+        "verified": true
+      }
+    ]
+  }
+}

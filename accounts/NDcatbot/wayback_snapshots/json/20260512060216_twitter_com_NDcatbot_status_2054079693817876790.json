@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053794284709826561",
+        "3_2053794284730798080"
+      ],
+      "media_source_tweet_id": [
+        "2053794291793924521",
+        "2053794291793924521"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2054079693817876790",
+    "created_at": "2026-05-12T06:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T07:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054079693817876790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1701484460250890240",
+          "start": 3,
+          "username": "SonogamiRinneTS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/N1jW9NsFfs",
+          "end": 133,
+          "expanded_url": "https://x.com/SonogamiRinneTS/status/2053794291793924521/photo/1",
+          "media_key": "3_2053794284709826561",
+          "start": 110,
+          "url": "https://t.co/N1jW9NsFfs"
+        },
+        {
+          "display_url": "pic.x.com/N1jW9NsFfs",
+          "end": 133,
+          "expanded_url": "https://x.com/SonogamiRinneTS/status/2053794291793924521/photo/1",
+          "media_key": "3_2053794284730798080",
+          "start": 110,
+          "url": "https://t.co/N1jW9NsFfs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054079693817876790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053794291793924521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SonogamiRinneTS: 666，我下午五点多转发并评论一个曝光戒网瘾学校的帖子，文字内容大概是“这种黑社会组织能长期存在，背后肯定有保护伞”，然后过了不到一小时就说我动态违规给删了，说涉及不适宜内容😅 https://t.co/N1jW9NsFfs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 875,
+        "media_key": "3_2053794284709826561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICLBT3bUAE9cM_.jpg",
+        "width": 1282
+      },
+      {
+        "height": 1460,
+        "media_key": "3_2053794284730798080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICLBT8bUAAMfdK.jpg",
+        "width": 1282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053794284709826561",
+            "3_2053794284730798080"
+          ],
+          "media_source_tweet_id": [
+            "2053794291793924521",
+            "2053794291793924521"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2054079693817876790",
+        "created_at": "2026-05-12T06:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054079693817876790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1701484460250890240",
+              "start": 3,
+              "username": "SonogamiRinneTS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N1jW9NsFfs",
+              "end": 133,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2053794291793924521/photo/1",
+              "media_key": "3_2053794284709826561",
+              "start": 110,
+              "url": "https://t.co/N1jW9NsFfs"
+            },
+            {
+              "display_url": "pic.x.com/N1jW9NsFfs",
+              "end": 133,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2053794291793924521/photo/1",
+              "media_key": "3_2053794284730798080",
+              "start": 110,
+              "url": "https://t.co/N1jW9NsFfs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054079693817876790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053794291793924521",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SonogamiRinneTS: 666，我下午五点多转发并评论一个曝光戒网瘾学校的帖子，文字内容大概是“这种黑社会组织能长期存在，背后肯定有保护伞”，然后过了不到一小时就说我动态违规给删了，说涉及不适宜内容😅 https://t.co/N1jW9NsFfs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053794284709826561",
+            "3_2053794284730798080"
+          ]
+        },
+        "author_id": "1701484460250890240",
+        "conversation_id": "2053794291793924521",
+        "created_at": "2026-05-11T11:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053794291793924521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N1jW9NsFfs",
+              "end": 112,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2053794291793924521/photo/1",
+              "media_key": "3_2053794284709826561",
+              "start": 89,
+              "url": "https://t.co/N1jW9NsFfs"
+            },
+            {
+              "display_url": "pic.x.com/N1jW9NsFfs",
+              "end": 112,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2053794291793924521/photo/1",
+              "media_key": "3_2053794284730798080",
+              "start": 89,
+              "url": "https://t.co/N1jW9NsFfs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053794291793924521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3307,
+          "like_count": 105,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "666，我下午五点多转发并评论一个曝光戒网瘾学校的帖子，文字内容大概是“这种黑社会组织能长期存在，背后肯定有保护伞”，然后过了不到一小时就说我动态违规给删了，说涉及不适宜内容😅 https://t.co/N1jW9NsFfs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 116,
+          "like_count": 2615,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 430
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4417,
+          "following_count": 3372,
+          "like_count": 1289,
+          "listed_count": 17,
+          "media_count": 242,
+          "tweet_count": 1661
+        },
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

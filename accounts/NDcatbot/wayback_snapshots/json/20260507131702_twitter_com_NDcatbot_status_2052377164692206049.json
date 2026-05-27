@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2052377164692206049",
+    "created_at": "2026-05-07T13:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T14:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052377164692206049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1974380290031132672",
+          "start": 3,
+          "username": "kawail_Yachiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052377164692206049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051980338079973415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kawail_Yachiyo: 这种父母就是个傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2052377164692206049",
+        "created_at": "2026-05-07T13:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052377164692206049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1974380290031132672",
+              "start": 3,
+              "username": "kawail_Yachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052377164692206049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051980338079973415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kawail_Yachiyo: 这种父母就是个傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974380290031132672",
+        "conversation_id": "2051980338079973415",
+        "created_at": "2026-05-06T11:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051980338079973415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ST_Bed0721/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/ST_Bed0721/status/2051600861466611761",
+              "start": 10,
+              "url": "https://t.co/OyiW5YNhJK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051980338079973415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051600861466611761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种父母就是个傻逼 https://t.co/OyiW5YNhJK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 104,
+          "like_count": 1763,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 310
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T07:45:32.000Z",
+        "description": "一只🐱 | 八年級初中生｜中度抑鬱症｜活躍度不佳，不一定即時互fo｜pepoyo粉絲｜成分正常可互fo｜全力支持LGBTQ+ 社區｜聯繫我：lzeyu2811@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lzy-u4q",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@lzy-u4q",
+                "start": 0,
+                "url": "https://t.co/uMYDt9bCGN"
+              }
+            ]
+          }
+        },
+        "id": "1974380290031132672",
+        "location": "仮想空間＜ツクヨミ＞",
+        "name": "PPY@推八千代🍥",
+        "pinned_tweet_id": "2051885069829083158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050583838754025472/N2MYQSUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 432,
+          "like_count": 2035,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 439
+        },
+        "url": "https://t.co/uMYDt9bCGN",
+        "username": "kawail_Yachiyo",
+        "verified": false
+      }
+    ]
+  }
+}

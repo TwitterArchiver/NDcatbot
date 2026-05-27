@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2054087465485643933",
+    "created_at": "2026-05-12T06:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T07:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054087465485643933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811265295849598976",
+          "start": 3,
+          "username": "KiraMyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054087465485643933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053886276194238588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KiraMyao: “何为正确？”🧐\n​如果是这惨白的瓷砖墙，那么：\n​2026，在这片土地上的医院里，他们堂而皇之地将代表着关怀的红丝带🎗扭曲成尖刀，刺向那些无辜的恋人们。\n​“坚持正确的性取向” ——\n一个人，仅仅只是爱上了另一个相似的人，仅仅只是表达真实的情感，就…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2054087465485643933",
+        "created_at": "2026-05-12T06:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054087465485643933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811265295849598976",
+              "start": 3,
+              "username": "KiraMyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054087465485643933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053886276194238588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KiraMyao: “何为正确？”🧐\n​如果是这惨白的瓷砖墙，那么：\n​2026，在这片土地上的医院里，他们堂而皇之地将代表着关怀的红丝带🎗扭曲成尖刀，刺向那些无辜的恋人们。\n​“坚持正确的性取向” ——\n一个人，仅仅只是爱上了另一个相似的人，仅仅只是表达真实的情感，就…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811265295849598976",
+        "conversation_id": "2053886276194238588",
+        "created_at": "2026-05-11T17:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T18:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053886276194238588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sabrina8964/st…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/Sabrina8964/status/2053778269187735824",
+              "start": 151,
+              "url": "https://t.co/xr95am14nt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053886276194238588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“何为正确？”🧐\n​如果是这惨白的瓷砖墙，那么：\n​2026，在这片土地上的医院里，他们堂而皇之地将代表着关怀的红丝带🎗扭曲成尖刀，刺向那些无辜的恋人们。\n​“坚持正确的性取向” ——\n一个人，仅仅只是爱上了另一个相似的人，仅仅只是表达真实的情感，就要被全盘否定、定性为“不正确”，这难道不荒谬吗？！\n​多少人在终于认清自己灵魂的那一天，等来的不是解脱，而是在暗夜里绝望地哭泣与他人歇斯底里的指责…💔\n​医学界早就将同性恋与跨性别从疾病目录中彻底剔除。可悲的是，在这堵傲慢的高墙之下，TA们依旧是一群连在阳光下自然牵手都要提心吊胆的、被“正确”二字压得生生折断了翅膀、再也飞不起来的……飞鸟。🕊\n​\n​“任何试图改变性倾向或性别认同的做法，在医学上毫无依据、无效且残暴…”\n——联合国 IE SOGI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1508,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053778269187735824",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“何为正确？”🧐\n​如果是这惨白的瓷砖墙，那么：\n​2026，在这片土地上的医院里，他们堂而皇之地将代表着关怀的红丝带🎗扭曲成尖刀，刺向那些无辜的恋人们。\n​“坚持正确的性取向” ——\n一个人，仅仅只是爱上了另一个相似的人，仅仅只是表达真实的情感，就要被全盘否定、定性为“不正确”，这难道不荒谬吗？！ https://t.co/xr95am14nt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "hyachana"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "berrrry_na"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 116,
+          "like_count": 2634,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 431
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "equal.kiramayo.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://equal.kiramayo.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/HY2O2A4Kqa"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "location": "Japan",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2043007235786445150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 358,
+          "like_count": 9618,
+          "listed_count": 3,
+          "media_count": 379,
+          "tweet_count": 1556
+        },
+        "url": "https://t.co/HY2O2A4Kqa",
+        "username": "KiraMyao",
+        "verified": true
+      }
+    ]
+  }
+}

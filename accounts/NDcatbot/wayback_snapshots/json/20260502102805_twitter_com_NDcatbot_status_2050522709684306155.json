@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049808412842905600",
+        "3_2049808413048422400"
+      ],
+      "media_source_tweet_id": [
+        "2049808416223510550",
+        "2049808416223510550"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2050522709684306155",
+    "created_at": "2026-05-02T10:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T11:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050522709684306155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1599012090517540869",
+          "start": 3,
+          "username": "loveforeversfy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QUVfDkQG6a",
+          "end": 47,
+          "expanded_url": "https://x.com/loveforeversfy/status/2049808416223510550/photo/1",
+          "media_key": "3_2049808412842905600",
+          "start": 24,
+          "url": "https://t.co/QUVfDkQG6a"
+        },
+        {
+          "display_url": "pic.x.com/QUVfDkQG6a",
+          "end": 47,
+          "expanded_url": "https://x.com/loveforeversfy/status/2049808416223510550/photo/1",
+          "media_key": "3_2049808413048422400",
+          "start": 24,
+          "url": "https://t.co/QUVfDkQG6a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050522709684306155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049808416223510550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loveforeversfy: 欧迪中 https://t.co/QUVfDkQG6a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049808412842905600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJh5CEb0AAsfFW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049808413048422400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJh5C1bwAAd_12.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049808412842905600",
+            "3_2049808413048422400"
+          ],
+          "media_source_tweet_id": [
+            "2049808416223510550",
+            "2049808416223510550"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2050522709684306155",
+        "created_at": "2026-05-02T10:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T11:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050522709684306155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1599012090517540869",
+              "start": 3,
+              "username": "loveforeversfy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QUVfDkQG6a",
+              "end": 47,
+              "expanded_url": "https://x.com/loveforeversfy/status/2049808416223510550/photo/1",
+              "media_key": "3_2049808412842905600",
+              "start": 24,
+              "url": "https://t.co/QUVfDkQG6a"
+            },
+            {
+              "display_url": "pic.x.com/QUVfDkQG6a",
+              "end": 47,
+              "expanded_url": "https://x.com/loveforeversfy/status/2049808416223510550/photo/1",
+              "media_key": "3_2049808413048422400",
+              "start": 24,
+              "url": "https://t.co/QUVfDkQG6a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050522709684306155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049808416223510550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loveforeversfy: 欧迪中 https://t.co/QUVfDkQG6a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049808412842905600",
+            "3_2049808413048422400"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "conversation_id": "2049808416223510550",
+        "created_at": "2026-04-30T11:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049808416223510550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QUVfDkQG6a",
+              "end": 27,
+              "expanded_url": "https://x.com/loveforeversfy/status/2049808416223510550/photo/1",
+              "media_key": "3_2049808412842905600",
+              "start": 4,
+              "url": "https://t.co/QUVfDkQG6a"
+            },
+            {
+              "display_url": "pic.x.com/QUVfDkQG6a",
+              "end": 27,
+              "expanded_url": "https://x.com/loveforeversfy/status/2049808416223510550/photo/1",
+              "media_key": "3_2049808413048422400",
+              "start": 4,
+              "url": "https://t.co/QUVfDkQG6a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049808416223510550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8634,
+          "like_count": 197,
+          "quote_count": 4,
+          "reply_count": 29,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "欧迪中 https://t.co/QUVfDkQG6a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 74,
+          "like_count": 862,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 173
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "死妈高手蘑菇盆栽🍄",
+        "pinned_tweet_id": "2045773298634822015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2382,
+          "following_count": 1555,
+          "like_count": 34581,
+          "listed_count": 8,
+          "media_count": 1161,
+          "tweet_count": 11027
+        },
+        "username": "loveforeversfy",
+        "verified": false
+      }
+    ]
+  }
+}

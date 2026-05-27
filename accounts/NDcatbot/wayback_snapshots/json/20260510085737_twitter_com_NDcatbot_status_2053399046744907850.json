@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2053399046744907850",
+    "created_at": "2026-05-10T08:57:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T09:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053399046744907850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1489468526826082312",
+          "start": 3,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053399046744907850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053190342107619504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Diamond_Kokoro: 你们好搞笑，可以随便消费别人的感情然后用一句“社会实验”来辩解么？那些为你的死讯难过、对你说的东西动情的人，有知情同意过成为你的实验的对象么？你的实验为被试者提供任何福祉了吗？你有没有想过有人知道你的死讯太难过自伤自杀怎么办？伤害完别人的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2053399046744907850",
+        "created_at": "2026-05-10T08:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T09:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053399046744907850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1489468526826082312",
+              "start": 3,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053399046744907850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053190342107619504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Diamond_Kokoro: 你们好搞笑，可以随便消费别人的感情然后用一句“社会实验”来辩解么？那些为你的死讯难过、对你说的东西动情的人，有知情同意过成为你的实验的对象么？你的实验为被试者提供任何福祉了吗？你有没有想过有人知道你的死讯太难过自伤自杀怎么办？伤害完别人的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2053190342107619504",
+        "created_at": "2026-05-09T19:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T20:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053190342107619504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/loveforeversfy…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/loveforeversfy/status/2053150369153503523",
+              "start": 142,
+              "url": "https://t.co/pMqOYpZoDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053190342107619504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你们好搞笑，可以随便消费别人的感情然后用一句“社会实验”来辩解么？那些为你的死讯难过、对你说的东西动情的人，有知情同意过成为你的实验的对象么？你的实验为被试者提供任何福祉了吗？你有没有想过有人知道你的死讯太难过自伤自杀怎么办？伤害完别人的感情然后一击脱离、美美脱罪，只能证明你是个不敢为自己的行为负责的懦弱鬼，少找高大上的理论为自己辩护，我觉得恶心。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1970,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053150369153503523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们好搞笑，可以随便消费别人的感情然后用一句“社会实验”来辩解么？那些为你的死讯难过、对你说的东西动情的人，有知情同意过成为你的实验的对象么？你的实验为被试者提供任何福祉了吗？你有没有想过有人知道你的死讯太难过自伤自杀怎么办？伤害完别人的感情然后一击脱离、美美脱罪，只能证明你是个不 https://t.co/pMqOYpZoDn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 112,
+          "like_count": 2393,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 397
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "🏳️‍🌈｜@irisdesombres 的忠犬，祂的命令就是我的愿望。\n我的爱人是无性别者，请不要在任何维度评价我的爱人像男人/像女人、不要揣度其指派性别和任何未主动展示的生理构造，这非常冒犯。谢谢。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 5,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "石榴花丛中",
+        "name": "小羽",
+        "pinned_tweet_id": "2048784423957778816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051166868161880064/S0zFnTWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 109,
+          "like_count": 5616,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 3915
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

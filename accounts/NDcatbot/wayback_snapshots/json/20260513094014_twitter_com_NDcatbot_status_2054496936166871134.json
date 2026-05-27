@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2054496936166871134",
+    "created_at": "2026-05-13T09:40:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T10:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054496936166871134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1622066090074607616",
+          "start": 3,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054496936166871134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054427640623460575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinofujivy: 离开你才知道，原来项圈是给宠物用的，狗链子是用来栓狗的，原来绳子用来绑人是犯法的，原来皮鞭是可以用来赶羊的，围裙底下是要穿衣服的，浴室是用来清理身体的，洗澡是为了保持身体干净的，洗了一遍之后是不需要再洗第二遍第三遍的，洗澡是可以一个人洗的，…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 896,
+        "media_key": "3_2054427608633503744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILLBnVa8AAJ-zj.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2054496936166871134",
+        "created_at": "2026-05-13T09:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054496936166871134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1622066090074607616",
+              "start": 3,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054496936166871134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054427640623460575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinofujivy: 离开你才知道，原来项圈是给宠物用的，狗链子是用来栓狗的，原来绳子用来绑人是犯法的，原来皮鞭是可以用来赶羊的，围裙底下是要穿衣服的，浴室是用来清理身体的，洗澡是为了保持身体干净的，洗了一遍之后是不需要再洗第二遍第三遍的，洗澡是可以一个人洗的，…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054427608633503744"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "conversation_id": "2054427640623460575",
+        "created_at": "2026-05-13T05:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054427640623460575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tpEGe2pwdc",
+              "end": 164,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2054427640623460575/photo/1",
+              "media_key": "3_2054427608633503744",
+              "start": 141,
+              "url": "https://t.co/tpEGe2pwdc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054427640623460575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "离开你才知道，原来项圈是给宠物用的，狗链子是用来栓狗的，原来绳子用来绑人是犯法的，原来皮鞭是可以用来赶羊的，围裙底下是要穿衣服的，浴室是用来清理身体的，洗澡是为了保持身体干净的，洗了一遍之后是不需要再洗第二遍第三遍的，洗澡是可以一个人洗的，床是卧室是用来休息的，厨房是用来做饭的，胡萝卜我是可以吃的，床是用来睡觉的，床单被子是不需要到半夜就换一床的，床前是不用安装摄像机的，电视是可以播放节目的，电视里也可以有其它人的，沙发是用来坐的，我在夜里是可以睡觉的，白天和黑夜是不一样的，回到房间是不需要脱衣服的，手机有消息是不需要1分钟之内报备的，手机是可以有其他联系人的，我也是可以和其他人说话的"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 3520,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "离开你才知道，原来项圈是给宠物用的，狗链子是用来栓狗的，原来绳子用来绑人是犯法的，原来皮鞭是可以用来赶羊的，围裙底下是要穿衣服的，浴室是用来清理身体的，洗澡是为了保持身体干净的，洗了一遍之后是不需要再洗第二遍第三遍的，洗澡是可以一个人洗的，床是卧室是用来休息的，厨房是用来做饭的， https://t.co/tpEGe2pwdc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 117,
+          "like_count": 2784,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 449
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜小奈天使@KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 116,
+                "start": 103,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10741,
+          "following_count": 4295,
+          "like_count": 45784,
+          "listed_count": 35,
+          "media_count": 2208,
+          "tweet_count": 13683
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

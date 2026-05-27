@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2054853444364808699",
+    "created_at": "2026-05-14T09:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T10:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054853444364808699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054853444364808699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054822422759743630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 今日份信息速报:\n经核实本次新闻报道的孩子\n曾被送入山东民威教育\n因性格内向遭受严重得虐待与伤害\n后回到家后换上了严重的创伤应激障碍以及精神问题\n于八日前其父认为这是在装病\n就威胁再把孩子送回去\n受害者于极度恐慌中离家出走\n遂跳河自杀……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054822419068747776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQyGm0aAAAfhhX.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2054853444364808699",
+        "created_at": "2026-05-14T09:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054853444364808699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054853444364808699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054822422759743630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 今日份信息速报:\n经核实本次新闻报道的孩子\n曾被送入山东民威教育\n因性格内向遭受严重得虐待与伤害\n后回到家后换上了严重的创伤应激障碍以及精神问题\n于八日前其父认为这是在装病\n就威胁再把孩子送回去\n受害者于极度恐慌中离家出走\n遂跳河自杀……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054822419068747776"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2054822422759743630",
+        "created_at": "2026-05-14T07:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054822422759743630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h6C5vAfjec",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2054822422759743630/photo/1",
+              "media_key": "3_2054822419068747776",
+              "start": 144,
+              "url": "https://t.co/h6C5vAfjec"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2054813304158306484",
+              "start": 168,
+              "url": "https://t.co/QnNFHwdTFU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054822422759743630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7804,
+          "like_count": 129,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054813304158306484",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今日份信息速报:\n经核实本次新闻报道的孩子\n曾被送入山东民威教育\n因性格内向遭受严重得虐待与伤害\n后回到家后换上了严重的创伤应激障碍以及精神问题\n于八日前其父认为这是在装病\n就威胁再把孩子送回去\n受害者于极度恐慌中离家出走\n遂跳河自杀…\n尸体打捞上来时已呈现巨人观\n又一个被逼死的孩子… https://t.co/h6C5vAfjec https://t.co/QnNFHwdTFU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 118,
+          "like_count": 2920,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 464
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5041,
+          "following_count": 2772,
+          "like_count": 2746,
+          "listed_count": 18,
+          "media_count": 413,
+          "tweet_count": 2732
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

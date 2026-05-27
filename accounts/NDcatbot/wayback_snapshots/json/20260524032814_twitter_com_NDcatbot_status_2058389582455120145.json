@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2058389582455120145",
+    "created_at": "2026-05-24T03:28:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T04:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058389582455120145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1918857660835020800",
+          "start": 3,
+          "username": "mji1627885"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058389582455120145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058118185304670288",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mji1627885: 性欲特别强的时候一边自慰一边下单了一个新的小玩具，结束之后进入贤者模式把小玩具退了，挽救了两百块钱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2058389582455120145",
+        "created_at": "2026-05-24T03:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T04:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058389582455120145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1918857660835020800",
+              "start": 3,
+              "username": "mji1627885"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058389582455120145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058118185304670288",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mji1627885: 性欲特别强的时候一边自慰一边下单了一个新的小玩具，结束之后进入贤者模式把小玩具退了，挽救了两百块钱。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918857660835020800",
+        "conversation_id": "2058118185304670288",
+        "created_at": "2026-05-23T09:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058118185304670288"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058118185304670288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 233102,
+          "like_count": 2306,
+          "quote_count": 18,
+          "reply_count": 338,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "性欲特别强的时候一边自慰一边下单了一个新的小玩具，结束之后进入贤者模式把小玩具退了，挽救了两百块钱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 126,
+          "like_count": 3753,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 588
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T02:38:19.000Z",
+        "description": "想被女人操。",
+        "id": "1918857660835020800",
+        "name": "恨",
+        "pinned_tweet_id": "2056935059790483709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053764890670796800/2zcvYowU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 536,
+          "like_count": 4419,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 144
+        },
+        "username": "mji1627885",
+        "verified": false
+      }
+    ]
+  }
+}

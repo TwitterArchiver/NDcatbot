@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054276910402969600"
+      ],
+      "media_source_tweet_id": [
+        "2054276926290960872"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2054399229586464835",
+    "created_at": "2026-05-13T03:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T04:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054399229586464835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863439189909618688",
+          "start": 3,
+          "username": "hsn8086xe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aoCKNYzUa4",
+          "end": 48,
+          "expanded_url": "https://x.com/hsn8086xe/status/2054276926290960872/photo/1",
+          "media_key": "3_2054276910402969600",
+          "start": 25,
+          "url": "https://t.co/aoCKNYzUa4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054399229586464835",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054276926290960872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086xe: id: 20417 https://t.co/aoCKNYzUa4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1726,
+        "media_key": "3_2054276910402969600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIJB90rbIAA349w.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054276910402969600"
+          ],
+          "media_source_tweet_id": [
+            "2054276926290960872"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2054399229586464835",
+        "created_at": "2026-05-13T03:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054399229586464835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863439189909618688",
+              "start": 3,
+              "username": "hsn8086xe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aoCKNYzUa4",
+              "end": 48,
+              "expanded_url": "https://x.com/hsn8086xe/status/2054276926290960872/photo/1",
+              "media_key": "3_2054276910402969600",
+              "start": 25,
+              "url": "https://t.co/aoCKNYzUa4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054399229586464835",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054276926290960872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086xe: id: 20417 https://t.co/aoCKNYzUa4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054276910402969600"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2054276926290960872",
+        "created_at": "2026-05-12T19:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T20:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054276926290960872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aoCKNYzUa4",
+              "end": 33,
+              "expanded_url": "https://x.com/hsn8086xe/status/2054276926290960872/photo/1",
+              "media_key": "3_2054276910402969600",
+              "start": 10,
+              "url": "https://t.co/aoCKNYzUa4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054276926290960872",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 67624,
+          "like_count": 826,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "id: 20417 https://t.co/aoCKNYzUa4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 117,
+          "like_count": 2724,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 441
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36172,
+          "following_count": 372,
+          "like_count": 227,
+          "listed_count": 103,
+          "media_count": 13774,
+          "tweet_count": 13852
+        },
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

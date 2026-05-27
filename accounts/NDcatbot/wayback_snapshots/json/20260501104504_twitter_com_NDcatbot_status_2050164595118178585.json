@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2050164595118178585",
+    "created_at": "2026-05-01T10:45:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T11:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050164595118178585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/juhao0721/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/juhao0721/status/2050050032477557204",
+          "start": 3,
+          "url": "https://t.co/c0Haw3Lei9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050164595118178585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050050032477557204",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这我 https://t.co/c0Haw3Lei9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1680,
+        "media_key": "3_2050050017181024257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHM9oQXbwAEgAPn.jpg",
+        "width": 1259
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2050164595118178585",
+        "created_at": "2026-05-01T10:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050164595118178585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/juhao0721/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/juhao0721/status/2050050032477557204",
+              "start": 3,
+              "url": "https://t.co/c0Haw3Lei9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050164595118178585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050050032477557204",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这我 https://t.co/c0Haw3Lei9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050050017181024257"
+          ]
+        },
+        "author_id": "1919296206381170688",
+        "conversation_id": "2050050032477557204",
+        "created_at": "2026-05-01T03:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T04:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050050032477557204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WSKMe3L9fT",
+              "end": 28,
+              "expanded_url": "https://x.com/juhao0721/status/2050050032477557204/photo/1",
+              "media_key": "3_2050050017181024257",
+              "start": 5,
+              "url": "https://t.co/WSKMe3L9fT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050050032477557204",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 584,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哪位推u https://t.co/WSKMe3L9fT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 72,
+          "like_count": 749,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 157
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T07:42:19.000Z",
+        "description": "有舞萌DX附近的吗\n♥️@Allenium114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "Allenium114"
+              }
+            ]
+          }
+        },
+        "id": "1919296206381170688",
+        "location": "重庆",
+        "name": "蛤基句",
+        "pinned_tweet_id": "1988833019495375171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965438456919957504/fGrs8E0__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4240,
+          "following_count": 111,
+          "like_count": 2729,
+          "listed_count": 8,
+          "media_count": 276,
+          "tweet_count": 1252
+        },
+        "username": "juhao0721",
+        "verified": false
+      }
+    ]
+  }
+}

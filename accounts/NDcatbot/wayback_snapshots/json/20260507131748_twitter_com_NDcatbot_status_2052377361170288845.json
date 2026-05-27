@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2052377361170288845",
+    "created_at": "2026-05-07T13:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T14:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052377361170288845"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RailhamChiMing…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/RailhamChiMing/status/2052069977667334151",
+          "start": 20,
+          "url": "https://t.co/nCDBt8fsLF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052377361170288845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052069977667334151",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吃了愈美尿会有愈美那个味 但是精液没有 https://t.co/nCDBt8fsLF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2052377361170288845",
+        "created_at": "2026-05-07T13:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052377361170288845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RailhamChiMing…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/RailhamChiMing/status/2052069977667334151",
+              "start": 20,
+              "url": "https://t.co/nCDBt8fsLF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052377361170288845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052069977667334151",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃了愈美尿会有愈美那个味 但是精液没有 https://t.co/nCDBt8fsLF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1670705567688704001",
+        "conversation_id": "2052069977667334151",
+        "created_at": "2026-05-06T16:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052069977667334151"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052069977667334151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3691,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喝了伏特加尿道会有一种奇妙的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 104,
+          "like_count": 1763,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 311
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-19T08:11:28.000Z",
+        "description": "不要随便划分我的成分喵/RHS腐竹/168 57 0.5/俄留子/双形态/猫/上白沢慧音/🚅進化清洲兄弟/历史/诗词创作/舞萌w5星星批/巧克力/深夜陪聊/中推生态观察者/空谈误国，实干兴邦/本人关注列表不代表本人立场/瑞汉语推：@RoyhanChyMinh/小🐱:@Forth_0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 115,
+                "username": "RoyhanChyMinh"
+              },
+              {
+                "end": 141,
+                "start": 133,
+                "username": "Forth_0"
+              }
+            ]
+          }
+        },
+        "id": "1670705567688704001",
+        "location": "瑞汉服务器 迟家镇 昭地辖区 瑞汉铁路办大学 国际教育学院",
+        "name": "瑞汉迟铭(Рейлхам Чи Мин)",
+        "pinned_tweet_id": "2035043236851720353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023787911364440070/W9zF1wwZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2254,
+          "following_count": 1156,
+          "like_count": 33782,
+          "listed_count": 8,
+          "media_count": 1744,
+          "tweet_count": 15202
+        },
+        "username": "RailhamChiMing",
+        "verified": false
+      }
+    ]
+  }
+}

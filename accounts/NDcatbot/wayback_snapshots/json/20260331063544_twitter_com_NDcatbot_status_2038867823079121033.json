@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2038867823079121033",
+    "created_at": "2026-03-31T06:35:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T07:35:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038867823079121033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1810873766119100416",
+          "start": 3,
+          "username": "RainBuild_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038867823079121033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038233746755948881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainBuild_2024: 从下班最后关掉电脑的那一刻开始，就已经意味着我这一年半的小米生涯也算是彻底结束了，在过去的一年半里，我为米家创造了130w的业绩，拿到了小米Master证书，从普通成员做到门店主理人，这一路走过来经历了太多的不容易，如若有缘，将有一天我会…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1772,
+        "media_key": "3_2038233743283154944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HElCyl2bcAAUJLW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2038867823079121033",
+        "created_at": "2026-03-31T06:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T07:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038867823079121033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1810873766119100416",
+              "start": 3,
+              "username": "RainBuild_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038867823079121033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038233746755948881",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainBuild_2024: 从下班最后关掉电脑的那一刻开始，就已经意味着我这一年半的小米生涯也算是彻底结束了，在过去的一年半里，我为米家创造了130w的业绩，拿到了小米Master证书，从普通成员做到门店主理人，这一路走过来经历了太多的不容易，如若有缘，将有一天我会…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038233743283154944"
+          ]
+        },
+        "author_id": "1810873766119100416",
+        "conversation_id": "2038233746755948881",
+        "created_at": "2026-03-29T12:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T13:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038233746755948881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jGCnqsHMW0",
+              "end": 147,
+              "expanded_url": "https://x.com/RainBuild_2024/status/2038233746755948881/photo/1",
+              "media_key": "3_2038233743283154944",
+              "start": 124,
+              "url": "https://t.co/jGCnqsHMW0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038233746755948881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 64884,
+          "like_count": 449,
+          "quote_count": 2,
+          "reply_count": 42,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "从下班最后关掉电脑的那一刻开始，就已经意味着我这一年半的小米生涯也算是彻底结束了，在过去的一年半里，我为米家创造了130w的业绩，拿到了小米Master证书，从普通成员做到门店主理人，这一路走过来经历了太多的不容易，如若有缘，将有一天我会重回米家 https://t.co/jGCnqsHMW0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 39,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 47
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/Android ROM开发/产品项目运营/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/PM前请征得同意否则Ban/GMT+8/上一个账号@RainEngine2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 91,
+                "username": "RainEngine2024"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "晴日向🍥",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035649404812853248/cnSm6sUs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9318,
+          "following_count": 881,
+          "like_count": 67039,
+          "listed_count": 18,
+          "media_count": 1414,
+          "tweet_count": 9853
+        },
+        "username": "RainBuild_2024",
+        "verified": true
+      }
+    ]
+  }
+}

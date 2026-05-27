@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2037421034618642516",
+    "created_at": "2026-03-27T19:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T20:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037619702449701227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780369819310981120",
+          "start": 0,
+          "username": "520illusion"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/NDcatbot/statu…",
+          "end": 36,
+          "expanded_url": "https://x.com/NDcatbot/status/2037616594982232531?s=20",
+          "start": 13,
+          "url": "https://t.co/elleLdAJ6O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037619702449701227",
+    "in_reply_to_user_id": "1780369819310981120",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037616594982232531",
+        "type": "quoted"
+      },
+      {
+        "id": "2037421034618642516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520illusion https://t.co/elleLdAJ6O"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2037421034618642516",
+        "created_at": "2026-03-27T19:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T20:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037619702449701227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/NDcatbot/statu…",
+              "end": 36,
+              "expanded_url": "https://x.com/NDcatbot/status/2037616594982232531?s=20",
+              "start": 13,
+              "url": "https://t.co/elleLdAJ6O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037619702449701227",
+        "in_reply_to_user_id": "1780369819310981120",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037616594982232531",
+            "type": "quoted"
+          },
+          {
+            "id": "2037421034618642516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion https://t.co/elleLdAJ6O"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2037103663576211854",
+        "created_at": "2026-03-27T19:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T20:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037616594982232531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929416262989557760",
+              "start": 0,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037616594982232531",
+        "in_reply_to_user_id": "1929416262989557760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037103663576211854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoxian1527 换个梯子换个设备（没别的设备就用浏览器隐私模式"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780369819310981120",
+        "conversation_id": "2037421034618642516",
+        "created_at": "2026-03-27T06:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037421034618642516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maoxian1527/st…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/maoxian1527/status/2037103663576211854",
+              "start": 104,
+              "url": "https://t.co/odgTAbScnu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037421034618642516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5063,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037103663576211854",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直好奇N55的号为什么反复被封\n现在都已经到了露头就秒的地步了\n\nN55几乎所有所有的流量都在我的号上 \n\n如果要封 应该封我的号啊 难道有人是盯着N55定点爆破 不让她上推特？不敢再往下想了 细思极恐 https://t.co/odgTAbScnu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 21,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 14
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "All in crypto | 08 | 🏳‍⚧ | 杭州南京武汉随机刷新 想和可爱的人面面 | illusion | 抑郁幻想向 | 坠落星空 | 梦幻主义 | 蓝 | 氯硝西泮 | 终将成为你 | 我向神明祈祷 许你岁岁平安",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lanyuan",
+                "end": 23,
+                "expanded_url": "http://t.me/lanyuan",
+                "start": 0,
+                "url": "https://t.co/ecnOMDHn8U"
+              }
+            ]
+          }
+        },
+        "id": "1780369819310981120",
+        "location": "浙江省宁波市轨道交通3号线中兴大桥南站A出口",
+        "name": "ill",
+        "pinned_tweet_id": "2036354838578057483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028863680889372672/zT5FAaR9_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4298,
+          "following_count": 279,
+          "like_count": 9091,
+          "listed_count": 7,
+          "media_count": 703,
+          "tweet_count": 5359
+        },
+        "url": "https://t.co/ecnOMDHn8U",
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

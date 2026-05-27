@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2052159748846534729",
+    "created_at": "2026-05-08T16:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052785873327145258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1565405457493405696",
+          "start": 0,
+          "username": "HaTnT07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052785873327145258",
+    "in_reply_to_user_id": "1565405457493405696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052159748846534729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaTnT07 分母来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2052159748846534729",
+        "created_at": "2026-05-08T16:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052785873327145258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1565405457493405696",
+              "start": 0,
+              "username": "HaTnT07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052785873327145258",
+        "in_reply_to_user_id": "1565405457493405696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052159748846534729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaTnT07 分母来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565405457493405696",
+        "conversation_id": "2052159748846534729",
+        "created_at": "2026-05-06T22:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T23:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052159748846534729"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052159748846534729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11731,
+          "like_count": 180,
+          "quote_count": 0,
+          "reply_count": 194,
+          "retweet_count": 154
+        },
+        "reply_settings": "everyone",
+        "text": "提前发个5000fo福利🧧\n\n要求：评论➕点赞➕转帖\n\n🎁奖品包括⬇️\n1.麦当劳两份（折现88.88r）\n2.小蛋糕一份（折现52r）\n3.奶茶三份（折现28.88r）\n4.原味一份（折现18.88r）\n4.视频永久分享权两份（折现18.88r）\n5.线下见面（卡建模 折现188.88r）\n\n总共抽10个人 满足要求即有中奖机会\n  ♡男女都抽♡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 114,
+          "like_count": 2115,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 361
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-01T18:25:47.000Z",
+        "description": "^з^🚪288口令➕v｜过🚪了解线下｜可验证可联系tg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ruana7y",
+                "end": 23,
+                "expanded_url": "https://t.me/Ruana7y",
+                "start": 0,
+                "url": "https://t.co/Lf98H9mBYF"
+              }
+            ]
+          }
+        },
+        "id": "1565405457493405696",
+        "location": "私信只回有礼貌的",
+        "name": "软软誓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046697555078041600/lkitFy_r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4980,
+          "following_count": 19,
+          "like_count": 1611,
+          "listed_count": 4,
+          "media_count": 15,
+          "tweet_count": 142
+        },
+        "url": "https://t.co/Lf98H9mBYF",
+        "username": "HaTnT07",
+        "verified": false
+      }
+    ]
+  }
+}

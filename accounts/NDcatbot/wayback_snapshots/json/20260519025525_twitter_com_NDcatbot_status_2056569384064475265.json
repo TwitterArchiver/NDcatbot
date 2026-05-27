@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2056569384064475265",
+    "created_at": "2026-05-19T02:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T03:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056569384064475265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1647167980068020226",
+          "start": 3,
+          "username": "YICIYUANYCY"
+        },
+        {
+          "end": 52,
+          "id": "2055512065910206465",
+          "start": 36,
+          "username": "chastitybeltsex"
+        },
+        {
+          "end": 86,
+          "id": "1647167980068020226",
+          "start": 74,
+          "username": "YICIYUANYCY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056569384064475265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 176
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056328955267858840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YICIYUANYCY: 大家好！\n这里是役次元。\n\n之前的账号@chastitybeltsex 因为一些不可抗力因素，现在转生为官方新号 @YICIYUANYCY \n希望大家多多关注，继续支持役次元~\n转生新号给老粉新粉送福利!🥰\n\n想体验：\n一点点被榨到发软的榨精机…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2056569384064475265].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2056569384064475265",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2056569384064475265"
+    },
+    {
+      "detail": "User has been suspended: [chastitybeltsex].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "chastitybeltsex",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "chastitybeltsex"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44605,
+        "height": 1080,
+        "media_key": "13_2056319019180081154",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056319019180081154/img/PxvHG0yKXeHCSSMa.jpg",
+        "public_metrics": {
+          "view_count": 3155
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056319019180081154/pl/lsHzeG7qkevzBImy.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056319019180081154/vid/avc1/640x360/T2jqKlMJFKbkonGA.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056319019180081154/vid/avc1/480x270/vq33U7Ra3LcPGRRX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056319019180081154/vid/avc1/1280x720/TB-RjBg5qBzpNLyZ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056319019180081154/vid/avc1/1920x1080/nSkD8wNnSrJ5zIoK.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 51664,
+        "height": 1080,
+        "media_key": "13_2056319192299913216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056319192299913216/img/W0nMRNu4o-ogrxp0.jpg",
+        "public_metrics": {
+          "view_count": 211
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056319192299913216/vid/avc1/1280x720/x_pOwMfSELNv6yS_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056319192299913216/pl/YqunRLvp5F7IQ35D.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056319192299913216/vid/avc1/480x270/yQMtRhICQJLo4qxR.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056319192299913216/vid/avc1/640x360/lmCQ_A5DfGJAtRhA.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056319192299913216/vid/avc1/1920x1080/KKpl2NWtt4Fhqey6.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 59745,
+        "height": 720,
+        "media_key": "13_2056319466619998209",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056319466619998209/img/aIcjTXqhUCZwCAzE.jpg",
+        "public_metrics": {
+          "view_count": 184
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056319466619998209/vid/avc1/480x270/R36ppM260z-oZKxS.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056319466619998209/vid/avc1/640x360/sLGllEMPclSqQDWR.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056319466619998209/vid/avc1/1280x720/X8KlT9OqwNJqpe1v.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056319466619998209/pl/xOQPhxx5HTu5jxkn.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 30789,
+        "height": 1080,
+        "media_key": "13_2056319857990500352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056319857990500352/img/WT7asbQk8asjqaz7.jpg",
+        "public_metrics": {
+          "view_count": 122
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056319857990500352/vid/avc1/1280x720/ifxHnwsgI4ULjhIa.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056319857990500352/vid/avc1/480x270/9u27x-puinRsIuWJ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056319857990500352/vid/avc1/1920x1080/vZrDi7iaEqjUvy1L.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056319857990500352/pl/1YyrZ-NrM8icSqE-.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056319857990500352/vid/avc1/640x360/rjN0PcKjmzWQrgOG.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056319019180081154",
+            "13_2056319192299913216",
+            "13_2056319466619998209",
+            "13_2056319857990500352"
+          ]
+        },
+        "author_id": "1647167980068020226",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056328955267858840",
+        "created_at": "2026-05-18T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056328955267858840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 35,
+              "id": "2055512065910206465",
+              "start": 19,
+              "username": "chastitybeltsex"
+            },
+            {
+              "end": 69,
+              "id": "1647167980068020226",
+              "start": 57,
+              "username": "YICIYUANYCY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q5k3KZ8ZAv",
+              "end": 183,
+              "expanded_url": "https://x.com/YICIYUANYCY/status/2056328955267858840/video/1",
+              "media_key": "13_2056319019180081154",
+              "start": 160,
+              "url": "https://t.co/Q5k3KZ8ZAv"
+            },
+            {
+              "display_url": "pic.x.com/Q5k3KZ8ZAv",
+              "end": 183,
+              "expanded_url": "https://x.com/YICIYUANYCY/status/2056328955267858840/video/1",
+              "media_key": "13_2056319192299913216",
+              "start": 160,
+              "url": "https://t.co/Q5k3KZ8ZAv"
+            },
+            {
+              "display_url": "pic.x.com/Q5k3KZ8ZAv",
+              "end": 183,
+              "expanded_url": "https://x.com/YICIYUANYCY/status/2056328955267858840/video/1",
+              "media_key": "13_2056319466619998209",
+              "start": 160,
+              "url": "https://t.co/Q5k3KZ8ZAv"
+            },
+            {
+              "display_url": "pic.x.com/Q5k3KZ8ZAv",
+              "end": 183,
+              "expanded_url": "https://x.com/YICIYUANYCY/status/2056328955267858840/video/1",
+              "media_key": "13_2056319857990500352",
+              "start": 160,
+              "url": "https://t.co/Q5k3KZ8ZAv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056328955267858840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 35,
+                "id": "2055512065910206465",
+                "start": 19,
+                "username": "chastitybeltsex"
+              },
+              {
+                "end": 69,
+                "id": "1647167980068020226",
+                "start": 57,
+                "username": "YICIYUANYCY"
+              }
+            ]
+          },
+          "text": "大家好！\n这里是役次元。\n\n之前的账号@chastitybeltsex 因为一些不可抗力因素，现在转生为官方新号 @YICIYUANYCY \n希望大家多多关注，继续支持役次元~\n转生新号给老粉新粉送福利!🥰\n\n想体验：\n一点点被榨到发软的榨精机\n电流刺激一路窜上来的电击器\n解放双手的智能灌肠机\n锁盒的各种特色互动玩法\n还有轻轻松松戴7天的贞操锁——\n这里全都有！\n\n还有社区噢\n欢迎大家来玩😆\n\n转发+关注，5.27，抽三个宝子自选役次元玩具🥳"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 12130,
+          "like_count": 109,
+          "quote_count": 4,
+          "reply_count": 60,
+          "retweet_count": 176
+        },
+        "reply_settings": "everyone",
+        "text": "大家好！\n这里是役次元。\n\n之前的账号@chastitybeltsex 因为一些不可抗力因素，现在转生为官方新号 @YICIYUANYCY \n希望大家多多关注，继续支持役次元~\n转生新号给老粉新粉送福利!🥰\n\n想体验：\n一点点被榨到发软的榨精机\n电流刺激一路窜上来的电击器\n解放双手的智能灌肠机\n锁盒的各种特色互动玩法 https://t.co/Q5k3KZ8ZAv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 118,
+          "like_count": 3407,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 536
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T09:20:39.000Z",
+        "description": "BDSM成人品牌\n🎈创新玩具，超级刺激🎈\n⭐自信自爱，方得自由⭐\n✉合作推广、寄拍测评请私信（1W粉以上）\n❤欢迎宝子们返图和视频~❤\nAPP下载链接：https://t.co/6p8CwLrpI8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "suo.jiushu1234.com/m/#/pages/down…",
+                "end": 99,
+                "expanded_url": "https://suo.jiushu1234.com/m/#/pages/download/download",
+                "start": 76,
+                "url": "https://t.co/6p8CwLrpI8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tinyurl.com/38ssfkwp",
+                "end": 23,
+                "expanded_url": "http://tinyurl.com/38ssfkwp",
+                "start": 0,
+                "url": "https://t.co/0BmEtIPAVq"
+              }
+            ]
+          }
+        },
+        "id": "1647167980068020226",
+        "name": "役次元官方",
+        "pinned_tweet_id": "2056328955267858840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055244529738145792/vXDL-VaF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 86,
+          "like_count": 13,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 33
+        },
+        "url": "https://t.co/0BmEtIPAVq",
+        "username": "YICIYUANYCY",
+        "verified": true
+      }
+    ]
+  }
+}

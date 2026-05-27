@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2038239756476371314",
+    "created_at": "2026-03-29T13:00:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T14:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038239756476371314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RainBuild_2025…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/RainBuild_2025/status/2038222407941673012",
+          "start": 47,
+          "url": "https://t.co/qOcLZYkYli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038239756476371314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038222407941673012",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本账号的使用者是个小女孩、她有点呆呆的有点笨笨的,你们不可以欺负她，还要主动找她聊天、望周知 https://t.co/qOcLZYkYli"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2038239756476371314",
+        "created_at": "2026-03-29T13:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T14:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038239756476371314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainBuild_2025…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/RainBuild_2025/status/2038222407941673012",
+              "start": 47,
+              "url": "https://t.co/qOcLZYkYli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038239756476371314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038222407941673012",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本账号的使用者是个小女孩、她有点呆呆的有点笨笨的,你们不可以欺负她，还要主动找她聊天、望周知 https://t.co/qOcLZYkYli"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759787246587379712",
+        "conversation_id": "2038222407941673012",
+        "created_at": "2026-03-29T11:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T12:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038222407941673012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RainBuild_2024…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/RainBuild_2024/status/2038216595039031697",
+              "start": 47,
+              "url": "https://t.co/R9dnGVGOHS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038222407941673012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038216595039031697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本账号的使用者是个小女孩、她有点呆呆的有点笨笨的,你们不可以欺负她，还要主动找她聊天、望周知 https://t.co/R9dnGVGOHS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 35,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 41
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "INFP｜MTF｜09 English/日本語/简繁中文 \nXiaomi Promoter UTC+8｜专注次元联合创始人、产品经理、中国区市场部总经理\n独立思考，明辨是非｜\n做自己而不是解释自己｜\n真诚是必杀技｜数码玩家会折腾各种设备｜另一个版本的我(非本人）@RainBuild_2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 131,
+                "username": "RainBuild_2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mi.com",
+                "end": 23,
+                "expanded_url": "http://mi.com",
+                "start": 0,
+                "url": "https://t.co/8NnopKeAgF"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "The United States Of America",
+        "name": "高坂穗嘉图",
+        "pinned_tweet_id": "2034673772587098438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034672368472432640/-AarshaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 1040,
+          "like_count": 1355,
+          "listed_count": 5,
+          "media_count": 190,
+          "tweet_count": 796
+        },
+        "url": "https://t.co/8NnopKeAgF",
+        "username": "RainBuild_2025",
+        "verified": true
+      }
+    ]
+  }
+}

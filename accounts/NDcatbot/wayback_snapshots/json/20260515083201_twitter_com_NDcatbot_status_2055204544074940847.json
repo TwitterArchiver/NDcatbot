@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2054970454587367425"
+      ],
+      "media_source_tweet_id": [
+        "2055132311339868542"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2055204544074940847",
+    "created_at": "2026-05-15T08:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T09:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055204544074940847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1303335410609790976",
+          "start": 3,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yTWltpXvw9",
+          "end": 56,
+          "expanded_url": "https://x.com/Rococo90933671/status/2055132311339868542/video/1",
+          "media_key": "13_2054970454587367425",
+          "start": 33,
+          "url": "https://t.co/yTWltpXvw9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055204544074940847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055132311339868542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rococo90933671: 一年前的昨天，某中学…… https://t.co/yTWltpXvw9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17933,
+        "height": 960,
+        "media_key": "13_2054970454587367425",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054970454587367425/img/RwZNH-oXa8HBMRwf.jpg",
+        "public_metrics": {
+          "view_count": 44672
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054970454587367425/vid/avc1/320x426/sy8UHqAgJz-D4hrR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054970454587367425/vid/avc1/480x640/A44Y4LMjS3I_47Kb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054970454587367425/vid/avc1/720x960/UUMxGwLvnTWhSrlf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054970454587367425/pl/jn27bs3feDb_aLJB.m3u8?v=562"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054970454587367425"
+          ],
+          "media_source_tweet_id": [
+            "2055132311339868542"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2055204544074940847",
+        "created_at": "2026-05-15T08:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055204544074940847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1303335410609790976",
+              "start": 3,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yTWltpXvw9",
+              "end": 56,
+              "expanded_url": "https://x.com/Rococo90933671/status/2055132311339868542/video/1",
+              "media_key": "13_2054970454587367425",
+              "start": 33,
+              "url": "https://t.co/yTWltpXvw9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055204544074940847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055132311339868542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rococo90933671: 一年前的昨天，某中学…… https://t.co/yTWltpXvw9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054970454587367425"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2055132311339868542",
+        "created_at": "2026-05-15T03:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T04:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055132311339868542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yTWltpXvw9",
+              "end": 36,
+              "expanded_url": "https://x.com/Rococo90933671/status/2055132311339868542/video/1",
+              "media_key": "13_2054970454587367425",
+              "start": 13,
+              "url": "https://t.co/yTWltpXvw9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055132311339868542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 102503,
+          "like_count": 755,
+          "quote_count": 8,
+          "reply_count": 53,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "一年前的昨天，某中学…… https://t.co/yTWltpXvw9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 113,
+          "like_count": 3067,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 485
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11453,
+          "following_count": 3044,
+          "like_count": 38040,
+          "listed_count": 37,
+          "media_count": 3971,
+          "tweet_count": 21472
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2044077635635163466",
+    "created_at": "2026-04-15T16:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T17:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044455016199832037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1840064127085228032",
+          "start": 0,
+          "username": "shbdjugv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044455016199832037",
+    "in_reply_to_user_id": "1840064127085228032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044077635635163466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shbdjugv 主播给我口口"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 81433,
+        "height": 720,
+        "media_key": "13_2044077432022704128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044077432022704128/img/H1AcJBScx4qbgroF.jpg",
+        "public_metrics": {
+          "view_count": 1668
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044077432022704128/vid/avc1/480x270/MLQkCciJ75DBfmax.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044077432022704128/vid/avc1/640x360/wC1MuVaW1Yxwug4g.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044077432022704128/vid/avc1/1280x720/A11dISsG9DRVZmpG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044077432022704128/pl/7wUpTf8s-sXvmgOx.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2044077635635163466",
+        "created_at": "2026-04-15T16:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T17:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044455016199832037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840064127085228032",
+              "start": 0,
+              "username": "shbdjugv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044455016199832037",
+        "in_reply_to_user_id": "1840064127085228032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044077635635163466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shbdjugv 主播给我口口"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044077432022704128"
+          ]
+        },
+        "author_id": "1840064127085228032",
+        "conversation_id": "2044077635635163466",
+        "created_at": "2026-04-14T15:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044077635635163466"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 112,
+              "start": 107,
+              "tag": "ふりそで"
+            },
+            {
+              "end": 117,
+              "start": 113,
+              "tag": "わふく"
+            },
+            {
+              "end": 122,
+              "start": 118,
+              "tag": "小男孩"
+            },
+            {
+              "end": 126,
+              "start": 123,
+              "tag": "正太"
+            },
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "男娘"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "发情"
+            },
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "肉便器"
+            },
+            {
+              "end": 143,
+              "start": 140,
+              "tag": "娼年"
+            },
+            {
+              "end": 151,
+              "start": 144,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jwEgXxz5ul",
+              "end": 175,
+              "expanded_url": "https://x.com/shbdjugv/status/2044077635635163466/video/1",
+              "media_key": "13_2044077432022704128",
+              "start": 152,
+              "url": "https://t.co/jwEgXxz5ul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044077635635163466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 4210,
+          "like_count": 166,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "仁凉你这家伙😡 害怕被别人发现和服里面是男生 \n被外人知道了就要像个人夫母狗一样跪在主人前吃他的鸡鸡吗！ 让自己的丈夫在对面只能看着你的脚和对面享受的表情冲，一想到自己丈夫的表情心里面还像个母狗一样暗爽😡预览版2\n#ふりそで #わふく #小男孩 #正太 #男娘 #发情 #肉便器 #娼年 #可爱的男孩子 https://t.co/jwEgXxz5ul"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 53,
+          "like_count": 430,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 105
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T16:20:59.000Z",
+        "description": "这里是仁蓝酱【双性恋】//我很希望有同好可以跟我扩列/（在网上有点社恐 👉👈）/酒店/原味/欢迎互转推哦/更新很慢/发自己的一些日常/",
+        "id": "1840064127085228032",
+        "location": "15km",
+        "name": "仁凉（求转推！）",
+        "pinned_tweet_id": "2043030649683226648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840064938318180352/Wx58WZ8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6222,
+          "following_count": 727,
+          "like_count": 40818,
+          "listed_count": 28,
+          "media_count": 189,
+          "tweet_count": 2151
+        },
+        "username": "shbdjugv",
+        "verified": false
+      }
+    ]
+  }
+}

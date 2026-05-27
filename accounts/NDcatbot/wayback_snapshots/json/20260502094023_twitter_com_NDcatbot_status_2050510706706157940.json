@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050385371146731520"
+      ],
+      "media_source_tweet_id": [
+        "2050385424716333322"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2050510706706157940",
+    "created_at": "2026-05-02T09:40:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T10:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050510706706157940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1536879871694999553",
+          "start": 3,
+          "username": "Summerkanna"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sgp4jlzc6w",
+          "end": 50,
+          "expanded_url": "https://x.com/Summerkanna/status/2050385424716333322/photo/1",
+          "media_key": "3_2050385371146731520",
+          "start": 27,
+          "url": "https://t.co/Sgp4jlzc6w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050510706706157940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050385424716333322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Summerkanna: 哇 可以現場試用耶 https://t.co/Sgp4jlzc6w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050385371146731520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHRuobPbwAAJ2xU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050385371146731520"
+          ],
+          "media_source_tweet_id": [
+            "2050385424716333322"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2050510706706157940",
+        "created_at": "2026-05-02T09:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T10:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050510706706157940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1536879871694999553",
+              "start": 3,
+              "username": "Summerkanna"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sgp4jlzc6w",
+              "end": 50,
+              "expanded_url": "https://x.com/Summerkanna/status/2050385424716333322/photo/1",
+              "media_key": "3_2050385371146731520",
+              "start": 27,
+              "url": "https://t.co/Sgp4jlzc6w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050510706706157940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050385424716333322",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Summerkanna: 哇 可以現場試用耶 https://t.co/Sgp4jlzc6w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050385371146731520"
+          ]
+        },
+        "author_id": "1536879871694999553",
+        "conversation_id": "2050385424716333322",
+        "created_at": "2026-05-02T01:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T02:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050385424716333322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sgp4jlzc6w",
+              "end": 33,
+              "expanded_url": "https://x.com/Summerkanna/status/2050385424716333322/photo/1",
+              "media_key": "3_2050385371146731520",
+              "start": 10,
+              "url": "https://t.co/Sgp4jlzc6w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050385424716333322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 16542,
+          "like_count": 412,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "哇 可以現場試用耶 https://t.co/Sgp4jlzc6w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 73,
+          "like_count": 842,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 169
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T01:15:55.000Z",
+        "description": "一位在魔界練習偽聲實況的轉貼迷因陰角魅魔大叔\nFA:#晴天繪 直播:#天晴放送 FN:#Master\n棉花糖:https://t.co/O6HztSuX6j\n圖奇:https://t.co/YkKOU5z2az",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 26,
+                "tag": "晴天繪"
+              },
+              {
+                "end": 39,
+                "start": 34,
+                "tag": "天晴放送"
+              },
+              {
+                "end": 50,
+                "start": 43,
+                "tag": "Master"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/seitenkanna",
+                "end": 78,
+                "expanded_url": "http://marshmallow-qa.com/seitenkanna",
+                "start": 55,
+                "url": "https://t.co/O6HztSuX6j"
+              },
+              {
+                "display_url": "twitch.tv/seitenkanna",
+                "end": 105,
+                "expanded_url": "https://www.twitch.tv/seitenkanna",
+                "start": 82,
+                "url": "https://t.co/YkKOU5z2az"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@seiten_kanna",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@seiten_kanna",
+                "start": 0,
+                "url": "https://t.co/SRtlcPGY3c"
+              }
+            ]
+          }
+        },
+        "id": "1536879871694999553",
+        "location": "魔界",
+        "name": "晴天神奈@轉貼迷因Vtuber",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991793225141825536/rU2YpGKA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8845,
+          "following_count": 903,
+          "like_count": 21867,
+          "listed_count": 43,
+          "media_count": 3685,
+          "tweet_count": 14783
+        },
+        "url": "https://t.co/SRtlcPGY3c",
+        "username": "Summerkanna",
+        "verified": false
+      }
+    ]
+  }
+}

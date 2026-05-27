@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050237206565101568"
+      ],
+      "media_source_tweet_id": [
+        "2050237208972681711"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2050425175003603428",
+    "created_at": "2026-05-02T04:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T05:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050425175003603428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2034584162246799361",
+          "start": 3,
+          "username": "NDcatbot"
+        },
+        {
+          "end": 28,
+          "id": "1390652924481527810",
+          "start": 14,
+          "username": "zqtlovekris99"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ebAtL9vwDn",
+          "end": 52,
+          "expanded_url": "https://x.com/NDcatbot/status/2050237208972681711/photo/1",
+          "media_key": "3_2050237206565101568",
+          "start": 29,
+          "url": "https://t.co/ebAtL9vwDn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050425175003603428",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050237208972681711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NDcatbot: @zqtlovekris99 https://t.co/ebAtL9vwDn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 905,
+        "media_key": "3_2050237206565101568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHPn4HKaIAAe4EC.jpg",
+        "width": 835
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050237206565101568"
+          ],
+          "media_source_tweet_id": [
+            "2050237208972681711"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2050425175003603428",
+        "created_at": "2026-05-02T04:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T05:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050425175003603428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2034584162246799361",
+              "start": 3,
+              "username": "NDcatbot"
+            },
+            {
+              "end": 28,
+              "id": "1390652924481527810",
+              "start": 14,
+              "username": "zqtlovekris99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ebAtL9vwDn",
+              "end": 52,
+              "expanded_url": "https://x.com/NDcatbot/status/2050237208972681711/photo/1",
+              "media_key": "3_2050237206565101568",
+              "start": 29,
+              "url": "https://t.co/ebAtL9vwDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050425175003603428",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050237208972681711",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NDcatbot: @zqtlovekris99 https://t.co/ebAtL9vwDn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050237206565101568"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2049687685590085900",
+        "created_at": "2026-05-01T15:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T16:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050237208972681711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ebAtL9vwDn",
+              "end": 38,
+              "expanded_url": "https://x.com/NDcatbot/status/2050237208972681711/photo/1",
+              "media_key": "3_2050237206565101568",
+              "start": 15,
+              "url": "https://t.co/ebAtL9vwDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050237208972681711",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049687685590085900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 https://t.co/ebAtL9vwDn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 72,
+          "like_count": 812,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 165
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "出卖了灵魂的空壳，日常号 @Grtr_nk\n🍀关注竹蜻蜓喵谢谢喵🍀蓝v互关其他回fo请私信 | 闺蜜 @Misako_25ji 诡秘 @maoxian1527 🐱 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Grtr_nk"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 79,
+                "start": 67,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/WeibacoXza"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "找我提问箱！",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2050092855910085052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12537,
+          "following_count": 1558,
+          "like_count": 25468,
+          "listed_count": 17,
+          "media_count": 4796,
+          "tweet_count": 27733
+        },
+        "url": "https://t.co/WeibacoXza",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

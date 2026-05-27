@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2052648601940332835",
+    "created_at": "2026-05-08T07:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T08:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052648601940332835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052648601940332835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052585183455719658",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 我们从扭转机构救了一个孩子\n她跟她的爱人都因为性少数的身份被家庭百般刁难、家暴、软禁\n两个人好不容易跑出来打算换个城市重新开始生活，一起戒掉药物依赖，互相治愈救赎彼此。然而家里人似乎不这么想，他们把其中的一位抓回家，并送进了扭转机构另一…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2052648601940332835",
+        "created_at": "2026-05-08T07:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052648601940332835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052648601940332835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052585183455719658",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 我们从扭转机构救了一个孩子\n她跟她的爱人都因为性少数的身份被家庭百般刁难、家暴、软禁\n两个人好不容易跑出来打算换个城市重新开始生活，一起戒掉药物依赖，互相治愈救赎彼此。然而家里人似乎不这么想，他们把其中的一位抓回家，并送进了扭转机构另一…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2052585183455719658",
+        "created_at": "2026-05-08T03:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052585183455719658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2052582618307432716",
+              "start": 141,
+              "url": "https://t.co/IhMfU9EIZ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052585183455719658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 9096,
+          "like_count": 211,
+          "quote_count": 7,
+          "reply_count": 15,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052582618307432716",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们从扭转机构救了一个孩子\n她跟她的爱人都因为性少数的身份被家庭百般刁难、家暴、软禁\n两个人好不容易跑出来打算换个城市重新开始生活，一起戒掉药物依赖，互相治愈救赎彼此。然而家里人似乎不这么想，他们把其中的一位抓回家，并送进了扭转机构另一位听了消息如遭雷击，陷入绝望当中直接自杀了… https://t.co/IhMfU9EIZ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 107,
+          "like_count": 1956,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4965,
+          "following_count": 2722,
+          "like_count": 2688,
+          "listed_count": 18,
+          "media_count": 407,
+          "tweet_count": 2702
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

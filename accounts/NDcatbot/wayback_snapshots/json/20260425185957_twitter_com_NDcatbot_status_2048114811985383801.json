@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047992226828165120"
+      ],
+      "media_source_tweet_id": [
+        "2047992235271262570"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      }
+    ],
+    "conversation_id": "2048114811985383801",
+    "created_at": "2026-04-25T18:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T19:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048114811985383801"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1880947070837964800",
+          "start": 3,
+          "username": "Guillermin45548"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o3kBH3Z1fW",
+          "end": 71,
+          "expanded_url": "https://x.com/Guillermin45548/status/2047992235271262570/photo/1",
+          "media_key": "3_2047992226828165120",
+          "start": 48,
+          "url": "https://t.co/o3kBH3Z1fW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048114811985383801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047992235271262570",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Guillermin45548: 当体考女生吃药强行阻断月经时，体育的意义就已经消失了 https://t.co/o3kBH3Z1fW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1638,
+        "media_key": "3_2047992226828165120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvuFF7aoAAx_KI.jpg",
+        "width": 1271
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047992226828165120"
+          ],
+          "media_source_tweet_id": [
+            "2047992235271262570"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "2048114811985383801",
+        "created_at": "2026-04-25T18:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T19:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048114811985383801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1880947070837964800",
+              "start": 3,
+              "username": "Guillermin45548"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o3kBH3Z1fW",
+              "end": 71,
+              "expanded_url": "https://x.com/Guillermin45548/status/2047992235271262570/photo/1",
+              "media_key": "3_2047992226828165120",
+              "start": 48,
+              "url": "https://t.co/o3kBH3Z1fW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048114811985383801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047992235271262570",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Guillermin45548: 当体考女生吃药强行阻断月经时，体育的意义就已经消失了 https://t.co/o3kBH3Z1fW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047992226828165120"
+          ]
+        },
+        "author_id": "1880947070837964800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "2047992235271262570",
+        "created_at": "2026-04-25T10:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047992235271262570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o3kBH3Z1fW",
+              "end": 50,
+              "expanded_url": "https://x.com/Guillermin45548/status/2047992235271262570/photo/1",
+              "media_key": "3_2047992226828165120",
+              "start": 27,
+              "url": "https://t.co/o3kBH3Z1fW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047992235271262570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 115389,
+          "like_count": 1077,
+          "quote_count": 6,
+          "reply_count": 280,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "当体考女生吃药强行阻断月经时，体育的意义就已经消失了 https://t.co/o3kBH3Z1fW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 65,
+          "like_count": 613,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 142
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T11:55:14.000Z",
+        "description": "07年中专不读生，辍学后无社交试图在网上找些存在感，日常记录碎碎念，大家的情绪垃圾桶，祝天天开心～",
+        "id": "1880947070837964800",
+        "name": "瑶瑶睡不着💤",
+        "pinned_tweet_id": "2047956084128899547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008146294750240768/atsWlS0c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15786,
+          "following_count": 87,
+          "like_count": 986,
+          "listed_count": 16,
+          "media_count": 368,
+          "tweet_count": 1737
+        },
+        "username": "Guillermin45548",
+        "verified": false
+      }
+    ]
+  }
+}

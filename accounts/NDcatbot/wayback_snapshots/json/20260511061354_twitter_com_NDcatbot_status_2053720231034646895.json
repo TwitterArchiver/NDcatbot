@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2053720231034646895",
+    "created_at": "2026-05-11T06:13:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T07:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053720231034646895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1852895432269234176",
+          "start": 3,
+          "username": "432Ifantrygroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053720231034646895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053691627588481207",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @432Ifantrygroup: 我又要把mect拉出来批斗了。\n首先忘掉爹妈确实很夸张，但据我了解忘掉好朋友这种是真实存在的，拿自己的经历否定别人这种逻辑我就很讨厌，给人一种自我中心主义的傲慢感。\n其次抛开mect的作用机制不明确，不是循证医学是经验医学不谈，我们也应…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053691611029356544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIAto6mawAA8ZH-.jpg",
+        "width": 1131
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2053720231034646895",
+        "created_at": "2026-05-11T06:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T07:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053720231034646895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1852895432269234176",
+              "start": 3,
+              "username": "432Ifantrygroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053720231034646895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053691627588481207",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @432Ifantrygroup: 我又要把mect拉出来批斗了。\n首先忘掉爹妈确实很夸张，但据我了解忘掉好朋友这种是真实存在的，拿自己的经历否定别人这种逻辑我就很讨厌，给人一种自我中心主义的傲慢感。\n其次抛开mect的作用机制不明确，不是循证医学是经验医学不谈，我们也应…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053691611029356544"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2053691627588481207",
+        "created_at": "2026-05-11T04:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053691627588481207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5tY3Oi1uFt",
+              "end": 169,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2053691627588481207/photo/1",
+              "media_key": "3_2053691611029356544",
+              "start": 146,
+              "url": "https://t.co/5tY3Oi1uFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053691627588481207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 395,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我又要把mect拉出来批斗了。\n首先忘掉爹妈确实很夸张，但据我了解忘掉好朋友这种是真实存在的，拿自己的经历否定别人这种逻辑我就很讨厌，给人一种自我中心主义的傲慢感。\n其次抛开mect的作用机制不明确，不是循证医学是经验医学不谈，我们也应该认识到它是如气脑造影一样是操作粗糙技术原始的权宜之计 https://t.co/5tY3Oi1uFt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 113,
+          "like_count": 2509,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 419
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2049707812314583203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 3747,
+          "like_count": 35280,
+          "listed_count": 4,
+          "media_count": 382,
+          "tweet_count": 9466
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

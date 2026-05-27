@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2055521086620733669",
+    "created_at": "2026-05-16T09:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T10:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055584967305109515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1764195010986274816",
+          "start": 0,
+          "username": "CCA8798"
+        },
+        {
+          "end": 20,
+          "id": "2019787701432532992",
+          "start": 9,
+          "username": "cx330_xyn2"
+        },
+        {
+          "end": 33,
+          "id": "1600024316552179713",
+          "start": 21,
+          "username": "kiki_qiqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055584967305109515",
+    "in_reply_to_user_id": "1764195010986274816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055521086620733669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCA8798 @cx330_xyn2 @kiki_qiqing xm面基"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2055521078920028161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIath9lbIAE5Wsg.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2055521086620733669",
+        "created_at": "2026-05-16T09:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T10:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055584967305109515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1764195010986274816",
+              "start": 0,
+              "username": "CCA8798"
+            },
+            {
+              "end": 20,
+              "id": "2019787701432532992",
+              "start": 9,
+              "username": "cx330_xyn2"
+            },
+            {
+              "end": 33,
+              "id": "1600024316552179713",
+              "start": 21,
+              "username": "kiki_qiqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055584967305109515",
+        "in_reply_to_user_id": "1764195010986274816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055521086620733669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798 @cx330_xyn2 @kiki_qiqing xm面基"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055521078920028161"
+          ]
+        },
+        "author_id": "1764195010986274816",
+        "conversation_id": "2055521086620733669",
+        "created_at": "2026-05-16T05:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T06:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055521086620733669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2019787701432532992",
+              "start": 2,
+              "username": "cx330_xyn2"
+            },
+            {
+              "end": 24,
+              "id": "1764195010986274816",
+              "start": 16,
+              "username": "CCA8798"
+            },
+            {
+              "end": 39,
+              "id": "1600024316552179713",
+              "start": 27,
+              "username": "kiki_qiqing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X6vPjRKoxT",
+              "end": 71,
+              "expanded_url": "https://x.com/CCA8798/status/2055521086620733669/photo/1",
+              "media_key": "3_2055521078920028161",
+              "start": 48,
+              "url": "https://t.co/X6vPjRKoxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055521086620733669",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1100,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "左：@cx330_xyn2\n中：@CCA8798\n右：@kiki_qiqing\n六国大封相🤓👆 https://t.co/X6vPjRKoxT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 113,
+          "like_count": 3241,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 507
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T07:45:22.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党(家长党？) 出柜26.05.05 | 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 | 玻璃心 心境障碍 ED GD (OD✘)双相中焦 | 交通 科学 医学 杂圈迷 | 战争雷霆 | Cpp Coder\n可寄拍/扩列\n二代目(逃生舱): @CCA8798suki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "CCA8798suki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://www.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/7pvlNCbO8x"
+              }
+            ]
+          }
+        },
+        "id": "1764195010986274816",
+        "location": "安东星蜗牛第一票常交易有限公司",
+        "name": "不会起名の捌拐玖捌(何意味版)🍥",
+        "pinned_tweet_id": "2052265032193581443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051736077615136768/q8UF6A0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 1218,
+          "like_count": 15460,
+          "listed_count": 4,
+          "media_count": 170,
+          "tweet_count": 2194
+        },
+        "url": "https://t.co/7pvlNCbO8x",
+        "username": "CCA8798",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-06T14:58:22.000Z",
+        "description": "mtf | 跨性别女同 | 闲聊推 | 生产日期2012.8.10 | 166cm70kg东北小药娘 | 现居北京 | 重度抑郁 | 双向情感障碍 | 无证含糖 | hrt开始时间2025.6.25 | 炸柜转家暴党 | 同类互fo |",
+        "id": "2019787701432532992",
+        "location": "北京",
+        "name": "cx330🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2038348080182186181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032028385405530113/r9jQ0gP5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 113,
+          "like_count": 37,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 47
+        },
+        "username": "cx330_xyn2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T07:08:19.000Z",
+        "description": "出厂日期2007.9.24 | mtx/f | 无证含糖 | 非二元 | 同类可以找我互fo，但最好说一声 |  大概是个泛性恋喵 | 170cm/55kg | 有点地雷 | 药娘共产主义）",
+        "id": "1600024316552179713",
+        "name": "祈晴🏳️‍⚧️🍥💛🤍💜🖤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998058486715072512/Shc3tli3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 337,
+          "like_count": 5559,
+          "listed_count": 7,
+          "media_count": 90,
+          "tweet_count": 2013
+        },
+        "username": "kiki_qiqing",
+        "verified": false
+      }
+    ]
+  }
+}

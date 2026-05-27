@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2047267691761987584"
+      ],
+      "media_source_tweet_id": [
+        "2047267746610831429"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2052203542824534284",
+    "created_at": "2026-05-07T01:47:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T02:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052203542824534284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1613849243768487936",
+          "start": 3,
+          "username": "c_X_hio"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r7LEYgcxdy",
+          "end": 36,
+          "expanded_url": "https://x.com/c_X_hio/status/2047267746610831429/video/1",
+          "media_key": "13_2047267691761987584",
+          "start": 13,
+          "url": "https://t.co/r7LEYgcxdy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052203542824534284",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 287
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047267746610831429",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @c_X_hio: https://t.co/r7LEYgcxdy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7420,
+        "height": 1016,
+        "media_key": "13_2047267691761987584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047267691761987584/img/D4CSX0oPSeqyAMOd.jpg",
+        "public_metrics": {
+          "view_count": 9284
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047267691761987584/vid/avc1/320x450/Tjm8z3FiPFAFJ_wc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047267691761987584/vid/avc1/480x676/rY5kBIhWK0Ri2bOK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047267691761987584/vid/avc1/720x1016/D4lklpaJhHielGJk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047267691761987584/pl/3zKOKdT7td79uH1_.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047267691761987584"
+          ],
+          "media_source_tweet_id": [
+            "2047267746610831429"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2052203542824534284",
+        "created_at": "2026-05-07T01:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052203542824534284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1613849243768487936",
+              "start": 3,
+              "username": "c_X_hio"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7LEYgcxdy",
+              "end": 36,
+              "expanded_url": "https://x.com/c_X_hio/status/2047267746610831429/video/1",
+              "media_key": "13_2047267691761987584",
+              "start": 13,
+              "url": "https://t.co/r7LEYgcxdy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052203542824534284",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 287
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047267746610831429",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @c_X_hio: https://t.co/r7LEYgcxdy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047267691761987584"
+          ]
+        },
+        "author_id": "1613849243768487936",
+        "conversation_id": "2047267746610831429",
+        "created_at": "2026-04-23T10:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047267746610831429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r7LEYgcxdy",
+              "end": 23,
+              "expanded_url": "https://x.com/c_X_hio/status/2047267746610831429/video/1",
+              "media_key": "13_2047267691761987584",
+              "start": 0,
+              "url": "https://t.co/r7LEYgcxdy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047267746610831429",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 183,
+          "impression_count": 26920,
+          "like_count": 2807,
+          "quote_count": 16,
+          "reply_count": 13,
+          "retweet_count": 287
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/r7LEYgcxdy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 100,
+          "like_count": 1529,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 261
+        },
+        "url": "",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-13T10:43:55.000Z",
+        "description": "🔪📵라이브섭외는DM @samejima09 #血オ 촬영금지",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 23,
+                "tag": "血オ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "samejima09"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/hop_eless000?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/hop_eless000?igsh=cXBzMDN3eWJwYmpn&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/ZlCguoE1Ng"
+              }
+            ]
+          }
+        },
+        "id": "1613849243768487936",
+        "location": "、",
+        "name": "血オ",
+        "pinned_tweet_id": "2035313327430385863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016161251328417793/piseug0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11071,
+          "following_count": 41,
+          "like_count": 22614,
+          "listed_count": 22,
+          "media_count": 166,
+          "tweet_count": 4880
+        },
+        "url": "https://t.co/ZlCguoE1Ng",
+        "username": "c_X_hio",
+        "verified": false
+      }
+    ]
+  }
+}

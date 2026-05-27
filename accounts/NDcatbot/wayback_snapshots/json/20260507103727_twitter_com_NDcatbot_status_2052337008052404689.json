@@ -1,0 +1,484 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2052332920019571034",
+    "created_at": "2026-05-07T10:37:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T11:37:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052337008052404689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704469304077611008",
+          "start": 0,
+          "username": "jiaoyanboluooo"
+        },
+        {
+          "end": 32,
+          "id": "866092386694217728",
+          "start": 16,
+          "username": "dungeon_lab_toy"
+        },
+        {
+          "end": 46,
+          "id": "1775514775596027904",
+          "start": 33,
+          "username": "ovomiemiemie"
+        },
+        {
+          "end": 57,
+          "id": "1536020039995777032",
+          "start": 47,
+          "username": "Alex70816"
+        },
+        {
+          "end": 72,
+          "id": "1432187886019903491",
+          "start": 58,
+          "username": "acer_chastity"
+        },
+        {
+          "end": 87,
+          "id": "1280841180075319296",
+          "start": 73,
+          "username": "more_more_504"
+        },
+        {
+          "end": 100,
+          "id": "1807763824013193216",
+          "start": 88,
+          "username": "relokingdee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052337008052404689",
+    "in_reply_to_user_id": "1704469304077611008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052333909770395797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaoyanboluooo @dungeon_lab_toy @ovomiemiemie @Alex70816 @acer_chastity @more_more_504 @relokingdee 上推近两年来抽奖就没中过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2052332920019571034",
+        "created_at": "2026-05-07T10:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052337008052404689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704469304077611008",
+              "start": 0,
+              "username": "jiaoyanboluooo"
+            },
+            {
+              "end": 32,
+              "id": "866092386694217728",
+              "start": 16,
+              "username": "dungeon_lab_toy"
+            },
+            {
+              "end": 46,
+              "id": "1775514775596027904",
+              "start": 33,
+              "username": "ovomiemiemie"
+            },
+            {
+              "end": 57,
+              "id": "1536020039995777032",
+              "start": 47,
+              "username": "Alex70816"
+            },
+            {
+              "end": 72,
+              "id": "1432187886019903491",
+              "start": 58,
+              "username": "acer_chastity"
+            },
+            {
+              "end": 87,
+              "id": "1280841180075319296",
+              "start": 73,
+              "username": "more_more_504"
+            },
+            {
+              "end": 100,
+              "id": "1807763824013193216",
+              "start": 88,
+              "username": "relokingdee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052337008052404689",
+        "in_reply_to_user_id": "1704469304077611008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052333909770395797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaoyanboluooo @dungeon_lab_toy @ovomiemiemie @Alex70816 @acer_chastity @more_more_504 @relokingdee 上推近两年来抽奖就没中过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704469304077611008",
+        "conversation_id": "2052332920019571034",
+        "created_at": "2026-05-07T10:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052333909770395797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "866092386694217728",
+              "start": 0,
+              "username": "dungeon_lab_toy"
+            },
+            {
+              "end": 30,
+              "id": "1775514775596027904",
+              "start": 17,
+              "username": "ovomiemiemie"
+            },
+            {
+              "end": 41,
+              "id": "1536020039995777032",
+              "start": 31,
+              "username": "Alex70816"
+            },
+            {
+              "end": 56,
+              "id": "1432187886019903491",
+              "start": 42,
+              "username": "acer_chastity"
+            },
+            {
+              "end": 71,
+              "id": "1280841180075319296",
+              "start": 57,
+              "username": "more_more_504"
+            },
+            {
+              "end": 84,
+              "id": "1807763824013193216",
+              "start": 72,
+              "username": "relokingdee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052333909770395797",
+        "in_reply_to_user_id": "866092386694217728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052332920019571034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dungeon_lab_toy @ovomiemiemie @Alex70816 @acer_chastity @more_more_504 @relokingdee 我艹🫪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 104,
+          "like_count": 1664,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 292
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵？/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/不要靠近我，我只会让你伤心/主人@Amour761",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Amour761"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2029254116195876924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040790835063881728/wk-qi4m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4278,
+          "following_count": 3463,
+          "like_count": 24947,
+          "listed_count": 11,
+          "media_count": 1317,
+          "tweet_count": 5063
+        },
+        "username": "jiaoyanboluooo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-21T00:44:51.000Z",
+        "description": "Realise your wildest fantasies Contact Email：service@dungeon-lab.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dungeon-lab.com",
+                "end": 23,
+                "expanded_url": "http://dungeon-lab.com",
+                "start": 0,
+                "url": "https://t.co/iTHP4GErdz"
+              }
+            ]
+          }
+        },
+        "id": "866092386694217728",
+        "name": "DG-LAB 地牢实验室",
+        "pinned_tweet_id": "2026136106752962950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1271694986044518403/z3pTfOsh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23111,
+          "following_count": 160,
+          "like_count": 132,
+          "listed_count": 29,
+          "media_count": 44,
+          "tweet_count": 472
+        },
+        "url": "https://t.co/iTHP4GErdz",
+        "username": "dungeon_lab_toy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-03T13:24:52.000Z",
+        "description": "我来这个世界，不是为了繁衍后代，而是来看花怎么开，水怎么流，太阳怎么升起，夕阳何时落下。",
+        "id": "1775514775596027904",
+        "name": "咩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025191432739586048/iYN9WENH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2149,
+          "following_count": 2495,
+          "like_count": 9557,
+          "listed_count": 2,
+          "media_count": 769,
+          "tweet_count": 11000
+        },
+        "username": "ovomiemiemie",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-12T16:18:18.000Z",
+        "description": "03在读大学生｜I人｜属性m｜xp很多｜希望找到朋友一起玩玩或者聊天",
+        "id": "1536020039995777032",
+        "name": "哈气吉米",
+        "pinned_tweet_id": "1815932904238899349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989168360148570113/zV8sia3h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 2160,
+          "like_count": 5397,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 2485
+        },
+        "username": "Alex70816",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-30T03:46:25.000Z",
+        "description": "CD爱好者，Switch，异性恋，四爱大好き，ESFJ，你的知心大姐姐（♂）；\n中文/English/日本語；\n接树洞投稿；\n文爱定制、产品测评推送之类的可私信（给点给点.jpg）；\nghs电报群在置顶~",
+        "id": "1432187886019903491",
+        "location": "Osaka-fu, Japan",
+        "name": "ChastityACER",
+        "pinned_tweet_id": "2050227507358728316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1433020044192088073/pX22J-5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87425,
+          "following_count": 1627,
+          "like_count": 42010,
+          "listed_count": 563,
+          "media_count": 546,
+          "tweet_count": 5921
+        },
+        "username": "acer_chastity",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-08T12:28:41.000Z",
+        "description": "不太會交朋友的小流浪，喜歡電擊⚡️  ＃推止推 #可認識喔~ 裡面有🔞內容，未滿18歲請勿瀏覽。歡淫追蹤！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 19,
+                "tag": "推止推"
+              },
+              {
+                "end": 29,
+                "start": 24,
+                "tag": "可認識喔"
+              }
+            ]
+          }
+        },
+        "id": "1280841180075319296",
+        "location": "Taiwan",
+        "name": "流浪的摸摸",
+        "pinned_tweet_id": "1850217751551541743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618968760328798208/APd08qRl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 288,
+          "like_count": 3051,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 329
+        },
+        "username": "more_more_504",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T13:11:11.000Z",
+        "description": "原账号@lokingdee被封。地区0750小陈皮，sub，cdm，电击爱好者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "lokingdee"
+              }
+            ]
+          }
+        },
+        "id": "1807763824013193216",
+        "name": "kimibaby",
+        "pinned_tweet_id": "1860742366430384132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962391684387581952/UZN1MlGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 1929,
+          "like_count": 11644,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 1281
+        },
+        "username": "relokingdee",
+        "verified": false
+      }
+    ]
+  }
+}

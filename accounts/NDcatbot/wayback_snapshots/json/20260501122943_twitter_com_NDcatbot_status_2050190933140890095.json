@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2050190933140890095",
+    "created_at": "2026-05-01T12:29:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T13:29:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050190933140890095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "822329886257790976",
+          "start": 3,
+          "username": "LumidexNZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050190933140890095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049989297089208384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LumidexNZ: 我想看看吃糖一年以上的跨女素颜跟原来的对比"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2050190933140890095",
+        "created_at": "2026-05-01T12:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T13:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050190933140890095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "822329886257790976",
+              "start": 3,
+              "username": "LumidexNZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050190933140890095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049989297089208384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LumidexNZ: 我想看看吃糖一年以上的跨女素颜跟原来的对比"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "822329886257790976",
+        "conversation_id": "2049989297089208384",
+        "created_at": "2026-04-30T23:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T00:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049989297089208384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/senzhiwu/statu…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/senzhiwu/status/2049512484508401680",
+              "start": 22,
+              "url": "https://t.co/gG9fAnqmP4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049989297089208384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 64245,
+          "like_count": 131,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049512484508401680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想看看吃糖一年以上的跨女素颜跟原来的对比 https://t.co/gG9fAnqmP4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 72,
+          "like_count": 764,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 160
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-20T06:28:17.000Z",
+        "description": "精神病｜匿名信箱https://t.co/MkVyELXohF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/11176781",
+                "end": 31,
+                "expanded_url": "http://ngl.link/11176781",
+                "start": 8,
+                "url": "https://t.co/MkVyELXohF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RKudep",
+                "end": 23,
+                "expanded_url": "https://t.me/RKudep",
+                "start": 0,
+                "url": "https://t.co/y8BdM7JDKk"
+              }
+            ]
+          }
+        },
+        "id": "822329886257790976",
+        "location": "喵星",
+        "name": "Lumidex🏳️‍⚧️",
+        "pinned_tweet_id": "1996780227146781129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974094378621947904/Xsfc6pAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2121,
+          "following_count": 659,
+          "like_count": 5199,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 2152
+        },
+        "url": "https://t.co/y8BdM7JDKk",
+        "username": "LumidexNZ",
+        "verified": false
+      }
+    ]
+  }
+}

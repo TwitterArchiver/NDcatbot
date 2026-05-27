@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051980504984084480"
+      ],
+      "media_source_tweet_id": [
+        "2051980510822605022"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2055941210918043988",
+    "created_at": "2026-05-17T09:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T10:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055941210918043988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1745799972576968705",
+          "start": 3,
+          "username": "bubblepipe42"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mzyMDOtPEI",
+          "end": 41,
+          "expanded_url": "https://x.com/bubblepipe42/status/2051980510822605022/photo/1",
+          "media_key": "3_2051980504984084480",
+          "start": 18,
+          "url": "https://t.co/mzyMDOtPEI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055941210918043988",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051980510822605022",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bubblepipe42: https://t.co/mzyMDOtPEI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1098,
+        "media_key": "3_2051980504984084480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHoZZb2aYAAgith.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051980504984084480"
+          ],
+          "media_source_tweet_id": [
+            "2051980510822605022"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2055941210918043988",
+        "created_at": "2026-05-17T09:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055941210918043988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1745799972576968705",
+              "start": 3,
+              "username": "bubblepipe42"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mzyMDOtPEI",
+              "end": 41,
+              "expanded_url": "https://x.com/bubblepipe42/status/2051980510822605022/photo/1",
+              "media_key": "3_2051980504984084480",
+              "start": 18,
+              "url": "https://t.co/mzyMDOtPEI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055941210918043988",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051980510822605022",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bubblepipe42: https://t.co/mzyMDOtPEI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051980504984084480"
+          ]
+        },
+        "author_id": "1745799972576968705",
+        "conversation_id": "2051980510822605022",
+        "created_at": "2026-05-06T11:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T12:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051980510822605022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mzyMDOtPEI",
+              "end": 23,
+              "expanded_url": "https://x.com/bubblepipe42/status/2051980510822605022/photo/1",
+              "media_key": "3_2051980504984084480",
+              "start": 0,
+              "url": "https://t.co/mzyMDOtPEI"
+            },
+            {
+              "display_url": "x.com/sui_aini/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/sui_aini/status/2051959212016820498",
+              "start": 24,
+              "url": "https://t.co/LYdd7kOZb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051980510822605022",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2772,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051959212016820498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/mzyMDOtPEI https://t.co/LYdd7kOZb0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 116,
+          "like_count": 3281,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 518
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-12T13:29:34.000Z",
+        "description": "活的像个家养猫（已剪角）。",
+        "id": "1745799972576968705",
+        "name": "代糖空泡",
+        "pinned_tweet_id": "2020023264811315232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997240850732961792/1_d8Kddi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1686,
+          "following_count": 925,
+          "like_count": 8387,
+          "listed_count": 5,
+          "media_count": 339,
+          "tweet_count": 2262
+        },
+        "username": "bubblepipe42",
+        "verified": false
+      }
+    ]
+  }
+}

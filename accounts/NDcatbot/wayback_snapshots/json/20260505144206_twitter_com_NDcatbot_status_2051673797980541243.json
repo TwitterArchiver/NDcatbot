@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051636687076532224"
+      ],
+      "media_source_tweet_id": [
+        "2051636755317813529"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2051673797980541243",
+    "created_at": "2026-05-05T14:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T15:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051673797980541243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1721895937357004800",
+          "start": 3,
+          "username": "Strf_9040C"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NYEuIR85UJ",
+          "end": 45,
+          "expanded_url": "https://x.com/Strf_9040C/status/2051636755317813529/photo/1",
+          "media_key": "3_2051636687076532224",
+          "start": 22,
+          "url": "https://t.co/NYEuIR85UJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051673797980541243",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051636755317813529",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Strf_9040C: 幽默完了😄 https://t.co/NYEuIR85UJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051636687076532224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjgsmVbIAAaOHi.jpg",
+        "width": 889
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051636687076532224"
+          ],
+          "media_source_tweet_id": [
+            "2051636755317813529"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2051673797980541243",
+        "created_at": "2026-05-05T14:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T15:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051673797980541243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1721895937357004800",
+              "start": 3,
+              "username": "Strf_9040C"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NYEuIR85UJ",
+              "end": 45,
+              "expanded_url": "https://x.com/Strf_9040C/status/2051636755317813529/photo/1",
+              "media_key": "3_2051636687076532224",
+              "start": 22,
+              "url": "https://t.co/NYEuIR85UJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051673797980541243",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051636755317813529",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Strf_9040C: 幽默完了😄 https://t.co/NYEuIR85UJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051636687076532224"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2051636755317813529",
+        "created_at": "2026-05-05T12:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051636755317813529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NYEuIR85UJ",
+              "end": 29,
+              "expanded_url": "https://x.com/Strf_9040C/status/2051636755317813529/photo/1",
+              "media_key": "3_2051636687076532224",
+              "start": 6,
+              "url": "https://t.co/NYEuIR85UJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051636755317813529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 984,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "幽默完了😄 https://t.co/NYEuIR85UJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "hyachana"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 86,
+          "like_count": 1068,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 219
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C 是 Strf 9040 的现代化版本，由瑞典的 BAE Systems Hägglunds 开发。与 A 和 B 版本相比，Strf 9040C 配备了一个新的炮塔，具有更好的保护能力，增强了机组人员的生存能力和态势感知能力。\n备用载具：@SAAB_37A\n主人🥰@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "SAAB_37A"
+              },
+              {
+                "end": 152,
+                "start": 143,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "name": "STRIDSFORDON 9040C",
+        "pinned_tweet_id": "2043259817121448322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869343279554437120/snkf7vXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231,
+          "following_count": 1944,
+          "like_count": 9274,
+          "listed_count": 0,
+          "media_count": 477,
+          "tweet_count": 923
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050453172968431616"
+      ],
+      "media_source_tweet_id": [
+        "2050483428798443623"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2050512169666855375",
+    "created_at": "2026-05-02T09:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T10:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050512169666855375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GuUNQ7gOWH",
+          "end": 55,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2050483428798443623/photo/1",
+          "media_key": "3_2050453172968431616",
+          "start": 32,
+          "url": "https://t.co/GuUNQ7gOWH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050512169666855375",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050483428798443623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: 哪位推友？……哦，是我 https://t.co/GuUNQ7gOWH"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "（5 个新通知）呜啊！（惊喜）\n（5 条 spam ）这不正确……（失望）",
+        "height": 2048,
+        "media_key": "3_2050453172968431616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHSsTAtbIAAQh5r.jpg",
+        "width": 1496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050453172968431616"
+          ],
+          "media_source_tweet_id": [
+            "2050483428798443623"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2050512169666855375",
+        "created_at": "2026-05-02T09:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T10:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050512169666855375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GuUNQ7gOWH",
+              "end": 55,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2050483428798443623/photo/1",
+              "media_key": "3_2050453172968431616",
+              "start": 32,
+              "url": "https://t.co/GuUNQ7gOWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050512169666855375",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050483428798443623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: 哪位推友？……哦，是我 https://t.co/GuUNQ7gOWH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050453172968431616"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2050483428798443623",
+        "created_at": "2026-05-02T07:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T08:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050483428798443623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GuUNQ7gOWH",
+              "end": 35,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2050483428798443623/photo/1",
+              "media_key": "3_2050453172968431616",
+              "start": 12,
+              "url": "https://t.co/GuUNQ7gOWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050483428798443623",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2198,
+          "like_count": 151,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "哪位推友？……哦，是我 https://t.co/GuUNQ7gOWH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 73,
+          "like_count": 856,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 171
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 和サイバー老婆 @Kanjousen0 贴贴！| 和猫猫 @HuamanX09 贴贴喵！| CN/EN/JP | まのさば好き | 友跨 | 想当猫猫\n互 fo 标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "username": "HuamanX09"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 113,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 90,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2356,
+          "following_count": 705,
+          "like_count": 16977,
+          "listed_count": 5,
+          "media_count": 952,
+          "tweet_count": 5203
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

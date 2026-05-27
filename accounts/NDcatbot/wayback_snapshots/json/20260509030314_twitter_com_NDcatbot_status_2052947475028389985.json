@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2052947475028389985",
+    "created_at": "2026-05-09T03:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T04:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052947475028389985"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/berrrry_na/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/berrrry_na/status/2052754603226378323",
+          "start": 17,
+          "url": "https://t.co/qxh3SNAEL4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052947475028389985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052754603226378323",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "像我這樣的\n女孩子\n愛吃肉最棒了 https://t.co/qxh3SNAEL4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2052947475028389985",
+        "created_at": "2026-05-09T03:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052947475028389985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/berrrry_na/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/berrrry_na/status/2052754603226378323",
+              "start": 17,
+              "url": "https://t.co/qxh3SNAEL4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052947475028389985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052754603226378323",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "像我這樣的\n女孩子\n愛吃肉最棒了 https://t.co/qxh3SNAEL4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4880352669",
+        "conversation_id": "2052754603226378323",
+        "created_at": "2026-05-08T14:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052754603226378323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052754603226378323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像我這樣的\n女孩子\n愛吃肉最棒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 114,
+          "like_count": 2119,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 362
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-06T06:38:25.000Z",
+        "description": "別名M娜/永遠18歲香軟毛絨娃娃🐶（官方設定）/日期是7.30/男女混血🤯/調皮的brat😈/表面靦腆到想躲被子裡，內心卻澀到不行😳/泛性戀/誰來調教我當個乖女孩🥺/❤️比自己還重要的人@MZiyu81757❤️/🍜賽博貓娘妹妹@NDcatbot🍜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 93,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 114,
+                "username": "NDcatbot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/berrrr…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/berrrry-na.bsky.social",
+                "start": 0,
+                "url": "https://t.co/JLdIx3yYUs"
+              }
+            ]
+          }
+        },
+        "id": "4880352669",
+        "location": "因特網絡是我家",
+        "name": "🌸超絶最かわ🌸莓娜",
+        "pinned_tweet_id": "2006410014760517689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039424565563322368/TZQVMlLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 349,
+          "like_count": 774,
+          "listed_count": 1,
+          "media_count": 186,
+          "tweet_count": 420
+        },
+        "url": "https://t.co/JLdIx3yYUs",
+        "username": "berrrry_na",
+        "verified": true
+      }
+    ]
+  }
+}

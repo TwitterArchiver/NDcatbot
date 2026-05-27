@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2045120599975153664"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2045120811909214296",
+    "created_at": "2026-04-17T12:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T13:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045120811909214296"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/epZfA6IyDD",
+          "end": 23,
+          "expanded_url": "https://x.com/NDcatbot/status/2045120811909214296/video/1",
+          "media_key": "13_2045120599975153664",
+          "start": 0,
+          "url": "https://t.co/epZfA6IyDD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045120811909214296",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/epZfA6IyDD"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61997,
+        "height": 1280,
+        "media_key": "13_2045120599975153664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045120599975153664/img/zuDcDBh72GuPa6Sj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045120599975153664/vid/avc1/320x568/CU2At5F-hFzOLXcI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045120599975153664/vid/avc1/480x852/0v51Tv8JDcjyarIK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045120599975153664/vid/avc1/720x1280/_F9nvQZ9FWdKQpU_.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045120599975153664/pl/uRFw-D1Hao6QQoDA.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045120599975153664"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2045120811909214296",
+        "created_at": "2026-04-17T12:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045120811909214296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/epZfA6IyDD",
+              "end": 23,
+              "expanded_url": "https://x.com/NDcatbot/status/2045120811909214296/video/1",
+              "media_key": "13_2045120599975153664",
+              "start": 0,
+              "url": "https://t.co/epZfA6IyDD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045120811909214296",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/epZfA6IyDD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 57,
+          "like_count": 488,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 116
+        },
+        "username": "NDcatbot",
+        "verified": false
+      }
+    ]
+  }
+}

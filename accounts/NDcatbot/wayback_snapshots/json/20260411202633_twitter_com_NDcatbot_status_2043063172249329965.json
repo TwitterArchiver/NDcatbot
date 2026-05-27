@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2043028730780749852",
+    "created_at": "2026-04-11T20:26:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T21:26:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043063172249329965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1840064127085228032",
+          "start": 0,
+          "username": "shbdjugv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043063172249329965",
+    "in_reply_to_user_id": "1840064127085228032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043028730780749852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shbdjugv 主播我可以月你吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1805,
+        "media_key": "3_2043028664481419264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFpLvvRbEAATanb.jpg",
+        "width": 963
+      },
+      {
+        "duration_ms": 85500,
+        "height": 1280,
+        "media_key": "13_2043028664514940931",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043028664514940931/img/ximxxtsFeVePl2wI.jpg",
+        "public_metrics": {
+          "view_count": 203
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043028664514940931/vid/avc1/320x568/EpHPOPaFmp5jw1Ni.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043028664514940931/vid/avc1/480x852/-BSjm5Rmkk6xcdcS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043028664514940931/vid/avc1/720x1280/DvGgDPbwZjIaB7Cz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043028664514940931/pl/IZOiB-96KVP_16h8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2043028730780749852",
+        "created_at": "2026-04-11T20:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T21:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043063172249329965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840064127085228032",
+              "start": 0,
+              "username": "shbdjugv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043063172249329965",
+        "in_reply_to_user_id": "1840064127085228032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043028730780749852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shbdjugv 主播我可以月你吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043028664481419264",
+            "13_2043028664514940931"
+          ]
+        },
+        "author_id": "1840064127085228032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2043028730780749852",
+        "created_at": "2026-04-11T18:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T19:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043028730780749852"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "ふりそで"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "わふく"
+            },
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "小男孩"
+            },
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "正太"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "男娘"
+            },
+            {
+              "end": 103,
+              "start": 100,
+              "tag": "发情"
+            },
+            {
+              "end": 108,
+              "start": 104,
+              "tag": "肉便器"
+            },
+            {
+              "end": 112,
+              "start": 109,
+              "tag": "娼年"
+            },
+            {
+              "end": 120,
+              "start": 113,
+              "tag": "可爱的男孩子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PJVmdkcOab",
+              "end": 169,
+              "expanded_url": "https://x.com/shbdjugv/status/2043028730780749852/video/1",
+              "media_key": "3_2043028664481419264",
+              "start": 146,
+              "url": "https://t.co/PJVmdkcOab"
+            },
+            {
+              "display_url": "pic.x.com/PJVmdkcOab",
+              "end": 169,
+              "expanded_url": "https://x.com/shbdjugv/status/2043028730780749852/video/1",
+              "media_key": "13_2043028664514940931",
+              "start": 146,
+              "url": "https://t.co/PJVmdkcOab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043028730780749852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 478,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "放假的时候和单主一起去泡温泉玩啦！单主约了我好几次约会委托！他说很喜欢我穿和服的样子！那～ 仁凉穿着这套衣服陪他一起去玩吧！\n\n要买视频，请私信捏🥰！\n#ふりそで #わふく #小男孩 #正太 #男娘 #发情 #肉便器 #娼年 #可爱的男孩子\n发朋友圈↓            发推特↓预告1 https://t.co/PJVmdkcOab"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 45,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 88
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T16:20:59.000Z",
+        "description": "这里是仁蓝酱【双性恋】//我很希望有同好可以跟我扩列/（在网上有点社恐 👉👈）/酒店/原味/欢迎互转推哦/更新很慢/发自己的一些日常/",
+        "id": "1840064127085228032",
+        "location": "15km",
+        "name": "仁凉（求转推！）",
+        "pinned_tweet_id": "2043030649683226648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840064938318180352/Wx58WZ8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6120,
+          "following_count": 728,
+          "like_count": 40658,
+          "listed_count": 29,
+          "media_count": 187,
+          "tweet_count": 2142
+        },
+        "username": "shbdjugv",
+        "verified": false
+      }
+    ]
+  }
+}

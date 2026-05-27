@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2041932359948497140",
+    "created_at": "2026-04-08T17:33:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T18:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041932359948497140"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2032820288866369805",
+          "start": 12,
+          "url": "https://t.co/ylj9Iy62SG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041932359948497140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032820288866369805",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "孩子们猜猜这是谁的学校 https://t.co/ylj9Iy62SG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52709,
+        "height": 1280,
+        "media_key": "13_2032815382147547136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032815382147547136/img/DzcARI05FUy_8Vtk.jpg",
+        "public_metrics": {
+          "view_count": 36465
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032815382147547136/vid/avc1/320x568/41JqRQ0PJ62z8tYY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032815382147547136/vid/avc1/480x852/8pQHj-AkoI1vigQd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032815382147547136/vid/avc1/720x1280/ShBUnTQzWkBQjwK9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032815382147547136/pl/waw1BVqcIDI832SM.m3u8?v=151"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2041932359948497140",
+        "created_at": "2026-04-08T17:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T18:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041932359948497140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2032820288866369805",
+              "start": 12,
+              "url": "https://t.co/ylj9Iy62SG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041932359948497140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032820288866369805",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "孩子们猜猜这是谁的学校 https://t.co/ylj9Iy62SG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032815382147547136"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032820288866369805",
+        "created_at": "2026-03-14T14:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T14:49:11.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032816313320489449",
+          "2032820288866369805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nyil9Pwadi",
+              "end": 112,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2032820288866369805/video/1",
+              "media_key": "13_2032815382147547136",
+              "start": 89,
+              "url": "https://t.co/nyil9Pwadi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032820288866369805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“电子镣铐”\n近日，广东江门一学校引入AI系统，可自动记录超千人的跑步运动数据，生成排名。\n校长说：“以后我们的老师和学生的跑步运动，再也不可以偷懒了，谁偷懒谁认真跑都能看到”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 71882,
+          "like_count": 268,
+          "quote_count": 8,
+          "reply_count": 31,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "“电子镣铐”\n近日，广东江门一学校引入AI系统，可自动记录超千人的跑步运动数据，生成排名。\n校长说：“以后我们的老师和学生的跑步运动，再也不可以偷懒了，谁偷懒谁认真跑都能看到” https://t.co/nyil9Pwadi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 46,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 75
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2034624681609933025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195787,
+          "following_count": 1026,
+          "like_count": 9387,
+          "listed_count": 8617,
+          "media_count": 44913,
+          "tweet_count": 51987
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

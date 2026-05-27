@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2051754910686064880",
+    "created_at": "2026-05-07T04:49:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T05:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052249392896434504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1764195010986274816",
+          "start": 0,
+          "username": "CCA8798"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052249392896434504",
+    "in_reply_to_user_id": "1764195010986274816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051754910686064880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCA8798 哇好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3547,
+        "media_key": "3_2051754718867972096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlMC9BbYAAot-y.jpg",
+        "width": 2660
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2051754746848141312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlMElQa4AA9crC.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2958,
+        "media_key": "3_2051754771934281728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlMGCtbAAAE63H.jpg",
+        "width": 3945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2051754910686064880",
+        "created_at": "2026-05-07T04:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052249392896434504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1764195010986274816",
+              "start": 0,
+              "username": "CCA8798"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052249392896434504",
+        "in_reply_to_user_id": "1764195010986274816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051754910686064880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798 哇好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051754718867972096",
+            "3_2051754746848141312",
+            "3_2051754771934281728"
+          ]
+        },
+        "author_id": "1764195010986274816",
+        "conversation_id": "2051754910686064880",
+        "created_at": "2026-05-05T20:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T21:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051754910686064880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nuv6AyrNZe",
+              "end": 62,
+              "expanded_url": "https://x.com/CCA8798/status/2051754910686064880/photo/1",
+              "media_key": "3_2051754718867972096",
+              "start": 39,
+              "url": "https://t.co/Nuv6AyrNZe"
+            },
+            {
+              "display_url": "pic.x.com/Nuv6AyrNZe",
+              "end": 62,
+              "expanded_url": "https://x.com/CCA8798/status/2051754910686064880/photo/1",
+              "media_key": "3_2051754746848141312",
+              "start": 39,
+              "url": "https://t.co/Nuv6AyrNZe"
+            },
+            {
+              "display_url": "pic.x.com/Nuv6AyrNZe",
+              "end": 62,
+              "expanded_url": "https://x.com/CCA8798/status/2051754910686064880/photo/1",
+              "media_key": "3_2051754771934281728",
+              "start": 39,
+              "url": "https://t.co/Nuv6AyrNZe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051754910686064880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "是的，把一些nsfw从二代目转过来这里看看流量\n文案摆烂\n(！全黄标警告！)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 357,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是的，把一些nsfw从二代目转过来这里看看流量\n文案摆烂\n(！全黄标警告！) https://t.co/Nuv6AyrNZe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 101,
+          "like_count": 1543,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 273
+        },
+        "url": "",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T07:45:22.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜26.05.05 | 出厂:壹贰.零壹.零叁 | 165cm/41kg | 佛山 | 玻璃心 双相+重抑中焦不OD 好说话 | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder\n可寄拍/扩列🤓\n二代目(逃生舱): @CCA8798suki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "CCA8798suki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://www.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/7pvlNCbO8x"
+              }
+            ]
+          }
+        },
+        "id": "1764195010986274816",
+        "location": "安东星蜗牛第一票常交易有限公司",
+        "name": "不会起名の捌拐玖捌(出柜成功版)🍥",
+        "pinned_tweet_id": "2051600396750401572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051736077615136768/q8UF6A0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 1009,
+          "like_count": 14151,
+          "listed_count": 4,
+          "media_count": 133,
+          "tweet_count": 1847
+        },
+        "url": "https://t.co/7pvlNCbO8x",
+        "username": "CCA8798",
+        "verified": true
+      }
+    ]
+  }
+}

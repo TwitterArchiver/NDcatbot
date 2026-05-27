@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047013396982431745"
+      ],
+      "media_source_tweet_id": [
+        "2047013466591150508"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2047559553441788295",
+    "created_at": "2026-04-24T06:13:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T07:13:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047559553441788295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1990814524556128256",
+          "start": 3,
+          "username": "angle71766"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1PUM4Rk8fI",
+          "end": 39,
+          "expanded_url": "https://x.com/angle71766/status/2047013466591150508/photo/1",
+          "media_key": "3_2047013396982431745",
+          "start": 16,
+          "url": "https://t.co/1PUM4Rk8fI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047559553441788295",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047013466591150508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @angle71766: https://t.co/1PUM4Rk8fI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 725,
+        "media_key": "3_2047013396982431745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhz1smagAE2CBc.jpg",
+        "width": 2170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047013396982431745"
+          ],
+          "media_source_tweet_id": [
+            "2047013466591150508"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2047559553441788295",
+        "created_at": "2026-04-24T06:13:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:13:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047559553441788295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1990814524556128256",
+              "start": 3,
+              "username": "angle71766"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1PUM4Rk8fI",
+              "end": 39,
+              "expanded_url": "https://x.com/angle71766/status/2047013466591150508/photo/1",
+              "media_key": "3_2047013396982431745",
+              "start": 16,
+              "url": "https://t.co/1PUM4Rk8fI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047559553441788295",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047013466591150508",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @angle71766: https://t.co/1PUM4Rk8fI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047013396982431745"
+          ]
+        },
+        "author_id": "1990814524556128256",
+        "conversation_id": "2047013466591150508",
+        "created_at": "2026-04-22T18:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T19:03:23.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047013410408468875",
+          "2047013466591150508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1PUM4Rk8fI",
+              "end": 23,
+              "expanded_url": "https://x.com/angle71766/status/2047013466591150508/photo/1",
+              "media_key": "3_2047013396982431745",
+              "start": 0,
+              "url": "https://t.co/1PUM4Rk8fI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047013466591150508",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 18345,
+          "like_count": 610,
+          "quote_count": 14,
+          "reply_count": 24,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1PUM4Rk8fI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 65,
+          "like_count": 581,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 134
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1798,
+          "following_count": 150,
+          "like_count": 225,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 374
+        },
+        "username": "angle71766",
+        "verified": true
+      }
+    ]
+  }
+}

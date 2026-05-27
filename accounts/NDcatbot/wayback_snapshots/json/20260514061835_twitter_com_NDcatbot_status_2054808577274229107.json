@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054808574505943040"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2054409744459477404",
+    "created_at": "2026-05-14T06:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T07:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054808577274229107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1524962045992443904",
+          "start": 0,
+          "username": "purpleseason_zj"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/51JBFQI7ae",
+          "end": 43,
+          "expanded_url": "https://x.com/NDcatbot/status/2054808577274229107/photo/1",
+          "media_key": "3_2054808574505943040",
+          "start": 20,
+          "url": "https://t.co/51JBFQI7ae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054808577274229107",
+    "in_reply_to_user_id": "1524962045992443904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054409744459477404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@purpleseason_zj 分母 https://t.co/51JBFQI7ae"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_2054808574505943040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIQlgvzagAABY94.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054808574505943040"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054409744459477404",
+        "created_at": "2026-05-14T06:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T07:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054808577274229107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1524962045992443904",
+              "start": 0,
+              "username": "purpleseason_zj"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/51JBFQI7ae",
+              "end": 43,
+              "expanded_url": "https://x.com/NDcatbot/status/2054808577274229107/photo/1",
+              "media_key": "3_2054808574505943040",
+              "start": 20,
+              "url": "https://t.co/51JBFQI7ae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054808577274229107",
+        "in_reply_to_user_id": "1524962045992443904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054409744459477404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@purpleseason_zj 分母 https://t.co/51JBFQI7ae"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1524962045992443904",
+        "conversation_id": "2054409744459477404",
+        "created_at": "2026-05-13T03:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054409744459477404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054409744459477404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6800,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 67,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "：嗯嗯！！！\n最近感冒稍微好转一点了，拖了很久的2500fo抽奖决定现在开始！！！！\n奖品：三个30r小红包请大家喝奶茶\n要求：关注我并评论这条帖文\n截止到五月十六日（本周六）晚（具体时间看我心情^ - ^\n开奖日期暂定本周日"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 117,
+          "like_count": 2894,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 461
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-13T03:57:48.000Z",
+        "description": "现役体制内牛马 未婚带两子（我养的贱猫）Apex世界第一拖后腿 铁血吉妈 主更一些莫名其妙的对话和无意义碎碎念（我的情绪垃圾桶）\n 碎碎念小号指路：@strawberrymk_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "strawberrymk_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shawn62775",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shawn62775",
+                "start": 0,
+                "url": "https://t.co/UIB15QRURu"
+              }
+            ]
+          }
+        },
+        "id": "1524962045992443904",
+        "location": "不是黄推 ",
+        "name": "紫季purple season_",
+        "pinned_tweet_id": "2012252753750573421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045550927848017920/sscsz2Z0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2585,
+          "following_count": 109,
+          "like_count": 994,
+          "listed_count": 7,
+          "media_count": 632,
+          "tweet_count": 1541
+        },
+        "url": "https://t.co/UIB15QRURu",
+        "username": "purpleseason_zj",
+        "verified": false
+      }
+    ]
+  }
+}

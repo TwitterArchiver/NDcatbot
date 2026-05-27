@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2052070039034224795",
+    "created_at": "2026-05-07T05:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T06:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052255857971536182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1942218528100134912",
+          "start": 0,
+          "username": "youling_qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052255857971536182",
+    "in_reply_to_user_id": "1942218528100134912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052070039034224795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youling_qaq 分母来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2052070039034224795",
+        "created_at": "2026-05-07T05:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T06:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052255857971536182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1942218528100134912",
+              "start": 0,
+              "username": "youling_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052255857971536182",
+        "in_reply_to_user_id": "1942218528100134912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052070039034224795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youling_qaq 分母来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942218528100134912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2052070039034224795",
+        "created_at": "2026-05-06T16:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052070039034224795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/youling_qaq/st…",
+              "end": 179,
+              "expanded_url": "https://twitter.com/youling_qaq/status/2050579923052658924",
+              "start": 156,
+              "url": "https://t.co/wEt659lu1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052070039034224795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "550fo！这个账号的第一次抽奖:)\n\n一等奖（1个）：10局舞萌！（根据本地物价，折现30r）awmc\n\n二等奖（2个）：一盒绿普（折现15r）od是错的（？😋😋😋😋😋\n\n三等奖（6个）：2r，也可以换成2t愈美（应该没有人会选这个吧😨，但是你选这个我确实会寄）\n\n开奖时间：5月10号13点，用grok抽！\n\n参加方式：关注+点赞+评论+转帖\n\n（这个其实是第三版，某个神人前两次都把这个帖子误删了，第三次发帖发现内容差不多一直无法发送。不对，我不是要补作业吗？）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5042,
+          "like_count": 79,
+          "quote_count": 1,
+          "reply_count": 57,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050579923052658924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "550fo！这个账号的第一次抽奖:)\n\n一等奖（1个）：10局舞萌！（根据本地物价，折现30r）awmc\n\n二等奖（2个）：一盒绿普（折现15r）od是错的（？😋😋😋😋😋\n\n三等奖（6个）：2r，也可以换成2t愈美（应该没有人会选这个吧😨，但是你选这个我确实会寄）\n\n开奖时间：5月10号13点，用grok抽！ https://t.co/wEt659lu1i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 102,
+          "like_count": 1554,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 276
+        },
+        "url": "",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T13:46:08.000Z",
+        "description": "没错，这个人就是线上比线下还社恐的一个神人（羡慕一切休学的）// 年龄党 mtf // 22.2.12 // oder // 本质神人（我再也不玩抽象梗了，别提了，真的在玩梗啊喂😭） // 瓦，cs，mc，apex，二游重度依赖 // od是错的:) // 半出柜状态 // 当你发现我在线且没回复时只能证明我 o 傻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/basibatuoooooo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/basibatuoooooo",
+                "start": 0,
+                "url": "https://t.co/4lMrqR4lwO"
+              }
+            ]
+          }
+        },
+        "id": "1942218528100134912",
+        "location": "关注塔菲喵，关注塔菲谢谢喵",
+        "name": "basibatuo🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022914453998891008/mwmzVtyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 872,
+          "like_count": 1183,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 406
+        },
+        "url": "https://t.co/4lMrqR4lwO",
+        "username": "youling_qaq",
+        "verified": false
+      }
+    ]
+  }
+}

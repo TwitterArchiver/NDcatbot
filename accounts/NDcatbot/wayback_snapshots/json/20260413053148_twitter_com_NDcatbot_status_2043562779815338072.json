@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2041482323829694464"
+      ],
+      "media_source_tweet_id": [
+        "2041482414061723950"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043562779815338072",
+    "created_at": "2026-04-13T05:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T06:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043562779815338072"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 103,
+          "start": 94,
+          "tag": "kigurumi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1596556266348113920",
+          "start": 3,
+          "username": "tiantian2413_1"
+        },
+        {
+          "end": 92,
+          "id": "1338483456905420801",
+          "start": 83,
+          "username": "CN_Probe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GeyNj3yQ1o",
+          "end": 127,
+          "expanded_url": "https://x.com/tiantian2413_1/status/2041482414061723950/video/1",
+          "media_key": "7_2041482323829694464",
+          "start": 104,
+          "url": "https://t.co/GeyNj3yQ1o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043562779815338072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 293
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041482414061723950",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tiantian2413_1: 天天物流正在接单，目前负责承运各体型人形玩偶，运输前会好好固定四肢和脖颈，连手指都会一起固定在板子上哦~\n非常的安全~\n玩偶:@CN_Probe \n#kigurumi https://t.co/GeyNj3yQ1o"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 44626,
+        "height": 720,
+        "media_key": "7_2041482323829694464",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2041482323829694464/pu/img/vFQQmf-maMbjNDKA.jpg",
+        "public_metrics": {
+          "view_count": 72777
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041482323829694464/pu/vid/avc1/480x270/JYWVPmZlj68eaC_4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041482323829694464/pu/vid/avc1/640x360/t8ThACVSaGQmWC2X.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2041482323829694464/pu/vid/avc1/1280x720/MaCBtRqtHwlMUJ_D.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2041482323829694464/pu/pl/bCduV8yqsJfUPnyz.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2041482323829694464"
+          ],
+          "media_source_tweet_id": [
+            "2041482414061723950"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043562779815338072",
+        "created_at": "2026-04-13T05:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043562779815338072"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 94,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1596556266348113920",
+              "start": 3,
+              "username": "tiantian2413_1"
+            },
+            {
+              "end": 92,
+              "id": "1338483456905420801",
+              "start": 83,
+              "username": "CN_Probe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GeyNj3yQ1o",
+              "end": 127,
+              "expanded_url": "https://x.com/tiantian2413_1/status/2041482414061723950/video/1",
+              "media_key": "7_2041482323829694464",
+              "start": 104,
+              "url": "https://t.co/GeyNj3yQ1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043562779815338072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 293
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041482414061723950",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tiantian2413_1: 天天物流正在接单，目前负责承运各体型人形玩偶，运输前会好好固定四肢和脖颈，连手指都会一起固定在板子上哦~\n非常的安全~\n玩偶:@CN_Probe \n#kigurumi https://t.co/GeyNj3yQ1o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2041482323829694464"
+          ]
+        },
+        "author_id": "1596556266348113920",
+        "conversation_id": "2041482414061723950",
+        "created_at": "2026-04-07T11:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041482414061723950"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 74,
+              "tag": "kigurumi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 72,
+              "id": "1338483456905420801",
+              "start": 63,
+              "username": "CN_Probe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GeyNj3yQ1o",
+              "end": 107,
+              "expanded_url": "https://x.com/tiantian2413_1/status/2041482414061723950/video/1",
+              "media_key": "7_2041482323829694464",
+              "start": 84,
+              "url": "https://t.co/GeyNj3yQ1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041482414061723950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1415,
+          "impression_count": 92700,
+          "like_count": 3873,
+          "quote_count": 9,
+          "reply_count": 46,
+          "retweet_count": 293
+        },
+        "reply_settings": "everyone",
+        "text": "天天物流正在接单，目前负责承运各体型人形玩偶，运输前会好好固定四肢和脖颈，连手指都会一起固定在板子上哦~\n非常的安全~\n玩偶:@CN_Probe \n#kigurumi https://t.co/GeyNj3yQ1o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 46,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 90
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T17:28:06.000Z",
+        "description": "绳子～拘束道具～kigurumi～半退役h文作者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/tiantian2413",
+                "end": 23,
+                "expanded_url": "http://patreon.com/tiantian2413",
+                "start": 0,
+                "url": "https://t.co/n73UZ917kg"
+              }
+            ]
+          }
+        },
+        "id": "1596556266348113920",
+        "location": "南京",
+        "name": "天天",
+        "pinned_tweet_id": "2027368781144830229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596558427077357568/GjhRUIz7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53213,
+          "following_count": 970,
+          "like_count": 7632,
+          "listed_count": 170,
+          "media_count": 167,
+          "tweet_count": 4213
+        },
+        "url": "https://t.co/n73UZ917kg",
+        "username": "tiantian2413_1",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-14T13:58:25.000Z",
+        "description": "kiger&撮影\n📷:Sony A1M2/Leica Q3 43",
+        "id": "1338483456905420801",
+        "location": "Xi'an&Shanghai",
+        "name": "Probe",
+        "pinned_tweet_id": "2042230278056529988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937006780091076608/SXtP1r7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5732,
+          "following_count": 743,
+          "like_count": 12287,
+          "listed_count": 34,
+          "media_count": 137,
+          "tweet_count": 764
+        },
+        "username": "CN_Probe",
+        "verified": true
+      }
+    ]
+  }
+}

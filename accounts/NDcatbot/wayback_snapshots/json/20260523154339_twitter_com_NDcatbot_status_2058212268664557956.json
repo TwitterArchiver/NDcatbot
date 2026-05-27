@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2058212268664557956",
+    "created_at": "2026-05-23T15:43:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T16:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058212268664557956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/omgnowihasfish…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/omgnowihasfish/status/2058160924603920528",
+          "start": 16,
+          "url": "https://t.co/R4vr1fTIcI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058212268664557956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058160924603920528",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "面条要争取在15岁之前结束生命 https://t.co/R4vr1fTIcI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2058212268664557956",
+        "created_at": "2026-05-23T15:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058212268664557956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/omgnowihasfish…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/omgnowihasfish/status/2058160924603920528",
+              "start": 16,
+              "url": "https://t.co/R4vr1fTIcI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058212268664557956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058160924603920528",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "面条要争取在15岁之前结束生命 https://t.co/R4vr1fTIcI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055911737208315904",
+        "conversation_id": "2058160924603920528",
+        "created_at": "2026-05-23T12:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058160924603920528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_Sennya0717/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/_Sennya0717/status/2004550532967641571",
+              "start": 16,
+              "url": "https://t.co/FeP8ymLoi9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058160924603920528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1512,
+          "like_count": 23,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004550532967641571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "黃瓜要争取在18岁之前结束生命 https://t.co/FeP8ymLoi9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 126,
+          "like_count": 3721,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 588
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T07:23:39.000Z",
+        "description": "座標台灣台中市(謝謝你喜歡台灣😭😭😭❤️❤️)\n2009/12/24\n我已急哭😂😭",
+        "id": "2055911737208315904",
+        "name": "黃瓜🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055912532402216960/jnl7BbH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 336,
+          "like_count": 600,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 128
+        },
+        "username": "omgnowihasfish",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2046185531445543124",
+    "created_at": "2026-04-21T05:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T06:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046464630147670221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1867207378774753280",
+          "start": 0,
+          "username": "Olive718390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046464630147670221",
+    "in_reply_to_user_id": "1867207378774753280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046185531445543124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Olive718390 男性的胡须通常比女性的唇毛更加茂密且粗硬，面积也会更大，脱毛难度更高，时间更长"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2046185517956681728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGWC4y5bUAAtynt.jpg",
+        "width": 473
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2046185517986074625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGWC4zAb0AEwR9u.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2046185531445543124",
+        "created_at": "2026-04-21T05:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T06:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046464630147670221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1867207378774753280",
+              "start": 0,
+              "username": "Olive718390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046464630147670221",
+        "in_reply_to_user_id": "1867207378774753280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046185531445543124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olive718390 男性的胡须通常比女性的唇毛更加茂密且粗硬，面积也会更大，脱毛难度更高，时间更长"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046185517956681728",
+            "3_2046185517986074625"
+          ]
+        },
+        "author_id": "1867207378774753280",
+        "conversation_id": "2046185531445543124",
+        "created_at": "2026-04-20T11:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046185531445543124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fS2LfHqtbi",
+              "end": 42,
+              "expanded_url": "https://x.com/Olive718390/status/2046185531445543124/photo/1",
+              "media_key": "3_2046185517956681728",
+              "start": 19,
+              "url": "https://t.co/fS2LfHqtbi"
+            },
+            {
+              "display_url": "pic.x.com/fS2LfHqtbi",
+              "end": 42,
+              "expanded_url": "https://x.com/Olive718390/status/2046185531445543124/photo/1",
+              "media_key": "3_2046185517986074625",
+              "start": 19,
+              "url": "https://t.co/fS2LfHqtbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046185531445543124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 56412,
+          "like_count": 69,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "几个意思几个意思，为什么差价那么大😩 https://t.co/fS2LfHqtbi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 57,
+          "like_count": 508,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 119
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-12T13:58:35.000Z",
+        "description": "记录变化 ；06mtx2024.11.17🍥；183/120；小榄；血图转发 @yan_kenno",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 39,
+                "username": "yan_kenno"
+              }
+            ]
+          }
+        },
+        "id": "1867207378774753280",
+        "name": "Olive",
+        "pinned_tweet_id": "1877546970006319107",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870479803410960384/xxMn_OB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1949,
+          "following_count": 1099,
+          "like_count": 35376,
+          "listed_count": 9,
+          "media_count": 322,
+          "tweet_count": 2922
+        },
+        "username": "Olive718390",
+        "verified": false
+      }
+    ]
+  }
+}

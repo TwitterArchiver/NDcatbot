@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2041401334495433190",
+    "created_at": "2026-04-08T08:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T09:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041793151669875052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1906983076032372736",
+          "start": 0,
+          "username": "uhghggyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041793151669875052",
+    "in_reply_to_user_id": "1906983076032372736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041401334495433190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uhghggyu 隆鼻教我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1757,
+        "media_key": "3_2041401322390671360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSDr9kb0AAsBCH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2041401334495433190",
+        "created_at": "2026-04-08T08:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041793151669875052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1906983076032372736",
+              "start": 0,
+              "username": "uhghggyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041793151669875052",
+        "in_reply_to_user_id": "1906983076032372736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041401334495433190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uhghggyu 隆鼻教我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041401322390671360"
+          ]
+        },
+        "author_id": "1906983076032372736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041401334495433190",
+        "created_at": "2026-04-07T06:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T07:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041401334495433190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iSBb0QikJr",
+              "end": 72,
+              "expanded_url": "https://x.com/uhghggyu/status/2041401334495433190/photo/1",
+              "media_key": "3_2041401322390671360",
+              "start": 49,
+              "url": "https://t.co/iSBb0QikJr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041401334495433190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1250,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我自杀个蛋，才想起来死了没有人给我烧舞萌DX😭😭😭😭😭\n外附一张成绩图✋🏻😭✋🏻（我真的不会打） https://t.co/iSBb0QikJr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 46,
+          "like_count": 258,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 71
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T08:13:20.000Z",
+        "description": "11年/年龄党/无证含🍭 / MTF 一只/好想变成女孩子www/未出柜/爱听国摇/喜欢绒布娃娃/至于剩下的还没想好",
+        "id": "1906983076032372736",
+        "name": "爱丽丝🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975150471385075713/oVgW1gWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 103,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 165
+        },
+        "username": "uhghggyu",
+        "verified": true
+      }
+    ]
+  }
+}

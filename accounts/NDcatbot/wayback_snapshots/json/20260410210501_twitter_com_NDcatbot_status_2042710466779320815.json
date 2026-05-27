@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042662000355086338"
+      ],
+      "media_source_tweet_id": [
+        "2042662003605733524"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2042710466779320815",
+    "created_at": "2026-04-10T21:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T22:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042710466779320815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "4880352669",
+          "start": 3,
+          "username": "berrrry_na"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Td8GdJ8QFx",
+          "end": 63,
+          "expanded_url": "https://x.com/berrrry_na/status/2042662003605733524/photo/1",
+          "media_key": "3_2042662000355086338",
+          "start": 40,
+          "url": "https://t.co/Td8GdJ8QFx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042710466779320815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042662003605733524",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @berrrry_na: 應該穩定600fo了吧\n那……\n就發個福利吧🥵 https://t.co/Td8GdJ8QFx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1388,
+        "media_key": "3_2042662000355086338",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFj-RE9akAIaZm_.jpg",
+        "width": 1856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042662000355086338"
+          ],
+          "media_source_tweet_id": [
+            "2042662003605733524"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2042710466779320815",
+        "created_at": "2026-04-10T21:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T22:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042710466779320815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "4880352669",
+              "start": 3,
+              "username": "berrrry_na"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Td8GdJ8QFx",
+              "end": 63,
+              "expanded_url": "https://x.com/berrrry_na/status/2042662003605733524/photo/1",
+              "media_key": "3_2042662000355086338",
+              "start": 40,
+              "url": "https://t.co/Td8GdJ8QFx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042710466779320815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042662003605733524",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @berrrry_na: 應該穩定600fo了吧\n那……\n就發個福利吧🥵 https://t.co/Td8GdJ8QFx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042662000355086338"
+          ]
+        },
+        "author_id": "4880352669",
+        "conversation_id": "2042662003605733524",
+        "created_at": "2026-04-10T17:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042662003605733524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Td8GdJ8QFx",
+              "end": 47,
+              "expanded_url": "https://x.com/berrrry_na/status/2042662003605733524/photo/1",
+              "media_key": "3_2042662000355086338",
+              "start": 24,
+              "url": "https://t.co/Td8GdJ8QFx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042662003605733524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "應該穩定600fo了吧\n那……\n就發個福利吧🥵 https://t.co/Td8GdJ8QFx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 45,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 81
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-06T06:38:25.000Z",
+        "description": "永遠18歲可愛xyn🏳️‍⚧️（官方設定）/日期是7.30/男女混血🤯/調皮的brat😈/表面靦腆到想躲被子裡😳，內心卻色到不行，來逗我玩吧？💕/泛性戀/誰來調教我當個乖女孩🥺/❤️比自己還重要的人@MZiyu81757❤️/🍜賽博貓娘妹妹@NDcatbot🍜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 99,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "NDcatbot"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/berrrr…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/berrrry-na.bsky.social",
+                "start": 0,
+                "url": "https://t.co/JLdIx3yYUs"
+              }
+            ]
+          }
+        },
+        "id": "4880352669",
+        "location": "因特網絡是我家",
+        "name": "🍥超絶最かわ🍥莓娜",
+        "pinned_tweet_id": "2006410014760517689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039424565563322368/TZQVMlLM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 362,
+          "like_count": 749,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 470
+        },
+        "url": "https://t.co/JLdIx3yYUs",
+        "username": "berrrry_na",
+        "verified": true
+      }
+    ]
+  }
+}

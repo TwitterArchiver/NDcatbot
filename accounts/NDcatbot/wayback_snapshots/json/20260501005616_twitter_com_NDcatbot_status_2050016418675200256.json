@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049658222261514240"
+      ],
+      "media_source_tweet_id": [
+        "2049658229211480571"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2050016418675200256",
+    "created_at": "2026-05-01T00:56:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T01:56:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050016418675200256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1792732643966304256",
+          "start": 3,
+          "username": "aqCuSO_4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5oSWx7rBJi",
+          "end": 42,
+          "expanded_url": "https://x.com/aqCuSO_4/status/2049658229211480571/photo/1",
+          "media_key": "3_2049658222261514240",
+          "start": 19,
+          "url": "https://t.co/5oSWx7rBJi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050016418675200256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049658229211480571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aqCuSO_4: 近期难绷 https://t.co/5oSWx7rBJi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1660,
+        "media_key": "3_2049658222261514240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHZSyjbMAAdbWH.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049658222261514240"
+          ],
+          "media_source_tweet_id": [
+            "2049658229211480571"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2050016418675200256",
+        "created_at": "2026-05-01T00:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T01:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050016418675200256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1792732643966304256",
+              "start": 3,
+              "username": "aqCuSO_4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5oSWx7rBJi",
+              "end": 42,
+              "expanded_url": "https://x.com/aqCuSO_4/status/2049658229211480571/photo/1",
+              "media_key": "3_2049658222261514240",
+              "start": 19,
+              "url": "https://t.co/5oSWx7rBJi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050016418675200256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049658229211480571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aqCuSO_4: 近期难绷 https://t.co/5oSWx7rBJi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049658222261514240"
+          ]
+        },
+        "author_id": "1792732643966304256",
+        "conversation_id": "2049658229211480571",
+        "created_at": "2026-04-30T01:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T02:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049658229211480571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5oSWx7rBJi",
+              "end": 28,
+              "expanded_url": "https://x.com/aqCuSO_4/status/2049658229211480571/photo/1",
+              "media_key": "3_2049658222261514240",
+              "start": 5,
+              "url": "https://t.co/5oSWx7rBJi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049658229211480571",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 34821,
+          "like_count": 490,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "近期难绷 https://t.co/5oSWx7rBJi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 71,
+          "like_count": 729,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 155
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-21T01:42:31.000Z",
+        "description": "男，31岁，无房无车无工作，离异三次带俩娃。",
+        "id": "1792732643966304256",
+        "location": "好想吃麦当劳",
+        "name": "CuSO₄(aq)",
+        "pinned_tweet_id": "1832384349406425416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920434314782642177/8EIblPxh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6386,
+          "following_count": 734,
+          "like_count": 8661,
+          "listed_count": 7,
+          "media_count": 670,
+          "tweet_count": 3886
+        },
+        "username": "aqCuSO_4",
+        "verified": false
+      }
+    ]
+  }
+}

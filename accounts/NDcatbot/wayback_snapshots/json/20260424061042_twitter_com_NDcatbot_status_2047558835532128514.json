@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047415183480664064",
+        "3_2047415183488999424"
+      ],
+      "media_source_tweet_id": [
+        "2047415193442161080",
+        "2047415193442161080"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2047558835532128514",
+    "created_at": "2026-04-24T06:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T07:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047558835532128514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1824324977379905537",
+          "start": 3,
+          "username": "siyu060910"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HeZRcPC6Qx",
+          "end": 64,
+          "expanded_url": "https://x.com/siyu060910/status/2047415193442161080/photo/1",
+          "media_key": "3_2047415183480664064",
+          "start": 41,
+          "url": "https://t.co/HeZRcPC6Qx"
+        },
+        {
+          "display_url": "pic.x.com/HeZRcPC6Qx",
+          "end": 64,
+          "expanded_url": "https://x.com/siyu060910/status/2047415193442161080/photo/1",
+          "media_key": "3_2047415183488999424",
+          "start": 41,
+          "url": "https://t.co/HeZRcPC6Qx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047558835532128514",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 99
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047415193442161080",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @siyu060910: 有人问我们，为什么说戒网瘾学校是中国的萝莉岛：… https://t.co/HeZRcPC6Qx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047415183480664064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGnhQv8bMAA1B2P.jpg",
+        "width": 944
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2047415183488999424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGnhQv-aYAA3D73.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047415183480664064",
+            "3_2047415183488999424"
+          ],
+          "media_source_tweet_id": [
+            "2047415193442161080",
+            "2047415193442161080"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2047558835532128514",
+        "created_at": "2026-04-24T06:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T07:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047558835532128514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1824324977379905537",
+              "start": 3,
+              "username": "siyu060910"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HeZRcPC6Qx",
+              "end": 64,
+              "expanded_url": "https://x.com/siyu060910/status/2047415193442161080/photo/1",
+              "media_key": "3_2047415183480664064",
+              "start": 41,
+              "url": "https://t.co/HeZRcPC6Qx"
+            },
+            {
+              "display_url": "pic.x.com/HeZRcPC6Qx",
+              "end": 64,
+              "expanded_url": "https://x.com/siyu060910/status/2047415193442161080/photo/1",
+              "media_key": "3_2047415183488999424",
+              "start": 41,
+              "url": "https://t.co/HeZRcPC6Qx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047558835532128514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047415193442161080",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @siyu060910: 有人问我们，为什么说戒网瘾学校是中国的萝莉岛：… https://t.co/HeZRcPC6Qx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047415183480664064",
+            "3_2047415183488999424"
+          ]
+        },
+        "author_id": "1824324977379905537",
+        "conversation_id": "2047415193442161080",
+        "created_at": "2026-04-23T20:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T21:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047415193442161080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HeZRcPC6Qx",
+              "end": 47,
+              "expanded_url": "https://x.com/siyu060910/status/2047415193442161080/photo/1",
+              "media_key": "3_2047415183480664064",
+              "start": 24,
+              "url": "https://t.co/HeZRcPC6Qx"
+            },
+            {
+              "display_url": "pic.x.com/HeZRcPC6Qx",
+              "end": 47,
+              "expanded_url": "https://x.com/siyu060910/status/2047415193442161080/photo/1",
+              "media_key": "3_2047415183488999424",
+              "start": 24,
+              "url": "https://t.co/HeZRcPC6Qx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047415193442161080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有人问我们，为什么说戒网瘾学校是中国的萝莉岛：\n近日的行动里，我们再一次潜入了曾经臭名昭著的湖南圣博戒网瘾机构（惠腾学校），在这所罪行累累的学校里，曾有许多初高中或者年龄更小的，花一样年纪的少女、少年，被强奸、殴打，甚至被某些特定人群当作免费的“青楼”，在里面享用幼女，这些都曾真实发生着。\n今日，我们在学校办公室一个不起眼的角落的柜子里，找到了一些“不同寻常”之物——一堆hcg检测试剂，俗称“验孕棒”。\n为什么一个学校的办公室里会存在一大把验孕棒呢？\nSo，\nIt‘s Interesting."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 50773,
+          "like_count": 495,
+          "quote_count": 15,
+          "reply_count": 27,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "有人问我们，为什么说戒网瘾学校是中国的萝莉岛： https://t.co/HeZRcPC6Qx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 65,
+          "like_count": 579,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 132
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T05:59:28.000Z",
+        "description": "Freedom is not free🏳️‍🌈🏳️‍⚧️｜https://t.co/0hXlAGwWRx项目主要志愿者｜tg导航频道https://t.co/np7tbdIbrP内涵联系方式｜可提供社群资源、紧急庇护、自杀干预、资金求助、反扭转等服务",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia",
+                "end": 52,
+                "expanded_url": "https://inthesunshine.asia/",
+                "start": 29,
+                "url": "https://t.co/0hXlAGwWRx"
+              },
+              {
+                "display_url": "t.me/seele_2345",
+                "end": 89,
+                "expanded_url": "https://t.me/seele_2345",
+                "start": 66,
+                "url": "https://t.co/np7tbdIbrP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia/#contact",
+                "end": 23,
+                "expanded_url": "https://inthesunshine.asia/#contact",
+                "start": 0,
+                "url": "https://t.co/KusRjCTsTB"
+              }
+            ]
+          }
+        },
+        "id": "1824324977379905537",
+        "location": "5.20KM",
+        "name": "Seele",
+        "pinned_tweet_id": "2044369875255329251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043059786330312704/Smm3G5ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6460,
+          "following_count": 80,
+          "like_count": 493,
+          "listed_count": 10,
+          "media_count": 282,
+          "tweet_count": 800
+        },
+        "url": "https://t.co/KusRjCTsTB",
+        "username": "siyu060910",
+        "verified": true
+      }
+    ]
+  }
+}

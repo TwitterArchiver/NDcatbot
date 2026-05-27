@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2041931176185847974",
+    "created_at": "2026-04-08T17:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T18:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041931176185847974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1581478431274983424",
+          "start": 3,
+          "username": "yoyobewild"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041931176185847974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041371579121324125",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoyobewild: 昨晚在公园，坐在湖边。\n两个稚嫩的声音在后面打闹，我听到他们喊：“跑得慢的是gay！”\n清脆的，稚嫩的声音，幼儿园的样子……还没有学会怎么和世界相处，就先学会这些满含恶意的网络口号了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2041931176185847974",
+        "created_at": "2026-04-08T17:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T18:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041931176185847974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1581478431274983424",
+              "start": 3,
+              "username": "yoyobewild"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041931176185847974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041371579121324125",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoyobewild: 昨晚在公园，坐在湖边。\n两个稚嫩的声音在后面打闹，我听到他们喊：“跑得慢的是gay！”\n清脆的，稚嫩的声音，幼儿园的样子……还没有学会怎么和世界相处，就先学会这些满含恶意的网络口号了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581478431274983424",
+        "conversation_id": "2041371579121324125",
+        "created_at": "2026-04-07T04:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041371579121324125"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041371579121324125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 158066,
+          "like_count": 3461,
+          "quote_count": 17,
+          "reply_count": 68,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚在公园，坐在湖边。\n两个稚嫩的声音在后面打闹，我听到他们喊：“跑得慢的是gay！”\n清脆的，稚嫩的声音，幼儿园的样子……还没有学会怎么和世界相处，就先学会这些满含恶意的网络口号了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 46,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 74
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "2013221589114839211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4744,
+          "following_count": 188,
+          "like_count": 36792,
+          "listed_count": 17,
+          "media_count": 382,
+          "tweet_count": 7969
+        },
+        "username": "yoyobewild",
+        "verified": false
+      }
+    ]
+  }
+}

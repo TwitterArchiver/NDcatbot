@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2044486197045870999",
+    "created_at": "2026-04-15T18:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T19:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044486197045870999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1558465477403361282",
+          "start": 3,
+          "username": "lingrhythm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044486197045870999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044086690458075302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lingrhythm: 洗小裙子被人发现了，想说是给女朋友洗的，结果嘴快说成给男朋友洗的了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2044486197045870999",
+        "created_at": "2026-04-15T18:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T19:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044486197045870999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1558465477403361282",
+              "start": 3,
+              "username": "lingrhythm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044486197045870999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044086690458075302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lingrhythm: 洗小裙子被人发现了，想说是给女朋友洗的，结果嘴快说成给男朋友洗的了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558465477403361282",
+        "conversation_id": "2044086690458075302",
+        "created_at": "2026-04-14T16:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T17:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044086690458075302"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044086690458075302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 37601,
+          "like_count": 531,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "洗小裙子被人发现了，想说是给女朋友洗的，结果嘴快说成给男朋友洗的了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 53,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 107
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T14:48:31.000Z",
+        "description": "https://t.co/8QvDZuq5Lz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nhir.top",
+                "end": 23,
+                "expanded_url": "https://nhir.top",
+                "start": 0,
+                "url": "https://t.co/8QvDZuq5Lz"
+              }
+            ]
+          }
+        },
+        "id": "1558465477403361282",
+        "location": "127.0.0.1",
+        "name": "泠序",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853702586986496/GayhIpP6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 23,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "username": "lingrhythm",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2039452242948870273",
+    "created_at": "2026-04-01T21:18:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T22:18:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039452242948870273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mhtqwq/status/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/mhtqwq/status/2039024633861595256",
+          "start": 24,
+          "url": "https://t.co/WL2FZchD81"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039452242948870273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039024633861595256",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我把我群改成\n迷你枪战精英官方交流1群了🤓☝️ https://t.co/WL2FZchD81"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 912,
+        "media_key": "3_2039024630774509568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEwSGTWWMAA0wYb.jpg",
+        "width": 812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2039452242948870273",
+        "created_at": "2026-04-01T21:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T22:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039452242948870273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mhtqwq/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/mhtqwq/status/2039024633861595256",
+              "start": 24,
+              "url": "https://t.co/WL2FZchD81"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039452242948870273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039024633861595256",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我把我群改成\n迷你枪战精英官方交流1群了🤓☝️ https://t.co/WL2FZchD81"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039024630774509568"
+          ]
+        },
+        "author_id": "1685784710285266944",
+        "conversation_id": "2039024633861595256",
+        "created_at": "2026-03-31T16:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T17:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039024633861595256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eKf5CZSskn",
+              "end": 34,
+              "expanded_url": "https://x.com/mhtqwq/status/2039024633861595256/photo/1",
+              "media_key": "3_2039024630774509568",
+              "start": 11,
+              "url": "https://t.co/eKf5CZSskn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039024633861595256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 113150,
+          "like_count": 755,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "这群名我tm真气笑了 https://t.co/eKf5CZSskn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "某只猫的转世重生/性别不明/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "hyachana"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2037106579678650675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037102978902163456/FYsdRKlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 43,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 64
+        },
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T22:49:53.000Z",
+        "description": "牢东西｜我只想说何意味｜什么都会点什么都做不好的咸鱼｜差点一口气活了，骗你的我没活｜禁止政治话题｜Minecraft｜格雷科寄｜p社战犯｜杂鱼👀@dancingsnow0517｜可爱男娘@Ran_Mitake37",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "dancingsnow0517"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Ran_Mitake37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mhtqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mhtqwq",
+                "start": 0,
+                "url": "https://t.co/cLjIhp3Fve"
+              }
+            ]
+          }
+        },
+        "id": "1685784710285266944",
+        "location": "天津四,联合,人类联邦",
+        "name": "🍓草莓棉花糖🍥",
+        "pinned_tweet_id": "1988657671986376739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927601749453307904/biDH0_YY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5582,
+          "following_count": 411,
+          "like_count": 9335,
+          "listed_count": 13,
+          "media_count": 2348,
+          "tweet_count": 10222
+        },
+        "url": "https://t.co/cLjIhp3Fve",
+        "username": "mhtqwq",
+        "verified": false
+      }
+    ]
+  }
+}

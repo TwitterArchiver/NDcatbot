@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052283238534774784"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2052283246382403791",
+    "created_at": "2026-05-07T07:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T08:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052283246382403791"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RkzLeGLyGz",
+          "end": 28,
+          "expanded_url": "https://x.com/NDcatbot/status/2052283246382403791/photo/1",
+          "media_key": "3_2052283238534774784",
+          "start": 5,
+          "url": "https://t.co/RkzLeGLyGz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052283246382403791",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "经典老番 https://t.co/RkzLeGLyGz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2052283238534774784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHssu2NagAA3L0l.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052283238534774784"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2052283246382403791",
+        "created_at": "2026-05-07T07:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052283246382403791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RkzLeGLyGz",
+              "end": 28,
+              "expanded_url": "https://x.com/NDcatbot/status/2052283246382403791/photo/1",
+              "media_key": "3_2052283238534774784",
+              "start": 5,
+              "url": "https://t.co/RkzLeGLyGz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052283246382403791",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "经典老番 https://t.co/RkzLeGLyGz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/淡推/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "hyachana"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "berrrry_na"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 101,
+          "like_count": 1591,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 281
+        },
+        "url": "",
+        "username": "NDcatbot",
+        "verified": false
+      }
+    ]
+  }
+}

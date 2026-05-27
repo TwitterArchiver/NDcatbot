@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056256834483146752"
+      ],
+      "media_source_tweet_id": [
+        "2056283652909388222"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2056573893788500404",
+    "created_at": "2026-05-19T03:13:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T04:13:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056573893788500404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z93oucjUQ9",
+          "end": 79,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2056283652909388222/photo/1",
+          "media_key": "3_2056256834483146752",
+          "start": 56,
+          "url": "https://t.co/z93oucjUQ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056573893788500404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056283652909388222",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 5月17日，有网友发现搜索“国际不再恐同日”，却出现大量艾滋病相关词条 https://t.co/z93oucjUQ9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1709,
+        "media_key": "3_2056256834483146752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlKskpWUAA2pA6.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056256834483146752"
+          ],
+          "media_source_tweet_id": [
+            "2056283652909388222"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2056573893788500404",
+        "created_at": "2026-05-19T03:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T04:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056573893788500404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z93oucjUQ9",
+              "end": 79,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2056283652909388222/photo/1",
+              "media_key": "3_2056256834483146752",
+              "start": 56,
+              "url": "https://t.co/z93oucjUQ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056573893788500404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056283652909388222",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 5月17日，有网友发现搜索“国际不再恐同日”，却出现大量艾滋病相关词条 https://t.co/z93oucjUQ9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056256834483146752"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2056283652909388222",
+        "created_at": "2026-05-18T08:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056283652909388222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z93oucjUQ9",
+              "end": 59,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2056283652909388222/photo/1",
+              "media_key": "3_2056256834483146752",
+              "start": 36,
+              "url": "https://t.co/z93oucjUQ9"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2055974108777877712",
+              "start": 60,
+              "url": "https://t.co/L2cQPeqYW6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056283652909388222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 90249,
+          "like_count": 450,
+          "quote_count": 7,
+          "reply_count": 39,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055974108777877712",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5月17日，有网友发现搜索“国际不再恐同日”，却出现大量艾滋病相关词条 https://t.co/z93oucjUQ9 https://t.co/L2cQPeqYW6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 118,
+          "like_count": 3413,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 537
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230961,
+          "following_count": 1056,
+          "like_count": 9572,
+          "listed_count": 8760,
+          "media_count": 47043,
+          "tweet_count": 54165
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}
