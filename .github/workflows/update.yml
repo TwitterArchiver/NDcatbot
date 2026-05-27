@@ -50,9 +50,14 @@ jobs:
         if: steps.check.outputs.skip == 'false'
         run: pip install requests beautifulsoup4 lxml
 
-      - name: 拉取最新 archive.py
+      - name: 拉取最新 archive.py 和前端文件
         if: steps.check.outputs.skip == 'false'
-        run: curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/archive.py" -o /tmp/archive.py
+        run: |
+          curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/archive.py" \
+            -o /tmp/archive.py
+          curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/index.html" \
+            -o index.html || true
+          echo "✅ archive.py ($(wc -l < /tmp/archive.py) 行)"
 
       - name: fetch-cdx
         if: steps.check.outputs.skip == 'false'
