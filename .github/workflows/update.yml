@@ -57,6 +57,9 @@ jobs:
             -o /tmp/archive.py
           curl -fsSL "https://raw.githubusercontent.com/sjshb57/Test/main/index.html" \
             -o index.html || true
+          ACCOUNTS="${{ steps.info.outputs.accounts }}"
+          ACCOUNTS_JSON=$(echo "$ACCOUNTS" | awk '{printf "'\''%s'\'', ", $0}' | sed "s/, $//")
+          sed -i "s/const ACCOUNTS_HARDCODED = \[.*\]/const ACCOUNTS_HARDCODED = [${ACCOUNTS_JSON}]/" index.html || true
           echo "✅ archive.py ($(wc -l < /tmp/archive.py) 行)"
 
       - name: fetch-cdx
