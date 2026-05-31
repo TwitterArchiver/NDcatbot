@@ -6,5 +6,24 @@
   "link": "t.me/MTNEKO123",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
-  "pinned": ""
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 31,
+        "start": 22,
+        "username": "hyachana"
+      },
+      {
+        "end": 45,
+        "start": 34,
+        "username": "MZiyu81757"
+      },
+      {
+        "end": 59,
+        "start": 48,
+        "username": "berrrry_na"
+      }
+    ]
+  }
 }
