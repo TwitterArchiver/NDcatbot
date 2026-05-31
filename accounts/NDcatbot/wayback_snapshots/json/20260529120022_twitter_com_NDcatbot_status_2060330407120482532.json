@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2060330407120482532",
+    "created_at": "2026-05-29T12:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T13:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060330407120482532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060330407120482532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060191429675364516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 5月27日，南方人物周刊报道：21 岁女大学生素伶因交往男友虚空遭父母强烈反对，2026 年 3 月被家人以配合调查为由，从北京骗至河南三门峡 “励萱教育”，非法拘禁 11 天。期间遭没收手机、洗脑逼迫辱骂男友，男友跨省营救后报警，却因…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 754,
+        "media_key": "3_2060191329888743424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdFGWNbsAANHct.png",
+        "width": 524
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2060330407120482532",
+        "created_at": "2026-05-29T12:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060330407120482532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060330407120482532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060191429675364516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 5月27日，南方人物周刊报道：21 岁女大学生素伶因交往男友虚空遭父母强烈反对，2026 年 3 月被家人以配合调查为由，从北京骗至河南三门峡 “励萱教育”，非法拘禁 11 天。期间遭没收手机、洗脑逼迫辱骂男友，男友跨省营救后报警，却因…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060191329888743424"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2060191429675364516",
+        "created_at": "2026-05-29T02:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060191429675364516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7vMi7znpmE",
+              "end": 155,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2060191429675364516/photo/1",
+              "media_key": "3_2060191329888743424",
+              "start": 132,
+              "url": "https://t.co/7vMi7znpmE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060191429675364516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "5月27日，南方人物周刊报道：21 岁女大学生素伶因交往男友虚空遭父母强烈反对，2026 年 3 月被家人以配合调查为由，从北京骗至河南三门峡 “励萱教育”，非法拘禁 11 天。期间遭没收手机、洗脑逼迫辱骂男友，男友跨省营救后报警，却因 “家长授权” 未获立案。\n\n3月30日，男友虚空在B站发视频讲述事情详细经过，素伶因交往男友遭父母强烈反对，此前因两人恋情纠纷，素伶曾在派出所被父亲踢倒、母亲扇耳光，还被迫签下谅解书。3 月 15 日，素伶被父亲和二姨以“表弟涉案需配合调查”为由骗离北京，手机被没收，长途押送至“励萱教育”关押点。\n\n“励萱教育”实为无资质的非法矫治机构。素伶被关押后被没收通讯工具、限制人身自由、强迫服从管理、洗脑施压。校方要求素伶录视频骂男友、写家书谴责虚空，以此作为释放条件。男友虚空察觉异常后报警，但两次均被警方以“视频确认安全”为由拒绝介入。虚空只好假扮律师锁定学校地址，进行驱车跨省救援；素伶假意配合校方，实则暗中传递信息，最终在11天后“获释”并与男友汇合。\n\n素伶“出狱”后二人共同维权却报案无果，北京警方以 “无犯罪事实” 为由驳回非法拘禁立案申请，“家长授权” 成机构免责盾牌。虚空发视频批评这种以爱为名的控制与非法拘禁，呼吁关注青少年权益，希望能揭露这种戒网瘾学校黑幕。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 87586,
+          "like_count": 576,
+          "quote_count": 13,
+          "reply_count": 95,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "5月27日，南方人物周刊报道：21 岁女大学生素伶因交往男友虚空遭父母强烈反对，2026 年 3 月被家人以配合调查为由，从北京骗至河南三门峡 “励萱教育”，非法拘禁 11 天。期间遭没收手机、洗脑逼迫辱骂男友，男友跨省营救后报警，却因 “家长授权” 未获立案。 https://t.co/7vMi7znpmE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 135,
+          "like_count": 4257,
+          "listed_count": 2,
+          "media_count": 60,
+          "tweet_count": 665
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2234808,
+          "following_count": 1068,
+          "like_count": 9606,
+          "listed_count": 8782,
+          "media_count": 47593,
+          "tweet_count": 54731
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}
