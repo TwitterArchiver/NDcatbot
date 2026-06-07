@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2062881682022338624",
+    "created_at": "2026-06-05T12:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062881682022338624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "830659836924694528",
+          "start": 3,
+          "username": "m26iza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062881682022338624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062828888552878447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @m26iza: 挂一个跨旗把人送封闭式精神病院 我觉得跟送扭转没区别 你想救助直接打钱 我甚至怀疑就是公报私仇 或者把送精神病院这件事本身当成一个乐子新闻博取流量（完全可能是其初衷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2062881682022338624",
+        "created_at": "2026-06-05T12:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062881682022338624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "830659836924694528",
+              "start": 3,
+              "username": "m26iza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062881682022338624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062828888552878447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @m26iza: 挂一个跨旗把人送封闭式精神病院 我觉得跟送扭转没区别 你想救助直接打钱 我甚至怀疑就是公报私仇 或者把送精神病院这件事本身当成一个乐子新闻博取流量（完全可能是其初衷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830659836924694528",
+        "conversation_id": "2062828888552878447",
+        "created_at": "2026-06-05T09:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T10:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062828888552878447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/willa_citrus/s…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/willa_citrus/status/2062751701636133265",
+              "start": 83,
+              "url": "https://t.co/PqIyudCsH2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062828888552878447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062751701636133265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "挂一个跨旗把人送封闭式精神病院 我觉得跟送扭转没区别 你想救助直接打钱 我甚至怀疑就是公报私仇 或者把送精神病院这件事本身当成一个乐子新闻博取流量（完全可能是其初衷 https://t.co/PqIyudCsH2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 139,
+          "like_count": 4645,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 738
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-12T06:08:32.000Z",
+        "description": "梧桐枝丫疯长，爱意贯穿心脏 ——《某某》",
+        "id": "830659836924694528",
+        "name": "Line.10🏳️‍⚧️",
+        "pinned_tweet_id": "2052774956845723871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060060537401298944/17a7K0uN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 899,
+          "like_count": 13747,
+          "listed_count": 10,
+          "media_count": 54,
+          "tweet_count": 1410
+        },
+        "username": "m26iza",
+        "verified": false
+      }
+    ]
+  }
+}

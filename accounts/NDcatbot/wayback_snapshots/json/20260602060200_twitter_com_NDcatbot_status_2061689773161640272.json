@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2061442035023053184",
+    "created_at": "2026-06-02T06:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T07:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061689773161640272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1547138196244295680",
+          "start": 0,
+          "username": "kanonanana"
+        },
+        {
+          "end": 23,
+          "id": "1446002090237513731",
+          "start": 12,
+          "username": "Misaka1042"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061689773161640272",
+    "in_reply_to_user_id": "1547138196244295680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061660936319164781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanonanana @Misaka1042 MTF指跨性别女性（男跨女） 药娘指进行了HRT（激素指代治疗）的群体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2061442035023053184",
+        "created_at": "2026-06-02T06:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061689773161640272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1547138196244295680",
+              "start": 0,
+              "username": "kanonanana"
+            },
+            {
+              "end": 23,
+              "id": "1446002090237513731",
+              "start": 12,
+              "username": "Misaka1042"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061689773161640272",
+        "in_reply_to_user_id": "1547138196244295680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061660936319164781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanonanana @Misaka1042 MTF指跨性别女性（男跨女） 药娘指进行了HRT（激素指代治疗）的群体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547138196244295680",
+        "conversation_id": "2061442035023053184",
+        "created_at": "2026-06-02T04:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061660936319164781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1446002090237513731",
+              "start": 0,
+              "username": "Misaka1042"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061660936319164781",
+        "in_reply_to_user_id": "1446002090237513731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 300,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061442035023053184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misaka1042 mtf和💊有什么区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 137,
+          "like_count": 4352,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 695
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T08:37:57.000Z",
+        "description": "",
+        "id": "1547138196244295680",
+        "name": "9",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1590214873916416001/n0oTB7or_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 120,
+          "like_count": 2689,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 771
+        },
+        "username": "kanonanana",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-07T06:39:11.000Z",
+        "description": "19yr/out-dated JK/🍥:2021/MTF🏳️‍⚧️/SRS:2025/ENFP-T/ADHD?",
+        "id": "1446002090237513731",
+        "name": "Misaka10042🍥",
+        "pinned_tweet_id": "1766128163976036475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900091749701394432/oq_27XDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4791,
+          "following_count": 1227,
+          "like_count": 2961,
+          "listed_count": 15,
+          "media_count": 299,
+          "tweet_count": 1720
+        },
+        "username": "Misaka1042",
+        "verified": true
+      }
+    ]
+  }
+}

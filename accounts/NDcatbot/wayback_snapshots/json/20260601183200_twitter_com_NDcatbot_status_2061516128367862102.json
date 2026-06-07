@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2061449134511698062",
+    "created_at": "2026-06-01T18:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T19:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061516128367862102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1922333766628081665",
+          "start": 0,
+          "username": "xiaoiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061516128367862102",
+    "in_reply_to_user_id": "1922333766628081665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061449134511698062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoiQAQ 抽抽喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2061449134511698062",
+        "created_at": "2026-06-01T18:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T19:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061516128367862102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1922333766628081665",
+              "start": 0,
+              "username": "xiaoiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061516128367862102",
+        "in_reply_to_user_id": "1922333766628081665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061449134511698062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoiQAQ 抽抽喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922333766628081665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2061449134511698062",
+        "created_at": "2026-06-01T14:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061449134511698062"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061449134511698062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 565,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "600fo抽奖\n特等奖：本人一只\n第一名：国补一盒（可折现）\n第二名：林尼特立牌x1（价值49r）\n第三名：魔爪2瓶\n（靠喵，资金有限只能送这些，见谅，以后会努力的）\n抽奖方式：Grok\n祝我重回千fo呜呜\n高考加油！儿童节快乐！\n点赞，关注，评论参加否则作废"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 135,
+          "like_count": 4340,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 688
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T16:51:10.000Z",
+        "description": "是咲苡呀，大号被封这是小号喵！09年mtf\n身高161cm体重53kg。已有对象\nhrt25年4.5日，炸柜，家长半管半不管的",
+        "id": "1922333766628081665",
+        "location": "济宁",
+        "name": "予棠🏳️‍⚧️🍥（互fo）",
+        "pinned_tweet_id": "2053034206230610058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039358513592541186/Z-YDN26w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 516,
+          "like_count": 315,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 294
+        },
+        "username": "xiaoiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

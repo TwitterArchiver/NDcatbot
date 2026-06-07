@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2062810193646481904",
+    "created_at": "2026-06-05T08:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T09:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062810193646481904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1846949815755984897",
+          "start": 3,
+          "username": "Miller239374"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062810193646481904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062672436269842569",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miller239374: 有时救助是比残杀残暴一百倍的事情。微观法西斯主义分子总认为自己有权判定他人的死亡是否具有合法性，满足了自己的自恋，然后让受害者承担了所有的次生痛苦。\n\n把人从死亡的宁静中拉出来，抛进活着的绞肉机，这对你们到底有什么好处？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2062810193646481904",
+        "created_at": "2026-06-05T08:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062810193646481904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1846949815755984897",
+              "start": 3,
+              "username": "Miller239374"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062810193646481904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062672436269842569",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miller239374: 有时救助是比残杀残暴一百倍的事情。微观法西斯主义分子总认为自己有权判定他人的死亡是否具有合法性，满足了自己的自恋，然后让受害者承担了所有的次生痛苦。\n\n把人从死亡的宁静中拉出来，抛进活着的绞肉机，这对你们到底有什么好处？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846949815755984897",
+        "conversation_id": "2062672436269842569",
+        "created_at": "2026-06-04T23:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T00:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062672436269842569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TransYuwen/sta…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/TransYuwen/status/2062453803253989773",
+              "start": 111,
+              "url": "https://t.co/J33UT6TzOU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062672436269842569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 893,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062453803253989773",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有时救助是比残杀残暴一百倍的事情。微观法西斯主义分子总认为自己有权判定他人的死亡是否具有合法性，满足了自己的自恋，然后让受害者承担了所有的次生痛苦。\n\n把人从死亡的宁静中拉出来，抛进活着的绞肉机，这对你们到底有什么好处？ https://t.co/J33UT6TzOU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 139,
+          "like_count": 4597,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 731
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T16:22:29.000Z",
+        "description": "“当下时间的每一瞬光阴，都是弥赛亚侧身而入的窄门。”|\n左翼尼采主义 | 交叉性女权主义 | 自由意志社会主义 |\n用 伊/伊等 取代 他/她/他们/她们 作为全性别中立的中文第三人称代词",
+        "id": "1846949815755984897",
+        "location": "柠檬汁海洋",
+        "name": "Miller",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946459504641490944/RgDex3JV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 362,
+          "like_count": 11711,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 2281
+        },
+        "username": "Miller239374",
+        "verified": false
+      }
+    ]
+  }
+}

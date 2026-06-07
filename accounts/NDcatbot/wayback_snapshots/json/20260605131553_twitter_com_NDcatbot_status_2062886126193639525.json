@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2062886126193639525",
+    "created_at": "2026-06-05T13:15:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062886126193639525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062886126193639525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062485680937488660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 这正是不是谁都能做领袖的原因\n要知道往往当我掌握了一句话把人弄出来的能力的同时，\n   我也具备了一句话把人送进去的能力\n  无数机构向我抛出过橄榄枝\n但是无论这人或其同伴品行如何、性格如何 是否与我交恶，甚至伤害我、造谣我，我都不会动…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2062886126193639525",
+        "created_at": "2026-06-05T13:15:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062886126193639525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062886126193639525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062485680937488660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 这正是不是谁都能做领袖的原因\n要知道往往当我掌握了一句话把人弄出来的能力的同时，\n   我也具备了一句话把人送进去的能力\n  无数机构向我抛出过橄榄枝\n但是无论这人或其同伴品行如何、性格如何 是否与我交恶，甚至伤害我、造谣我，我都不会动…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843201902550634496",
+        "conversation_id": "2062485680937488660",
+        "created_at": "2026-06-04T10:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062485680937488660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Shivam3228/sta…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/Shivam3228/status/2062111801874284850",
+              "start": 148,
+              "url": "https://t.co/lziUFvqQ9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062485680937488660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6039,
+          "like_count": 184,
+          "quote_count": 1,
+          "reply_count": 37,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062111801874284850",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这正是不是谁都能做领袖的原因\n要知道往往当我掌握了一句话把人弄出来的能力的同时，\n   我也具备了一句话把人送进去的能力\n  无数机构向我抛出过橄榄枝\n但是无论这人或其同伴品行如何、性格如何 是否与我交恶，甚至伤害我、造谣我，我都不会动用手里的权利进行报复\n    光着一点就能刷下去绝大部分人 https://t.co/lziUFvqQ9v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 140,
+          "like_count": 4663,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 742
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者。曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈。",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061137908178755584/v2ibYgwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5489,
+          "following_count": 3091,
+          "like_count": 3180,
+          "listed_count": 19,
+          "media_count": 444,
+          "tweet_count": 2963
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

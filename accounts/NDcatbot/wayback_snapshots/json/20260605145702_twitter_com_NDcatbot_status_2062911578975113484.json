@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2062911578975113484",
+    "created_at": "2026-06-05T14:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T15:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062911578975113484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062911578975113484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062738683250569723",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 6月是骄傲月。\n\n6月3日，因参加了 “泰国的同志骄傲月”，一网友被校领导约谈、“当政治犯一样审问”。\n\n期间，领导一直在进行引导性提问，试图定性网友的行为定性 为“参与非法聚集和游行”。\n\n约谈结束后，一群领导还直接来到网友的宿舍，盯着…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2062611001959219201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ_dxzGXgAEo6yO.jpg",
+        "width": 794
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2062911578975113484",
+        "created_at": "2026-06-05T14:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T15:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062911578975113484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062911578975113484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062738683250569723",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 6月是骄傲月。\n\n6月3日，因参加了 “泰国的同志骄傲月”，一网友被校领导约谈、“当政治犯一样审问”。\n\n期间，领导一直在进行引导性提问，试图定性网友的行为定性 为“参与非法聚集和游行”。\n\n约谈结束后，一群领导还直接来到网友的宿舍，盯着…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062611001959219201"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2062738683250569723",
+        "created_at": "2026-06-05T03:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T04:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062738683250569723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bsVO7B8sK8",
+              "end": 170,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2062738683250569723/photo/1",
+              "media_key": "3_2062611001959219201",
+              "start": 147,
+              "url": "https://t.co/bsVO7B8sK8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062738683250569723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "6月是骄傲月。\n\n6月3日，因参加了 “泰国的同志骄傲月”，一网友被校领导约谈、“当政治犯一样审问”。\n\n期间，领导一直在进行引导性提问，试图定性网友的行为定性 为“参与非法聚集和游行”。\n\n约谈结束后，一群领导还直接来到网友的宿舍，盯着要求网友把相机的内存卡格式化，并删掉手机相册的活动照片\n\n网友说：“我真的只能这样吗，总之我要继续拍，本来一支完整的纪录片就不只有骄傲游行的盛大场面，更多的是具体的人和具体的生活经验，也许还有千千万万个酷儿在经历和我一样的，在体制的夹缝中生存的经历，我要一直拍到我有能力保护自己，或者肉身不在此地的时候，再做一支属于集体的记忆的片子。”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 75004,
+          "like_count": 616,
+          "quote_count": 8,
+          "reply_count": 41,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "6月是骄傲月。\n\n6月3日，因参加了 “泰国的同志骄傲月”，一网友被校领导约谈、“当政治犯一样审问”。\n\n期间，领导一直在进行引导性提问，试图定性网友的行为定性 为“参与非法聚集和游行”。\n\n约谈结束后，一群领导还直接来到网友的宿舍，盯着要求网友把相机的内存卡格式化，并删掉手机相册的活动照片 https://t.co/bsVO7B8sK8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 140,
+          "like_count": 4714,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 750
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235417,
+          "following_count": 1068,
+          "like_count": 9635,
+          "listed_count": 8794,
+          "media_count": 47985,
+          "tweet_count": 55135
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

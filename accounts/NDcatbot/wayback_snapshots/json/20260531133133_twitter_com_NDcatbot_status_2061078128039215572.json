@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2061078128039215572",
+    "created_at": "2026-05-31T13:31:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:31:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061078128039215572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1446002090237513731",
+          "start": 3,
+          "username": "Misaka1042"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061078128039215572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061003875839283555",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Misaka1042: 你知道吗，中国是全世界跨性别福利做的最好的国家，因为中国会无偿为40岁以上的跨性别提供生活援助。\n\n每当你在中国大陆的流媒体平台看到关于跨性别的内容时，点开评论区会发现类似这样的评论\n\n“她40岁以后的生活费我包了”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2061078128039215572",
+        "created_at": "2026-05-31T13:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061078128039215572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1446002090237513731",
+              "start": 3,
+              "username": "Misaka1042"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061078128039215572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061003875839283555",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Misaka1042: 你知道吗，中国是全世界跨性别福利做的最好的国家，因为中国会无偿为40岁以上的跨性别提供生活援助。\n\n每当你在中国大陆的流媒体平台看到关于跨性别的内容时，点开评论区会发现类似这样的评论\n\n“她40岁以后的生活费我包了”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1446002090237513731",
+        "conversation_id": "2061003875839283555",
+        "created_at": "2026-05-31T08:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T09:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061003875839283555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061003875839283555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 12152,
+          "like_count": 169,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "你知道吗，中国是全世界跨性别福利做的最好的国家，因为中国会无偿为40岁以上的跨性别提供生活援助。\n\n每当你在中国大陆的流媒体平台看到关于跨性别的内容时，点开评论区会发现类似这样的评论\n\n“她40岁以后的生活费我包了”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 132,
+          "like_count": 4317,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 681
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-07T06:39:11.000Z",
+        "description": "19yr/out-dated JK/🍥:2021/MTF🏳️‍⚧️/SRS:2025",
+        "id": "1446002090237513731",
+        "name": "Misaka10042🍥",
+        "pinned_tweet_id": "1766128163976036475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900091749701394432/oq_27XDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4742,
+          "following_count": 1224,
+          "like_count": 2875,
+          "listed_count": 15,
+          "media_count": 296,
+          "tweet_count": 1710
+        },
+        "username": "Misaka1042",
+        "verified": true
+      }
+    ]
+  }
+}

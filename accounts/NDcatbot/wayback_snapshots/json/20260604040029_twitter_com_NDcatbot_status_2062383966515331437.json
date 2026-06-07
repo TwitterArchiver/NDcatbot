@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2062130706017403381",
+    "created_at": "2026-06-04T04:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T05:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062383966515331437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1245285695230554112",
+          "start": 0,
+          "username": "motivasyonhane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062383966515331437",
+    "in_reply_to_user_id": "1245285695230554112",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062130706017403381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@motivasyonhane 64"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1401,
+        "media_key": "3_2062130696429211648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4o8VkXkAAAspx.jpg",
+        "width": 1119
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2062130706017403381",
+        "created_at": "2026-06-04T04:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062383966515331437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1245285695230554112",
+              "start": 0,
+              "username": "motivasyonhane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062383966515331437",
+        "in_reply_to_user_id": "1245285695230554112",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062130706017403381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@motivasyonhane 64"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062130696429211648"
+          ]
+        },
+        "author_id": "1245285695230554112",
+        "conversation_id": "2062130706017403381",
+        "created_at": "2026-06-03T11:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062130706017403381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4CtiHTDlxX",
+              "end": 283,
+              "expanded_url": "https://x.com/motivasyonhane/status/2062130706017403381/photo/1",
+              "media_key": "3_2062130696429211648",
+              "start": 260,
+              "url": "https://t.co/4CtiHTDlxX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062130706017403381",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 129407,
+          "like_count": 1115,
+          "quote_count": 4,
+          "reply_count": 1654,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "29–70 arasından şanslı bir numara seçin\n\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n43\n44\n45\n46\n47\n48\n49\n50\n51\n52\n53\n54\n55\n56\n57\n58\n59\n60\n61\n62\n63\n64\n65\n66\n67\n68\n69\n70\n\n✨ 15 numara $1.500’lık bir sürpriz saklıyor\n\n🎉 72 saat içinde 15 kazanan rastgele seçilecek https://t.co/4CtiHTDlxX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 138,
+          "like_count": 4525,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 724
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-01T09:43:48.000Z",
+        "description": "🚀 Her gün %1 gelişim  🧠 Zihin • Disiplin • Başarı 📈 Finansal farkındalık 📚 Gelişim kitapları  👇 Değişim burada başlar",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shopier.com/motivasyonerx",
+                "end": 23,
+                "expanded_url": "https://www.shopier.com/motivasyonerx",
+                "start": 0,
+                "url": "https://t.co/q5XdJraByB"
+              }
+            ]
+          }
+        },
+        "id": "1245285695230554112",
+        "location": "Türkiye",
+        "name": "Motivasyon",
+        "pinned_tweet_id": "2038278234178023854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023023199928156160/eEk5sYGo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104785,
+          "following_count": 952,
+          "like_count": 9107,
+          "listed_count": 540,
+          "media_count": 1666,
+          "tweet_count": 7020
+        },
+        "url": "https://t.co/q5XdJraByB",
+        "username": "motivasyonhane",
+        "verified": true
+      }
+    ]
+  }
+}

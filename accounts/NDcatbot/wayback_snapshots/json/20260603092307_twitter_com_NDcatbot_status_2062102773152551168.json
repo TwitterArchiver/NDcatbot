@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2061761286325801333",
+    "created_at": "2026-06-03T09:23:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T10:23:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062102773152551168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1960729294638080007",
+          "start": 0,
+          "username": "Tsukahara_Neko"
+        },
+        {
+          "end": 24,
+          "id": "2050547257972588544",
+          "start": 16,
+          "username": "XOX8964"
+        },
+        {
+          "end": 36,
+          "id": "1841626911228780545",
+          "start": 25,
+          "username": "kujou_king"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062102773152551168",
+    "in_reply_to_user_id": "1960729294638080007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061974885128163431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsukahara_Neko @XOX8964 @kujou_king 说啥来啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2061761286325801333",
+        "created_at": "2026-06-03T09:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062102773152551168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1960729294638080007",
+              "start": 0,
+              "username": "Tsukahara_Neko"
+            },
+            {
+              "end": 24,
+              "id": "2050547257972588544",
+              "start": 16,
+              "username": "XOX8964"
+            },
+            {
+              "end": 36,
+              "id": "1841626911228780545",
+              "start": 25,
+              "username": "kujou_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062102773152551168",
+        "in_reply_to_user_id": "1960729294638080007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061974885128163431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsukahara_Neko @XOX8964 @kujou_king 说啥来啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960729294638080007",
+        "conversation_id": "2061761286325801333",
+        "created_at": "2026-06-03T00:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T01:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061974885128163431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2050547257972588544",
+              "start": 0,
+              "username": "XOX8964"
+            },
+            {
+              "end": 20,
+              "id": "1841626911228780545",
+              "start": 9,
+              "username": "kujou_king"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061974885128163431",
+        "in_reply_to_user_id": "2050547257972588544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061772910935867411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XOX8964 @kujou_king 你不就爬过来了吗？每天一醒来发现周围都是自己的敌人不敢当他们的面说只敢翻墙谈的远远的发泄好可怜哦，你最爱的外国软件因为你的存在也变臭了自己闻不到啊，骂人连自己都骂上怪不得没办法移民呢，无论再怎么切割你和中国人的区别都只有你思想里的劣质肿瘤。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 138,
+          "like_count": 4393,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 702
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T15:41:56.000Z",
+        "description": "",
+        "id": "1960729294638080007",
+        "name": "Lennox",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960737148556206085/SyxopQCm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 24,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 44
+        },
+        "username": "Tsukahara_Neko",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T12:05:45.000Z",
+        "description": "私信已关，臭蛆勿扰\n封禁大号👉@YT9763064019541\n日常生活👉@Kuyosuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "YT9763064019541"
+              },
+              {
+                "end": 46,
+                "start": 37,
+                "username": "Kuyosuki"
+              }
+            ]
+          }
+        },
+        "id": "2050547257972588544",
+        "location": "洼地",
+        "name": "库洛米酱（持续黑化中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051508906887979008/hLiak14g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 180,
+          "like_count": 360,
+          "listed_count": 4,
+          "media_count": 72,
+          "tweet_count": 295
+        },
+        "username": "XOX8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T23:50:53.000Z",
+        "description": "中国人滚行吗，好女孩要互fo请直接说，没有门槛不加v不扩列不要问了",
+        "id": "1841626911228780545",
+        "name": "🧸猪圈传奇愛莉莎🍺",
+        "pinned_tweet_id": "1873554513598259513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946130968311394304/2JoetCo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2335,
+          "following_count": 334,
+          "like_count": 4478,
+          "listed_count": 18,
+          "media_count": 58,
+          "tweet_count": 1951
+        },
+        "username": "kujou_king",
+        "verified": false
+      }
+    ]
+  }
+}

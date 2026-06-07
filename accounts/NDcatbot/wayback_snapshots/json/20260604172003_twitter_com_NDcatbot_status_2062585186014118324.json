@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2062585186014118324",
+    "created_at": "2026-06-04T17:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T18:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062585186014118324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1706489705418588160",
+          "start": 3,
+          "username": "Mantou0618"
+        },
+        {
+          "end": 46,
+          "id": "1868205822511288320",
+          "start": 30,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062585186014118324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062482735340605556",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mantou0618: 【朋友求助 / 暂时失联】\n@vicoOci_Olvidar 近日遭遇意外情况，其手机与电脑已被家人变卖，目前已无法正常使用推特。\n她暂时无法及时查看消息和回复，烦请认识她的朋友们帮忙转发此消息，以便大家解其现状。待她重新获得设备后，将尽快恢复上…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2062585186014118324",
+        "created_at": "2026-06-04T17:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T18:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062585186014118324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1706489705418588160",
+              "start": 3,
+              "username": "Mantou0618"
+            },
+            {
+              "end": 46,
+              "id": "1868205822511288320",
+              "start": 30,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062585186014118324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062482735340605556",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mantou0618: 【朋友求助 / 暂时失联】\n@vicoOci_Olvidar 近日遭遇意外情况，其手机与电脑已被家人变卖，目前已无法正常使用推特。\n她暂时无法及时查看消息和回复，烦请认识她的朋友们帮忙转发此消息，以便大家解其现状。待她重新获得设备后，将尽快恢复上…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706489705418588160",
+        "conversation_id": "2062482735340605556",
+        "created_at": "2026-06-04T10:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062482735340605556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1868205822511288320",
+              "start": 14,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062482735340605556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1312,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "【朋友求助 / 暂时失联】\n@vicoOci_Olvidar 近日遭遇意外情况，其手机与电脑已被家人变卖，目前已无法正常使用推特。\n她暂时无法及时查看消息和回复，烦请认识她的朋友们帮忙转发此消息，以便大家解其现状。待她重新获得设备后，将尽快恢复上线。\n感谢大家的帮助与关心。❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 139,
+          "like_count": 4577,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 725
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T02:03:59.000Z",
+        "description": "这个人很懒什么都没有留下",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mantou0717",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mantou0717",
+                "start": 0,
+                "url": "https://t.co/tJrLkYVZdT"
+              }
+            ]
+          }
+        },
+        "id": "1706489705418588160",
+        "name": "Mantou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867571702521376769/U7GUSsZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 787,
+          "like_count": 22895,
+          "listed_count": 1,
+          "media_count": 189,
+          "tweet_count": 4869
+        },
+        "url": "https://t.co/tJrLkYVZdT",
+        "username": "Mantou0618",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "祝你幸福｜最高指示请看❤️@D_D_ovo_｜一击脱离你妈死了｜上勾拳免疫之人｜穷蛆文学 前男友文学｜全体出动操你妈｜转世灵童傀儡@anothervicooci｜妈妈们@misaki348632 @rinko_zero8964｜支持互b",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "D_D_ovo_"
+              },
+              {
+                "end": 80,
+                "start": 65,
+                "username": "anothervicooci"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "misaki348632"
+              },
+              {
+                "end": 113,
+                "start": 98,
+                "username": "rinko_zero8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/C8DJQnD8y9"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "天台 药房 你的怀里",
+        "name": "胃宝路",
+        "pinned_tweet_id": "2058637986905153762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052293655466323968/tRrr7IFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4551,
+          "following_count": 393,
+          "like_count": 24656,
+          "listed_count": 19,
+          "media_count": 1335,
+          "tweet_count": 16878
+        },
+        "url": "https://t.co/C8DJQnD8y9",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

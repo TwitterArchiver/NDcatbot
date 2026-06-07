@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2062115604530896989",
+    "created_at": "2026-06-03T10:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T11:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062115604530896989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1767161673566359552",
+          "start": 3,
+          "username": "willa_citrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062115604530896989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062071323829191059",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @willa_citrus: 真要搞啊？如果只是自己发个推口嗨乐呵一下顶多说几句官瘾大，但如果真要做成发版的东西就不得不正经起来严肃地问一下了：\n一旦要有一个线性的轴公开存在，那就必须给出定性对比的依据，说明到底是按照什么排出T0123的\n目前来看排行依据是知名度而不是社…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2062115604530896989",
+        "created_at": "2026-06-03T10:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062115604530896989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1767161673566359552",
+              "start": 3,
+              "username": "willa_citrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062115604530896989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062071323829191059",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @willa_citrus: 真要搞啊？如果只是自己发个推口嗨乐呵一下顶多说几句官瘾大，但如果真要做成发版的东西就不得不正经起来严肃地问一下了：\n一旦要有一个线性的轴公开存在，那就必须给出定性对比的依据，说明到底是按照什么排出T0123的\n目前来看排行依据是知名度而不是社…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767161673566359552",
+        "conversation_id": "2062071323829191059",
+        "created_at": "2026-06-03T07:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062071323829191059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/axzameyzed/sta…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/axzameyzed/status/2062048301365838100",
+              "start": 142,
+              "url": "https://t.co/Mo5OVRbbzx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062071323829191059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1985,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062048301365838100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真要搞啊？如果只是自己发个推口嗨乐呵一下顶多说几句官瘾大，但如果真要做成发版的东西就不得不正经起来严肃地问一下了：\n一旦要有一个线性的轴公开存在，那就必须给出定性对比的依据，说明到底是按照什么排出T0123的\n目前来看排行依据是知名度而不是社群贡献度 这背后的价值观有相当程度的问题 https://t.co/Mo5OVRbbzx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 138,
+          "like_count": 4416,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 710
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T12:12:39.000Z",
+        "description": "试图照见自己 / 杭州三本工科PhD在读 / 怪猎&魂 / 光明果派漫宿研习者 / 彻夜飞旋，直至甜美的生诞 / 人生意义是创造、帮助和改变 / 如果空下来一定要做个播客 / 甜甜同居六年多 @rat_miyari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "rat_miyari"
+              }
+            ]
+          }
+        },
+        "id": "1767161673566359552",
+        "location": "杭州",
+        "name": "王小檬𝖂𝖎𝖑𝖑𝖆🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978691032192782336/2rH_jGCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11961,
+          "following_count": 228,
+          "like_count": 7526,
+          "listed_count": 35,
+          "media_count": 351,
+          "tweet_count": 8672
+        },
+        "username": "willa_citrus",
+        "verified": false
+      }
+    ]
+  }
+}

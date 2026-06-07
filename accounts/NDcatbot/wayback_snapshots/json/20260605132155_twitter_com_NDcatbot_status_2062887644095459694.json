@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2062887644095459694",
+    "created_at": "2026-06-05T13:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062887644095459694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1946593949180993536",
+          "start": 3,
+          "username": "RogerDisboard"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062887644095459694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062840261617848534",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RogerDisboard: 仅为Roger的个人看法\n\n我本人在过去的一个月里和水母交流了很多，我也清楚没有实际上没有人能帮到她，因而我不在这里讨论人权和生命孰轻孰重\n\n然而注销账号…你们有想过水母的未来吗？考虑过出院之后会怎么样吗？你们到底是在拯救她还是粉碎她的生活…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2062887644095459694",
+        "created_at": "2026-06-05T13:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062887644095459694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1946593949180993536",
+              "start": 3,
+              "username": "RogerDisboard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062887644095459694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062840261617848534",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RogerDisboard: 仅为Roger的个人看法\n\n我本人在过去的一个月里和水母交流了很多，我也清楚没有实际上没有人能帮到她，因而我不在这里讨论人权和生命孰轻孰重\n\n然而注销账号…你们有想过水母的未来吗？考虑过出院之后会怎么样吗？你们到底是在拯救她还是粉碎她的生活…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946593949180993536",
+        "conversation_id": "2062840261617848534",
+        "created_at": "2026-06-05T10:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062840261617848534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/transyuwen/sta…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/transyuwen/status/2062658283010441222",
+              "start": 144,
+              "url": "https://t.co/naRUx7VX5b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062840261617848534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 471,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062658283010441222",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "仅为Roger的个人看法\n\n我本人在过去的一个月里和水母交流了很多，我也清楚没有实际上没有人能帮到她，因而我不在这里讨论人权和生命孰轻孰重\n\n然而注销账号…你们有想过水母的未来吗？考虑过出院之后会怎么样吗？你们到底是在拯救她还是粉碎她的生活呢？\n\n随便就将一个人全部的过往抹去…不可饶恕 https://t.co/naRUx7VX5b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 140,
+          "like_count": 4671,
+          "listed_count": 2,
+          "media_count": 63,
+          "tweet_count": 743
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:32:31.000Z",
+        "description": "人生就是要幼稚一点才有乐趣/2008/（希望）永远是12岁/不o不割不健全/友跨/继承@Aureliax17QwQ的心意，我将会继续成为心理委员/随机掉落奇妙思想/查成分互fo喵/欢迎私信喵/月计/永远和@mendong_tian剧烈贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Aureliax17QwQ"
+              },
+              {
+                "end": 115,
+                "start": 102,
+                "username": "mendong_tian"
+              }
+            ]
+          }
+        },
+        "id": "1946593949180993536",
+        "location": "Disboard",
+        "name": "DISBOARDの神様Roger",
+        "pinned_tweet_id": "2062202269588926683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952769024816783360/Ec1PgkNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 1043,
+          "like_count": 7929,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 1923
+        },
+        "username": "RogerDisboard",
+        "verified": false
+      }
+    ]
+  }
+}

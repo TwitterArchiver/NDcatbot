@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062424921574404096"
+      ],
+      "media_source_tweet_id": [
+        "2062424927719014526"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2062914130407985223",
+    "created_at": "2026-06-05T15:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T16:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062914130407985223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1426614422546518017",
+          "start": 3,
+          "username": "rabbit_2333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZCnoUkudXX",
+          "end": 64,
+          "expanded_url": "https://x.com/rabbit_2333/status/2062424927719014526/photo/1",
+          "media_key": "3_2062424921574404096",
+          "start": 41,
+          "url": "https://t.co/ZCnoUkudXX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062914130407985223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062424927719014526",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rabbit_2333: 孩子们 不要紫砂 死了也会被劳保家长拉去配阴婚 https://t.co/ZCnoUkudXX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062424921574404096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ80ifpa8AA2ky1.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062424921574404096"
+          ],
+          "media_source_tweet_id": [
+            "2062424927719014526"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2062914130407985223",
+        "created_at": "2026-06-05T15:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T16:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062914130407985223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1426614422546518017",
+              "start": 3,
+              "username": "rabbit_2333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZCnoUkudXX",
+              "end": 64,
+              "expanded_url": "https://x.com/rabbit_2333/status/2062424927719014526/photo/1",
+              "media_key": "3_2062424921574404096",
+              "start": 41,
+              "url": "https://t.co/ZCnoUkudXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062914130407985223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062424927719014526",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rabbit_2333: 孩子们 不要紫砂 死了也会被劳保家长拉去配阴婚 https://t.co/ZCnoUkudXX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062424921574404096"
+          ]
+        },
+        "author_id": "1426614422546518017",
+        "conversation_id": "2062424927719014526",
+        "created_at": "2026-06-04T06:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062424927719014526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZCnoUkudXX",
+              "end": 47,
+              "expanded_url": "https://x.com/rabbit_2333/status/2062424927719014526/photo/1",
+              "media_key": "3_2062424921574404096",
+              "start": 24,
+              "url": "https://t.co/ZCnoUkudXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062424927719014526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 31991,
+          "like_count": 372,
+          "quote_count": 12,
+          "reply_count": 36,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们 不要紫砂 死了也会被劳保家长拉去配阴婚 https://t.co/ZCnoUkudXX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 140,
+          "like_count": 4721,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 751
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-14T18:39:34.000Z",
+        "description": "A normal rabbit, nothing special",
+        "id": "1426614422546518017",
+        "name": "rabbit",
+        "pinned_tweet_id": "1737892653143064904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567977506367770625/-b5Hbkjm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2492,
+          "following_count": 187,
+          "like_count": 522,
+          "listed_count": 14,
+          "media_count": 44,
+          "tweet_count": 385
+        },
+        "username": "rabbit_2333",
+        "verified": false
+      }
+    ]
+  }
+}

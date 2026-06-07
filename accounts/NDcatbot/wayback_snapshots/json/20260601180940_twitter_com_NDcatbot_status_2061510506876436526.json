@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2061510506876436526",
+    "created_at": "2026-06-01T18:09:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T19:09:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061510506876436526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1552918719440924672",
+          "start": 3,
+          "username": "itsCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061510506876436526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061463366061916610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itsCatRoll: 这孩子和我以前还挺经常聊天的，家长对她不好，没学上；自己出去打工，被老板欺负；看大家都在写代码，也自学，一行一行写得很稚嫩很可爱，让人忍俊不禁。\n\n有一次跟我说糖被家长发现了，要报警，问我怎么办，我说那让你家长报警去吧，没关系。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2061510506876436526",
+        "created_at": "2026-06-01T18:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T19:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061510506876436526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552918719440924672",
+              "start": 3,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061510506876436526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061463366061916610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itsCatRoll: 这孩子和我以前还挺经常聊天的，家长对她不好，没学上；自己出去打工，被老板欺负；看大家都在写代码，也自学，一行一行写得很稚嫩很可爱，让人忍俊不禁。\n\n有一次跟我说糖被家长发现了，要报警，问我怎么办，我说那让你家长报警去吧，没关系。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2061463366061916610",
+        "created_at": "2026-06-01T15:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061463366061916610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xvliowo/status…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/xvliowo/status/2058888312149123134",
+              "start": 115,
+              "url": "https://t.co/6qghJv7ISh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061463366061916610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 556,
+                "id": "1487318664797831170",
+                "start": 544,
+                "username": "oneamong_us"
+              }
+            ]
+          },
+          "text": "这孩子和我以前还挺经常聊天的，家长对她不好，没学上；自己出去打工，被老板欺负；看大家都在写代码，也自学，一行一行写得很稚嫩很可爱，让人忍俊不禁。\n\n有一次跟我说糖被家长发现了，要报警，问我怎么办，我说那让你家长报警去吧，没关系。\n\n推上很多糖商是需要18+身份验证的，因为风险问题；虽然说其实我也不算什么好东西，只是想赚钱而已，不过想了想自己倒也不算是在做什么伤天害理的事情，算是各取所需吧，但也尽可能便宜一点，不然也不好意思。\n\n有的孩子真的是苦了一辈子，一辈子都没有爱自己的父母，没有钱，甚至没有过体面的生活。\n\n但即便如此，她也已经很坚强了，如果把我放到她的那个环境下，我可能都不会去打工，不回去想办法上学，不会想着自己学写代码，不会像她承受得住这么多。她真的是很坚强、很努力、很有韧性了，她的父母配不上她这么好的孩子。\n\n之前怕她父母报警，我把记录都删了，也没留下什么文字，只能凭借回忆写一写了。可惜我们也大概只是相识，没有到非常熟悉的程度，她在离世前也没有跟我说过什么，就这样走了。\n\n有些人出生时拿到的是正常难度的人生，有些人拿到的是地狱难度。我们常常会用同一套标准去评价结果，却忽略了起点和路上的障碍根本不一样。\n\n如果还有下辈子，希望她能过上她喜欢的生活吧。\n\n顺便请求 @oneamong_us 收录条目"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5439,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058888312149123134",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这孩子和我以前还挺经常聊天的，家长对她不好，没学上；自己出去打工，被老板欺负；看大家都在写代码，也自学，一行一行写得很稚嫩很可爱，让人忍俊不禁。\n\n有一次跟我说糖被家长发现了，要报警，问我怎么办，我说那让你家长报警去吧，没关系。 https://t.co/6qghJv7ISh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 135,
+          "like_count": 4339,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 687
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "需要各种🍥🍬请私信我，尽量tg，私信有时不推送\n💌@hobartr6 温柔猫猫@leetfs1 大猫咪@_furryfur_ 笨蛋肥鸟@hoshi_asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "hobartr6"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "leetfs1"
+              },
+              {
+                "end": 62,
+                "start": 51,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 83,
+                "start": 67,
+                "username": "hoshi_asuka0089"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/itscatroll",
+                "end": 23,
+                "expanded_url": "http://t.me/itscatroll",
+                "start": 0,
+                "url": "https://t.co/9vPU5sObId"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "猫卷🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060910085187219456/yA1wVEhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3927,
+          "following_count": 835,
+          "like_count": 4083,
+          "listed_count": 9,
+          "media_count": 48,
+          "tweet_count": 377
+        },
+        "url": "https://t.co/9vPU5sObId",
+        "username": "itsCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2062330334579225016",
+    "created_at": "2026-06-04T00:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T01:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062330334579225016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1833795907470704640",
+          "start": 3,
+          "username": "lynn_m57596"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062330334579225016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061722642374340812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lynn_m57596: 400fo也是龟速开一个抽奖帖！\n一等：2t雪尘+1板鹤睿pr+3t巴氯芬+1板新康泰克🌽+1板云药🌽+一些小零食+手绘明信片+1杯奶茶（你要什么我给你点）\n二等：1t雪尘+1板喜思平红pr+2t巴氯芬+小零食+明信片+1杯奶茶\n三等：1板喜思…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2062330334579225016",
+        "created_at": "2026-06-04T00:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T01:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062330334579225016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1833795907470704640",
+              "start": 3,
+              "username": "lynn_m57596"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062330334579225016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061722642374340812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lynn_m57596: 400fo也是龟速开一个抽奖帖！\n一等：2t雪尘+1板鹤睿pr+3t巴氯芬+1板新康泰克🌽+1板云药🌽+一些小零食+手绘明信片+1杯奶茶（你要什么我给你点）\n二等：1t雪尘+1板喜思平红pr+2t巴氯芬+小零食+明信片+1杯奶茶\n三等：1板喜思…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833795907470704640",
+        "conversation_id": "2061722642374340812",
+        "created_at": "2026-06-02T08:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061722642374340812"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061722642374340812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5223,
+          "like_count": 102,
+          "quote_count": 1,
+          "reply_count": 115,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "400fo也是龟速开一个抽奖帖！\n一等：2t雪尘+1板鹤睿pr+3t巴氯芬+1板新康泰克🌽+1板云药🌽+一些小零食+手绘明信片+1杯奶茶（你要什么我给你点）\n二等：1t雪尘+1板喜思平红pr+2t巴氯芬+小零食+明信片+1杯奶茶\n三等：1板喜思平红pr+1板云药🌽+小零食\n**转发评论参与抽奖，抽奖在评论区抽🤤🌹快来参加！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 138,
+          "like_count": 4451,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 719
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T09:13:22.000Z",
+        "description": "😖纯社恐大鼠欢迎各位找我聊天，双相偶尔发癫🖐️😭🖐️\n💊+互fo欢迎\n本账号含有：💊｜负能量碎碎念｜丑画｜偶尔色色；不接受请左转",
+        "id": "1833795907470704640",
+        "name": "软鼠",
+        "pinned_tweet_id": "2012454215260733710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021277904718659584/8sN9IxiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 124,
+          "like_count": 1558,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 292
+        },
+        "username": "lynn_m57596",
+        "verified": false
+      }
+    ]
+  }
+}
