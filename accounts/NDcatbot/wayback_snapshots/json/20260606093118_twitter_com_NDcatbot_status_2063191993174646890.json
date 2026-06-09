@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2063191993174646890",
+    "created_at": "2026-06-06T09:31:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T10:31:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063191993174646890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1752538285459795968",
+          "start": 3,
+          "username": "tadatsukiei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063191993174646890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062852987056521643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tadatsukiei: 为了阻止你自杀，把你送去求死不能的地方。\n颇有种为了制止自杀者而直接开枪打死的荒诞。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2063191993174646890",
+        "created_at": "2026-06-06T09:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T10:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063191993174646890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1752538285459795968",
+              "start": 3,
+              "username": "tadatsukiei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063191993174646890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062852987056521643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tadatsukiei: 为了阻止你自杀，把你送去求死不能的地方。\n颇有种为了制止自杀者而直接开枪打死的荒诞。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2062852987056521643",
+        "created_at": "2026-06-05T11:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062852987056521643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/noname2095_/st…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/noname2095_/status/2062769993209847952",
+              "start": 43,
+              "url": "https://t.co/ODb8Q8uQh3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062852987056521643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 400,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062769993209847952",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为了阻止你自杀，把你送去求死不能的地方。\n颇有种为了制止自杀者而直接开枪打死的荒诞。 https://t.co/ODb8Q8uQh3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 141,
+          "like_count": 4765,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 753
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2053153860211093902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 586,
+          "like_count": 99023,
+          "listed_count": 10,
+          "media_count": 560,
+          "tweet_count": 7019
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      }
+    ]
+  }
+}

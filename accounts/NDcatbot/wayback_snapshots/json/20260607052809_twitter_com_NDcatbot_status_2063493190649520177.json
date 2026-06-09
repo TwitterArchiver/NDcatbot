@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063378099702833152"
+      ],
+      "media_source_tweet_id": [
+        "2063378107034415438"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2063493190649520177",
+    "created_at": "2026-06-07T05:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T06:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063493190649520177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1436287470207832064",
+          "start": 3,
+          "username": "wuyuandev"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u0UWNFS1jR",
+          "end": 69,
+          "expanded_url": "https://x.com/wuyuandev/status/2063378107034415438/photo/1",
+          "media_key": "3_2063378099702833152",
+          "start": 46,
+          "url": "https://t.co/u0UWNFS1jR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063493190649520177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063378107034415438",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wuyuandev: 没绷住了，tyw给你们准备了AI 17替代品\n尊重他人这一块 https://t.co/u0UWNFS1jR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1627,
+        "media_key": "3_2063378099702833152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKKXcw4boAACoha.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063378099702833152"
+          ],
+          "media_source_tweet_id": [
+            "2063378107034415438"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2063493190649520177",
+        "created_at": "2026-06-07T05:28:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063493190649520177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1436287470207832064",
+              "start": 3,
+              "username": "wuyuandev"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u0UWNFS1jR",
+              "end": 69,
+              "expanded_url": "https://x.com/wuyuandev/status/2063378107034415438/photo/1",
+              "media_key": "3_2063378099702833152",
+              "start": 46,
+              "url": "https://t.co/u0UWNFS1jR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063493190649520177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063378107034415438",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wuyuandev: 没绷住了，tyw给你们准备了AI 17替代品\n尊重他人这一块 https://t.co/u0UWNFS1jR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063378099702833152"
+          ]
+        },
+        "author_id": "1436287470207832064",
+        "conversation_id": "2063378107034415438",
+        "created_at": "2026-06-06T21:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T22:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063378107034415438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u0UWNFS1jR",
+              "end": 54,
+              "expanded_url": "https://x.com/wuyuandev/status/2063378107034415438/photo/1",
+              "media_key": "3_2063378099702833152",
+              "start": 31,
+              "url": "https://t.co/u0UWNFS1jR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063378107034415438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2104,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "没绷住了，tyw给你们准备了AI 17替代品\n尊重他人这一块 https://t.co/u0UWNFS1jR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 141,
+          "like_count": 4812,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 759
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-10T11:17:02.000Z",
+        "description": "开发者🍥｜构建社区、AI 工具与数据抓取。\n\n高二在校生😅｜说话含喵量巨大🤯\n\n你看白雪人间，你看寒夜无岸\n\n列表相关请私信，开贴不回😡\n没看到私信请评论提醒\n\n要饭：https://t.co/ceQCtxmG75\n\n私人 @lunayurari ｜❤️ @tsgostar\n求关注！喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "lunayurari"
+              },
+              {
+                "end": 137,
+                "start": 128,
+                "username": "tsgostar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sink.wuyuan.dev/afd",
+                "end": 107,
+                "expanded_url": "http://sink.wuyuan.dev/afd",
+                "start": 84,
+                "url": "https://t.co/ceQCtxmG75"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyuan.dev",
+                "end": 23,
+                "expanded_url": "https://wuyuan.dev",
+                "start": 0,
+                "url": "https://t.co/QRKaQrisQX"
+              }
+            ]
+          }
+        },
+        "id": "1436287470207832064",
+        "location": "zh-CN 🌏",
+        "name": "孙悟元 (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ",
+        "pinned_tweet_id": "2055959051016745227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060988547063259136/k51eG-qk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 420,
+          "like_count": 5564,
+          "listed_count": 5,
+          "media_count": 352,
+          "tweet_count": 1741
+        },
+        "url": "https://t.co/QRKaQrisQX",
+        "username": "wuyuandev",
+        "verified": true
+      }
+    ]
+  }
+}
