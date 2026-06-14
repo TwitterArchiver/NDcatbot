@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2063852760228057248",
+    "created_at": "2026-06-09T06:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064226366196007071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1928705633135767600",
+          "start": 0,
+          "username": "Yg_Xyn"
+        },
+        {
+          "end": 15,
+          "id": "2055095022425722880",
+          "start": 8,
+          "username": "UnkMtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064226366196007071",
+    "in_reply_to_user_id": "1928705633135767600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063859619223814359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Yg_Xyn @UnkMtX 草 这是哪个罕见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2063852760228057248",
+        "created_at": "2026-06-09T06:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064226366196007071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1928705633135767600",
+              "start": 0,
+              "username": "Yg_Xyn"
+            },
+            {
+              "end": 15,
+              "id": "2055095022425722880",
+              "start": 8,
+              "username": "UnkMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064226366196007071",
+        "in_reply_to_user_id": "1928705633135767600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063859619223814359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Yg_Xyn @UnkMtX 草 这是哪个罕见"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928705633135767600",
+        "conversation_id": "2063852760228057248",
+        "created_at": "2026-06-08T05:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063859619223814359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055095022425722880",
+              "start": 0,
+              "username": "UnkMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063859619223814359",
+        "in_reply_to_user_id": "2055095022425722880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 263,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063852760228057248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@UnkMtX 罕见的午睡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 141,
+          "like_count": 4921,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 774
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-31T06:51:03.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@PriseTwinkle | https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "PriseTwinkle"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 158,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 135,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/prisetwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/prisetwinkle",
+                "start": 0,
+                "url": "https://t.co/l5lkW1bm2Y"
+              }
+            ]
+          }
+        },
+        "id": "1928705633135767600",
+        "location": "湖北潜江",
+        "name": "芸光酱𝑷𝒓𝒊𝒔𝒆𝑻𝒘𝒊𝒏𝒌𝒍𝒆 🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060638571346944111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064198104983969792/gscKhrdX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1437,
+          "following_count": 7,
+          "like_count": 2136,
+          "listed_count": 4,
+          "media_count": 125,
+          "tweet_count": 821
+        },
+        "url": "https://t.co/l5lkW1bm2Y",
+        "username": "Yg_Xyn",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "被关精卫了😭不发帖就是没手机了😭|永远怀念@UnkXyn|MtX|Hrt🍥01.28.2026，断糖06.06.2026|家长反对党+年龄党|生产日期11.13.2011|暂时无法Od💊，普瑞巴林我会想你的😭|对象@Lvmaosamaovo|159cm51kg|INFP-T，重度社恐|休学中|同类互fo喵~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "UnkXyn"
+              },
+              {
+                "end": 120,
+                "start": 107,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "name": "3.Unk🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 898,
+          "like_count": 1365,
+          "listed_count": 13,
+          "media_count": 36,
+          "tweet_count": 254
+        },
+        "username": "UnkMtX",
+        "verified": true
+      }
+    ]
+  }
+}

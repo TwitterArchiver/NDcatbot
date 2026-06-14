@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2063866438595854767",
+    "created_at": "2026-06-08T06:11:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:11:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063866438595854767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1735728536827334657",
+          "start": 3,
+          "username": "SakurasakaRiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063866438595854767",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063316093322817767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SakurasakaRiko: 无聊的时候\n*打开QQ\n无人在意你\n*关闭QQ\n*打开X\n无人在意你\n*起飞一下\n*关闭X\n*打开QQ\n*关闭QQ\n*打开X\n*关闭X\n*打开B站\n*关闭B站\n*打开QQ\n*关闭QQ\n*打开X\n*关闭X\n*打开QQ\n*关闭QQ\n*打开X…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2063866438595854767",
+        "created_at": "2026-06-08T06:11:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:11:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063866438595854767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1735728536827334657",
+              "start": 3,
+              "username": "SakurasakaRiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063866438595854767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063316093322817767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SakurasakaRiko: 无聊的时候\n*打开QQ\n无人在意你\n*关闭QQ\n*打开X\n无人在意你\n*起飞一下\n*关闭X\n*打开QQ\n*关闭QQ\n*打开X\n*关闭X\n*打开B站\n*关闭B站\n*打开QQ\n*关闭QQ\n*打开X\n*关闭X\n*打开QQ\n*关闭QQ\n*打开X…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735728536827334657",
+        "conversation_id": "2063316093322817767",
+        "created_at": "2026-06-06T17:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063316093322817767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063316093322817767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 27785,
+          "like_count": 854,
+          "quote_count": 21,
+          "reply_count": 151,
+          "retweet_count": 96
+        },
+        "reply_settings": "everyone",
+        "text": "无聊的时候\n*打开QQ\n无人在意你\n*关闭QQ\n*打开X\n无人在意你\n*起飞一下\n*关闭X\n*打开QQ\n*关闭QQ\n*打开X\n*关闭X\n*打开B站\n*关闭B站\n*打开QQ\n*关闭QQ\n*打开X\n*关闭X\n*打开QQ\n*关闭QQ\n*打开X\n*关闭X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 140,
+          "like_count": 4840,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 766
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T18:28:33.000Z",
+        "description": "日本語🇯🇵/中文🇨🇳/EN🇺🇸🇬🇧 OK\n喜欢玩各种音游的普通玩家，数码设备爱好者\n maimai 樱桃堇晓橙白熊华超檄辉将持有，真神持有\n你可以称呼我为riko或者璃子\n全球各地旅游中，偶尔发发酒店评价\n⬛️🟨⬛️🟪⬛️🟨⬛️🟪⬛️🟨⬛️",
+        "id": "1735728536827334657",
+        "location": "Tokyo",
+        "name": "樱坂璃子Riko",
+        "pinned_tweet_id": "2045383031490560228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054559274341392384/IBqpzPWJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 173,
+          "like_count": 4609,
+          "listed_count": 3,
+          "media_count": 179,
+          "tweet_count": 1521
+        },
+        "username": "SakurasakaRiko",
+        "verified": true
+      }
+    ]
+  }
+}

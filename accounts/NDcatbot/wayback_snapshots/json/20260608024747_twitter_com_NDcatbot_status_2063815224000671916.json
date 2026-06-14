@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2063815224000671916",
+    "created_at": "2026-06-08T02:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T03:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063815224000671916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2048045804959436800",
+          "start": 3,
+          "username": "shifengshua0717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063815224000671916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063582159416459485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shifengshua0717: 我爸让我不要做犯法的事，可犯法的不是那些机构吗？他难道觉得那些机构是对的？要真这样，那就很讽刺了。\n我妈也一直在质疑我的做法，让我不要害人，不要害到家里人......\n可明明是那些机构在害人在犯法，那么多的新闻你们父母俩是tm眼瞎看不见…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 633,
+        "media_key": "3_2063582146770747393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNRB3cbwAEHXb6.jpg",
+        "width": 1080
+      },
+      {
+        "height": 452,
+        "media_key": "3_2063582146510602241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNRB2eaQAEFzz1.jpg",
+        "width": 1080
+      },
+      {
+        "height": 848,
+        "media_key": "3_2063582147630542848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNRB6pbMAAsOhJ.jpg",
+        "width": 640
+      },
+      {
+        "height": 543,
+        "media_key": "3_2063582149283065856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNRCAzasAA9V9D.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2063815224000671916",
+        "created_at": "2026-06-08T02:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T03:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063815224000671916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2048045804959436800",
+              "start": 3,
+              "username": "shifengshua0717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063815224000671916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063582159416459485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shifengshua0717: 我爸让我不要做犯法的事，可犯法的不是那些机构吗？他难道觉得那些机构是对的？要真这样，那就很讽刺了。\n我妈也一直在质疑我的做法，让我不要害人，不要害到家里人......\n可明明是那些机构在害人在犯法，那么多的新闻你们父母俩是tm眼瞎看不见…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063582146770747393",
+            "3_2063582146510602241",
+            "3_2063582147630542848",
+            "3_2063582149283065856"
+          ]
+        },
+        "author_id": "2048045804959436800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063582159416459485",
+        "created_at": "2026-06-07T11:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063582159416459485"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 144,
+              "start": 138,
+              "tag": "戒网瘾学校"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gK4F4GCWMw",
+              "end": 168,
+              "expanded_url": "https://x.com/shifengshua0717/status/2063582159416459485/photo/1",
+              "media_key": "3_2063582146770747393",
+              "start": 145,
+              "url": "https://t.co/gK4F4GCWMw"
+            },
+            {
+              "display_url": "pic.x.com/gK4F4GCWMw",
+              "end": 168,
+              "expanded_url": "https://x.com/shifengshua0717/status/2063582159416459485/photo/1",
+              "media_key": "3_2063582146510602241",
+              "start": 145,
+              "url": "https://t.co/gK4F4GCWMw"
+            },
+            {
+              "display_url": "pic.x.com/gK4F4GCWMw",
+              "end": 168,
+              "expanded_url": "https://x.com/shifengshua0717/status/2063582159416459485/photo/1",
+              "media_key": "3_2063582147630542848",
+              "start": 145,
+              "url": "https://t.co/gK4F4GCWMw"
+            },
+            {
+              "display_url": "pic.x.com/gK4F4GCWMw",
+              "end": 168,
+              "expanded_url": "https://x.com/shifengshua0717/status/2063582159416459485/photo/1",
+              "media_key": "3_2063582149283065856",
+              "start": 145,
+              "url": "https://t.co/gK4F4GCWMw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063582159416459485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1428,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我爸让我不要做犯法的事，可犯法的不是那些机构吗？他难道觉得那些机构是对的？要真这样，那就很讽刺了。\n我妈也一直在质疑我的做法，让我不要害人，不要害到家里人......\n可明明是那些机构在害人在犯法，那么多的新闻你们父母俩是tm眼瞎看不见？还是被那抖音的死信息茧房屏蔽了？？？\n#戒网瘾学校 https://t.co/gK4F4GCWMw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 140,
+          "like_count": 4827,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 760
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T14:26:01.000Z",
+        "description": "做伟大事情的唯一方法就是热爱你所做的事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1252971630",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1252971630",
+                "start": 0,
+                "url": "https://t.co/JDJn1vt8af"
+              }
+            ]
+          }
+        },
+        "id": "2048045804959436800",
+        "location": "Hong Kong",
+        "name": "枫书",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059337950232825856/-b-SRyMD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 11,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/JDJn1vt8af",
+        "username": "shifengshua0717",
+        "verified": false
+      }
+    ]
+  }
+}

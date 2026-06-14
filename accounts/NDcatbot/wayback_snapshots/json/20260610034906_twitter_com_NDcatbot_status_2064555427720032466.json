@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2064555427720032466",
+    "created_at": "2026-06-10T03:49:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T04:49:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064555427720032466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1605093608910381056",
+          "start": 3,
+          "username": "suekageseikiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064555427720032466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064356983101427725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suekageseikiyo: 我：\nstep1：已经吃了一个月药药了窝要向网友出柜，把可爱的🍥加到昵称里叭🥹\nstep2：感觉🍥挂不挂都无所谓嘛，好像也没有人会因为这个有任何想法，回头看心情取下来叭\nstep3：（在「正常人」的群被莫名其妙恶意猎奇凝视攻击，而且管理员…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2064555427720032466",
+        "created_at": "2026-06-10T03:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T04:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064555427720032466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1605093608910381056",
+              "start": 3,
+              "username": "suekageseikiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064555427720032466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064356983101427725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suekageseikiyo: 我：\nstep1：已经吃了一个月药药了窝要向网友出柜，把可爱的🍥加到昵称里叭🥹\nstep2：感觉🍥挂不挂都无所谓嘛，好像也没有人会因为这个有任何想法，回头看心情取下来叭\nstep3：（在「正常人」的群被莫名其妙恶意猎奇凝视攻击，而且管理员…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605093608910381056",
+        "conversation_id": "2064356983101427725",
+        "created_at": "2026-06-09T14:40:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:40:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064356983101427725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/omgnowihasfish…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/omgnowihasfish/status/2064206876397691314",
+              "start": 142,
+              "url": "https://t.co/HBcJ4gM7WH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064356983101427725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我：\nstep1：已经吃了一个月药药了窝要向网友出柜，把可爱的🍥加到昵称里叭🥹\nstep2：感觉🍥挂不挂都无所谓嘛，好像也没有人会因为这个有任何想法，回头看心情取下来叭\nstep3：（在「正常人」的群被莫名其妙恶意猎奇凝视攻击，而且管理员把群名加上了🍥恶心咱）之后我决定一直挂着🍥。\n因为「我们的存在就是对恶意最大的反抗」，要让所有人明白，我们不会因为你们偏执的看法消失掉。因为谁昵称里有🍥就对谁有先入为主的成见，那真是太愚蠢了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 944,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064206876397691314",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我：\nstep1：已经吃了一个月药药了窝要向网友出柜，把可爱的🍥加到昵称里叭🥹\nstep2：感觉🍥挂不挂都无所谓嘛，好像也没有人会因为这个有任何想法，回头看心情取下来叭\nstep3：（在「正常人」的群被莫名其妙恶意猎奇凝视攻击，而且管理员把群名加上了🍥恶心咱）之后我决定一直挂着🍥。 https://t.co/HBcJ4gM7WH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 142,
+          "like_count": 4934,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 777
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T06:51:57.000Z",
+        "description": "",
+        "id": "1605093608910381056",
+        "name": "末々🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026309621338820609/hO5ufogg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 587,
+          "like_count": 5607,
+          "listed_count": 2,
+          "media_count": 93,
+          "tweet_count": 655
+        },
+        "username": "suekageseikiyo",
+        "verified": true
+      }
+    ]
+  }
+}
