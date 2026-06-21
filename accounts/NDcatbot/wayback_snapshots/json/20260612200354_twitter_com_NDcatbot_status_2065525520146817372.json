@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064967705606893568"
+      ],
+      "media_source_tweet_id": [
+        "2064967721696301440"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2065525520146817372",
+    "created_at": "2026-06-12T20:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T21:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065525520146817372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TFtR7rupeB",
+          "end": 61,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2064967721696301440/photo/1",
+          "media_key": "3_2064967705606893568",
+          "start": 38,
+          "url": "https://t.co/TFtR7rupeB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065525520146817372",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064967721696301440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: *为了隐私安全，你不能截屏。*\n： https://t.co/TFtR7rupeB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2064967705606893568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKg9MAVaMAAcECZ.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064967705606893568"
+          ],
+          "media_source_tweet_id": [
+            "2064967721696301440"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2065525520146817372",
+        "created_at": "2026-06-12T20:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T21:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065525520146817372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TFtR7rupeB",
+              "end": 61,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2064967721696301440/photo/1",
+              "media_key": "3_2064967705606893568",
+              "start": 38,
+              "url": "https://t.co/TFtR7rupeB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065525520146817372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064967721696301440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: *为了隐私安全，你不能截屏。*\n： https://t.co/TFtR7rupeB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064967705606893568"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2064967721696301440",
+        "created_at": "2026-06-11T07:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064967721696301440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TFtR7rupeB",
+              "end": 41,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2064967721696301440/photo/1",
+              "media_key": "3_2064967705606893568",
+              "start": 18,
+              "url": "https://t.co/TFtR7rupeB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064967721696301440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 30448,
+          "like_count": 1206,
+          "quote_count": 2,
+          "reply_count": 50,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "*为了隐私安全，你不能截屏。*\n： https://t.co/TFtR7rupeB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 141,
+          "like_count": 5158,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 804
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5853,
+          "following_count": 871,
+          "like_count": 25729,
+          "listed_count": 10,
+          "media_count": 1452,
+          "tweet_count": 7933
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

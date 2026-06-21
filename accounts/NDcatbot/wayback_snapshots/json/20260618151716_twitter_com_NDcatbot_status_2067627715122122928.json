@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2067531677845582129",
+    "created_at": "2026-06-18T15:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T16:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067627715122122928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1881948478240333824",
+          "start": 0,
+          "username": "tlmouse486"
+        },
+        {
+          "end": 26,
+          "id": "1622066090074607616",
+          "start": 12,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067627715122122928",
+    "in_reply_to_user_id": "1881948478240333824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067590577064149053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tlmouse486 @hoshinofujivy 我家养猫之后就很少见完整的蟑螂了 就算见到也是被猫吃的只剩半个的蟑螂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2067531677845582129",
+        "created_at": "2026-06-18T15:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067627715122122928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1881948478240333824",
+              "start": 0,
+              "username": "tlmouse486"
+            },
+            {
+              "end": 26,
+              "id": "1622066090074607616",
+              "start": 12,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067627715122122928",
+        "in_reply_to_user_id": "1881948478240333824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067590577064149053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tlmouse486 @hoshinofujivy 我家养猫之后就很少见完整的蟑螂了 就算见到也是被猫吃的只剩半个的蟑螂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881948478240333824",
+        "conversation_id": "2067531677845582129",
+        "created_at": "2026-06-18T12:49:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:49:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067590577064149053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067590577064149053",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067531677845582129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 其实养猫也可以，最好是不到一岁的小猫，猫见到蟑螂就会去玩死它们，有时候甚至会吃，养一只猫就可以确保你在那种常见的地方见不到蟑螂了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 83,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 108,
+                "start": 97,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/Qlt02IamFt"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 141,
+          "like_count": 5336,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 823
+        },
+        "url": "https://t.co/Qlt02IamFt",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T06:14:39.000Z",
+        "description": "社会无政府主义🏴/社会主义🟩/共产主义❌️/无政府共产主义🟩｜任何诉求的结论都应该是平等而不是凌驾于另一方｜",
+        "id": "1881948478240333824",
+        "name": "TL_mouse🏴",
+        "pinned_tweet_id": "2066459965871812796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051566725762863104/9lAIL4L3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 22,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 362
+        },
+        "url": "",
+        "username": "tlmouse486",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2037497599956226138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12049,
+          "following_count": 4366,
+          "like_count": 49130,
+          "listed_count": 36,
+          "media_count": 2861,
+          "tweet_count": 16160
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

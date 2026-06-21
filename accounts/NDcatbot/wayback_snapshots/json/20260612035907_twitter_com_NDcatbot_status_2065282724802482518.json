@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065237968030494720"
+      ],
+      "media_source_tweet_id": [
+        "2065238178869731814"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2065282724802482518",
+    "created_at": "2026-06-12T03:59:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T04:59:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065282724802482518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1560129932524544000",
+          "start": 3,
+          "username": "xijiu_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3LkNWDFVxe",
+          "end": 135,
+          "expanded_url": "https://x.com/xijiu_/status/2065238178869731814/video/1",
+          "media_key": "13_2065237968030494720",
+          "start": 112,
+          "url": "https://t.co/3LkNWDFVxe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065282724802482518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065238178869731814",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xijiu_: 大心课老师严肃反同\n“这种取向我们课堂上是不能有的”\n“你们组是没有女生嘛，你就是女生啊为什么还要让男生和男生去演谈恋爱”\n“这个是严肃不准的啊”\n“我相信你们其实也不是真的那个什么…是吧，同性恋“ https://t.co/3LkNWDFVxe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 95295,
+        "height": 1280,
+        "media_key": "13_2065237968030494720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065237968030494720/img/kiWDpod5n8sIH1-4.jpg",
+        "public_metrics": {
+          "view_count": 341
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065237968030494720/vid/avc1/320x568/k2uXRm-9ZQ1y37L9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065237968030494720/vid/avc1/480x852/wpe0wqAyXEHgV19H.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065237968030494720/vid/avc1/720x1280/5UtIJi3RLrNOxmNU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065237968030494720/pl/aZv9mPfwf5rGdQxo.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 95295,
+        "height": 1280,
+        "media_key": "13_2065237968030494720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065237968030494720/img/kiWDpod5n8sIH1-4.jpg",
+        "public_metrics": {
+          "view_count": 353
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065237968030494720/vid/avc1/320x568/k2uXRm-9ZQ1y37L9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065237968030494720/vid/avc1/480x852/wpe0wqAyXEHgV19H.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065237968030494720/vid/avc1/720x1280/5UtIJi3RLrNOxmNU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065237968030494720/pl/aZv9mPfwf5rGdQxo.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065237968030494720"
+          ],
+          "media_source_tweet_id": [
+            "2065238178869731814"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2065282724802482518",
+        "created_at": "2026-06-12T03:59:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T04:59:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065282724802482518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1560129932524544000",
+              "start": 3,
+              "username": "xijiu_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3LkNWDFVxe",
+              "end": 135,
+              "expanded_url": "https://x.com/xijiu_/status/2065238178869731814/video/1",
+              "media_key": "13_2065237968030494720",
+              "start": 112,
+              "url": "https://t.co/3LkNWDFVxe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065282724802482518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065238178869731814",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xijiu_: 大心课老师严肃反同\n“这种取向我们课堂上是不能有的”\n“你们组是没有女生嘛，你就是女生啊为什么还要让男生和男生去演谈恋爱”\n“这个是严肃不准的啊”\n“我相信你们其实也不是真的那个什么…是吧，同性恋“ https://t.co/3LkNWDFVxe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065237968030494720"
+          ]
+        },
+        "author_id": "1560129932524544000",
+        "conversation_id": "2065238178869731814",
+        "created_at": "2026-06-12T01:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T02:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065238178869731814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3LkNWDFVxe",
+              "end": 123,
+              "expanded_url": "https://x.com/xijiu_/status/2065238178869731814/video/1",
+              "media_key": "13_2065237968030494720",
+              "start": 100,
+              "url": "https://t.co/3LkNWDFVxe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065238178869731814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 834,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大心课老师严肃反同\n“这种取向我们课堂上是不能有的”\n“你们组是没有女生嘛，你就是女生啊为什么还要让男生和男生去演谈恋爱”\n“这个是严肃不准的啊”\n“我相信你们其实也不是真的那个什么…是吧，同性恋“ https://t.co/3LkNWDFVxe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 140,
+          "like_count": 5113,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 801
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-18T05:02:26.000Z",
+        "description": "🏳️‍⚧️|生命久如暗室，不妨碍我明写春诗|I’m Nicy , a freshman majoring in chemistry from China.| The Jesus loves us equally.",
+        "id": "1560129932524544000",
+        "location": "被有机实验室炸飞的电化学实验室",
+        "name": "希玖.",
+        "pinned_tweet_id": "1858024741422117307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799273016024846336/s8YOvPfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3605,
+          "following_count": 856,
+          "like_count": 200330,
+          "listed_count": 3,
+          "media_count": 658,
+          "tweet_count": 9527
+        },
+        "username": "xijiu_",
+        "verified": false
+      }
+    ]
+  }
+}

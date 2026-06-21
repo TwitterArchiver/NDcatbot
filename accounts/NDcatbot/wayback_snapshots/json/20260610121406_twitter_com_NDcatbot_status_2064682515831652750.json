@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2064492587348525566",
+    "created_at": "2026-06-10T12:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T13:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064682515831652750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2029556263810703360",
+          "start": 0,
+          "username": "bange7645"
+        },
+        {
+          "end": 20,
+          "id": "1356882113069514753",
+          "start": 11,
+          "username": "gabrrlgh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064682515831652750",
+    "in_reply_to_user_id": "2029556263810703360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064642622308683891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bange7645 @gabrrlgh 那你翻出来干什么 习近平可没允许你翻墙🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2064492587348525566",
+        "created_at": "2026-06-10T12:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T13:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064682515831652750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2029556263810703360",
+              "start": 0,
+              "username": "bange7645"
+            },
+            {
+              "end": 20,
+              "id": "1356882113069514753",
+              "start": 11,
+              "username": "gabrrlgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064682515831652750",
+        "in_reply_to_user_id": "2029556263810703360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064642622308683891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bange7645 @gabrrlgh 那你翻出来干什么 习近平可没允许你翻墙🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029556263810703360",
+        "conversation_id": "2064492587348525566",
+        "created_at": "2026-06-10T09:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064642622308683891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1356882113069514753",
+              "start": 0,
+              "username": "gabrrlgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064642622308683891",
+        "in_reply_to_user_id": "1356882113069514753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8238,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064492587348525566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gabrrlgh 说白了，微信不比telegram好用吗？抖音bilibili不比YouTube好用吗，看看insgram上面都是什么，全是色情小视频，我都把insgram当色情网站用，x上全是推政治的摸黑这个国家总统摸黑那个国家总统。看得直恶心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 141,
+          "like_count": 5020,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 788
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-05T13:56:17.000Z",
+        "description": "",
+        "id": "2029556263810703360",
+        "name": "bange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029556609131884544/2v10SIYn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "bange7645",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-03T08:28:15.000Z",
+        "description": "solo son tweets…. promo y colab Dm 📩",
+        "id": "1356882113069514753",
+        "name": "henriqez",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053480985790947337/O-7GLn9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70096,
+          "following_count": 1149,
+          "like_count": 67111,
+          "listed_count": 101,
+          "media_count": 3840,
+          "tweet_count": 38510
+        },
+        "username": "gabrrlgh",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2066836446909174090",
+    "created_at": "2026-06-16T15:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T16:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066904841960690016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1546431985086009344",
+          "start": 0,
+          "username": "NL8526"
+        },
+        {
+          "end": 21,
+          "id": "2029291241704439808",
+          "start": 8,
+          "username": "20satsumaimo"
+        },
+        {
+          "end": 36,
+          "id": "1581854903709802496",
+          "start": 22,
+          "username": "Xuyuansha9889"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066904841960690016",
+    "in_reply_to_user_id": "1546431985086009344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066836446909174090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NL8526 @20satsumaimo @Xuyuansha9889 晚安"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1654,
+        "media_key": "3_2066836356807196672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7gt0hbAAAllfy.jpg",
+        "width": 1138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2066836446909174090",
+        "created_at": "2026-06-16T15:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066904841960690016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1546431985086009344",
+              "start": 0,
+              "username": "NL8526"
+            },
+            {
+              "end": 21,
+              "id": "2029291241704439808",
+              "start": 8,
+              "username": "20satsumaimo"
+            },
+            {
+              "end": 36,
+              "id": "1581854903709802496",
+              "start": 22,
+              "username": "Xuyuansha9889"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066904841960690016",
+        "in_reply_to_user_id": "1546431985086009344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066836446909174090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NL8526 @20satsumaimo @Xuyuansha9889 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066836356807196672"
+          ]
+        },
+        "author_id": "1546431985086009344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066836446909174090",
+        "created_at": "2026-06-16T10:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:52:42.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066836359235645553",
+          "2066836446909174090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2029291241704439808",
+              "start": 4,
+              "username": "20satsumaimo"
+            },
+            {
+              "end": 37,
+              "id": "1581854903709802496",
+              "start": 23,
+              "username": "Xuyuansha9889"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Byq7LZWXI",
+              "end": 169,
+              "expanded_url": "https://x.com/NL8526/status/2066836446909174090/photo/1",
+              "media_key": "3_2066836356807196672",
+              "start": 146,
+              "url": "https://t.co/5Byq7LZWXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066836446909174090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 4138,
+          "like_count": 79,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n@20satsumaimo (红薯)与@Xuyuansha9889 (噬語) 已确认离世。她们在网络上以真实而脆弱的姿态分享过自己的生活，与大家有过短暂的交集，我们不会忘记她们。愿她们在另一个世界再无痛苦，成为真实的自己。RIP。🍥\n—— 一位为她们感到悲伤的路人，于2026年6月 https://t.co/5Byq7LZWXI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 83,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 108,
+                "start": 97,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/Qlt02IamFt"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 142,
+          "like_count": 5306,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 814
+        },
+        "url": "https://t.co/Qlt02IamFt",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T09:51:43.000Z",
+        "description": "🏳️‍⚧️07MTF ♍ISFP-T 😺AuDHD BPD 🎹钢专/数码/音游/MC 😴大一休学/家长不管党/不线下/小透明/友好欢迎dm ✨本人照片在亮点 🩷同类蓝v互fo 🙏抽象致歉 无故之b必回 ⬇️匿名问答箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nl8526",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nl8526",
+                "start": 0,
+                "url": "https://t.co/jWEGQcvXbV"
+              }
+            ]
+          }
+        },
+        "id": "1546431985086009344",
+        "name": "柠凉🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2066003299510464743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027271602556297216/MVm2kNIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2855,
+          "following_count": 803,
+          "like_count": 17110,
+          "listed_count": 5,
+          "media_count": 165,
+          "tweet_count": 730
+        },
+        "url": "https://t.co/jWEGQcvXbV",
+        "username": "NL8526",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-04T20:25:12.000Z",
+        "description": "mtf/有证含糖/02年/基本待人友善/OD/不割手/疑似严重躁狂（叫我红薯就好啦～",
+        "id": "2029291241704439808",
+        "name": "是红薯呀～🍥",
+        "pinned_tweet_id": "2038964958881575022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046964782033752064/ozF77ljw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 1,
+          "like_count": 110,
+          "listed_count": 7,
+          "media_count": 85,
+          "tweet_count": 137
+        },
+        "username": "20satsumaimo",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-17T03:49:42.000Z",
+        "description": "極度社恐，重度社交障碍| 重抑双相 | 持证MtF🍥 | 165/60 | istp |负能药罐子 | m |不键政|活在自己的世界里，可以叫我小酥~",
+        "id": "1581854903709802496",
+        "name": "噬語🍥 🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038078401266020352/1lfmum7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 49,
+          "like_count": 209,
+          "listed_count": 4,
+          "media_count": 49,
+          "tweet_count": 143
+        },
+        "username": "Xuyuansha9889",
+        "verified": false
+      }
+    ]
+  }
+}

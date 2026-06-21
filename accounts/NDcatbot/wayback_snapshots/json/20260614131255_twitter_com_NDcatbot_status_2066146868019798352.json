@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2065772390924403104",
+    "created_at": "2026-06-14T13:12:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T14:12:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066146868019798352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1839085606573637632",
+          "start": 0,
+          "username": "zhiii_tan"
+        },
+        {
+          "end": 23,
+          "id": "1846596976265326592",
+          "start": 11,
+          "username": "voidsama777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066146868019798352",
+    "in_reply_to_user_id": "1839085606573637632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065792815523832038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhiii_tan @voidsama777 感觉魔爪扫码抽奖的中奖率确实高\n只不过我买的24瓶一箱的都没有码"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2065772390924403104",
+        "created_at": "2026-06-14T13:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066146868019798352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "zhiii_tan"
+            },
+            {
+              "end": 23,
+              "id": "1846596976265326592",
+              "start": 11,
+              "username": "voidsama777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066146868019798352",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065792815523832038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiii_tan @voidsama777 感觉魔爪扫码抽奖的中奖率确实高\n只不过我买的24瓶一箱的都没有码"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2065772390924403104",
+        "created_at": "2026-06-13T13:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T14:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065792815523832038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1846596976265326592",
+              "start": 0,
+              "username": "voidsama777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065792815523832038",
+        "in_reply_to_user_id": "1846596976265326592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065787279323586871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@voidsama777 我买了好几瓶就抽中两次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 83,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 108,
+                "start": 97,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/Qlt02IamFt"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 141,
+          "like_count": 5254,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 810
+        },
+        "url": "https://t.co/Qlt02IamFt",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "可以叫我之之丨生理心理皆女丨lgbtq友好丨我割我抽我o丨不鉴证丨喜欢互动 丨我没有🚪觉得我以后会在推上发点什么的不要关注我了丨只有绿色健康小清新🍀丨没有门不接线上不接线下没有非绿没有半绿没有纯绿丨\n防炸@LeeSong14176丨互fo直关丨没回fo私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 102,
+                "username": "LeeSong14176"
+              }
+            ]
+          }
+        },
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2065050387967840395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050427976786010112/u0ceyAKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 485,
+          "like_count": 1189,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 2935
+        },
+        "username": "zhiii_tan",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T17:01:02.000Z",
+        "description": "⟡ ✞ nonbinary ✟⛧✟ 互fo喵♡ ✞ \n✟⛧✟ (ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡⋆overdose lover♡✦\n⟡ v-kei ꙳scenecore lover ♡✦ rebzyyx₊kets4eki fans ⭒\n\n✞ ♡ dm开放 欢迎找我聊天喵 ♡ ✞",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "https://twitter.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/hBwaD5CsX6"
+              }
+            ]
+          }
+        },
+        "id": "1846596976265326592",
+        "location": "ＩＮＴＥＲＮＥＴ",
+        "name": "✟ クウキ ✟",
+        "pinned_tweet_id": "2064012323329802702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060762569317679104/_n0GCM6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 160,
+          "like_count": 6621,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 847
+        },
+        "url": "https://t.co/hBwaD5CsX6",
+        "username": "voidsama777",
+        "verified": false
+      }
+    ]
+  }
+}

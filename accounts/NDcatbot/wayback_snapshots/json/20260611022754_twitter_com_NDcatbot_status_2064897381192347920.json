@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2064897381192347920",
+    "created_at": "2026-06-11T02:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T03:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064897381192347920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1680247071608303616",
+          "start": 3,
+          "username": "AsdQWD358224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064897381192347920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064896282804818295",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsdQWD358224: 唐毓文真的是傻逼了\n把本人强制送进精神病院封闭病房。\n然后拿AI蒸馏了一个skill。\n做了一个17的bot\n真的很恶心啊这种行为\n你他妈至少尊重一下人吧。\n把别人强制送去精卫。\n还他妈好意思标榜自己做了自杀干预。\n真你妈傻逼啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2064897381192347920",
+        "created_at": "2026-06-11T02:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064897381192347920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1680247071608303616",
+              "start": 3,
+              "username": "AsdQWD358224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064897381192347920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064896282804818295",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsdQWD358224: 唐毓文真的是傻逼了\n把本人强制送进精神病院封闭病房。\n然后拿AI蒸馏了一个skill。\n做了一个17的bot\n真的很恶心啊这种行为\n你他妈至少尊重一下人吧。\n把别人强制送去精卫。\n还他妈好意思标榜自己做了自杀干预。\n真你妈傻逼啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "2064896282804818295",
+        "created_at": "2026-06-11T02:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T03:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064896282804818295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xiaoyi_0324/st…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/Xiaoyi_0324/status/2063372328021688669",
+              "start": 115,
+              "url": "https://t.co/RgeMqTu2W3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064896282804818295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063372328021688669",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唐毓文真的是傻逼了\n把本人强制送进精神病院封闭病房。\n然后拿AI蒸馏了一个skill。\n做了一个17的bot\n真的很恶心啊这种行为\n你他妈至少尊重一下人吧。\n把别人强制送去精卫。\n还他妈好意思标榜自己做了自杀干预。\n真你妈傻逼啊 https://t.co/RgeMqTu2W3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 139,
+          "like_count": 5061,
+          "listed_count": 2,
+          "media_count": 66,
+          "tweet_count": 797
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 ❤️@xiao_wen0510   ❤️@Nahida_miao❤️ @fe_ions❤️@happyhejsday ❤️@wanan071020\n  @QieZhiyuan ❤️@Roseline_7890\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 59,
+                "start": 46,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 76,
+                "start": 64,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 87,
+                "start": 79,
+                "username": "fe_ions"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "happyhejsday"
+              },
+              {
+                "end": 117,
+                "start": 105,
+                "username": "wanan071020"
+              },
+              {
+                "end": 131,
+                "start": 120,
+                "username": "QieZhiyuan"
+              },
+              {
+                "end": 148,
+                "start": 134,
+                "username": "Roseline_7890"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5SU2Hf"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "北雁秋分🍔",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2559,
+          "following_count": 3007,
+          "like_count": 102446,
+          "listed_count": 12,
+          "media_count": 2303,
+          "tweet_count": 17835
+        },
+        "url": "https://t.co/3Lyg5SU2Hf",
+        "username": "AsdQWD358224",
+        "verified": false
+      }
+    ]
+  }
+}

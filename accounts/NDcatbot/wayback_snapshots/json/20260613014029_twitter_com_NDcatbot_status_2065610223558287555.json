@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2065610223558287555",
+    "created_at": "2026-06-13T01:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T02:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065610223558287555"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zzz1043903/sta…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/zzz1043903/status/2065199444539359734",
+          "start": 19,
+          "url": "https://t.co/IqRZPJFjUp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065610223558287555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065199444539359734",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "：面条喵万岁\n：你辱华了\n：OMG🫪 https://t.co/IqRZPJFjUp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2065199432266854400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKkP8RaasAA_BH5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2065610223558287555",
+        "created_at": "2026-06-13T01:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T02:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065610223558287555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zzz1043903/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/zzz1043903/status/2065199444539359734",
+              "start": 19,
+              "url": "https://t.co/IqRZPJFjUp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065610223558287555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065199444539359734",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "：面条喵万岁\n：你辱华了\n：OMG🫪 https://t.co/IqRZPJFjUp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065199432266854400"
+          ]
+        },
+        "author_id": "2028899853716320256",
+        "conversation_id": "2065199444539359734",
+        "created_at": "2026-06-11T22:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T23:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065199444539359734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E4RpbyLEHC",
+              "end": 171,
+              "expanded_url": "https://x.com/zzz1043903/status/2065199444539359734/photo/1",
+              "media_key": "3_2065199432266854400",
+              "start": 148,
+              "url": "https://t.co/E4RpbyLEHC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065199444539359734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4627,
+          "like_count": 85,
+          "quote_count": 3,
+          "reply_count": 50,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "前天一个多月以来第一次回学校\n就被一群顺直男在宿舍当沙包打了\n嘴唇被打破了 到现在还有点流血..\n我只不过说我是社会自由主义者\n他们就说我辱华\n还歧视我是跨性别..\n\n我又能怎么样呢\n回家了自己一个人哭哭od划手手\n我知道以友善求友善则友善亡\n但是真要暴力反抗的话又不敢\n已经很久没打过架了.. https://t.co/E4RpbyLEHC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "hyachana"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks1447"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 141,
+          "like_count": 5190,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 807
+        },
+        "url": "https://t.co/h6V6ks1447",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T18:26:54.000Z",
+        "description": "友跨| MTF 重抑\n含糖3.6.2026\n嚴重社恐 長期宅家 | 社會自由主義萬歲\n♡\n5.24.2010出廠|172cm 58.5kg",
+        "id": "2028899853716320256",
+        "location": "人民共和國",
+        "name": "万若汐 | 愿愿♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029133812505165824/mqsMZ_Mw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 85,
+          "like_count": 40,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 912
+        },
+        "username": "zzz1043903",
+        "verified": false
+      }
+    ]
+  }
+}

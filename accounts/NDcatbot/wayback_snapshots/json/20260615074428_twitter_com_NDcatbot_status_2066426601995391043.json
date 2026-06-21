@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066153242195836928"
+      ],
+      "media_source_tweet_id": [
+        "2066153245203140650"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2066426601995391043",
+    "created_at": "2026-06-15T07:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T08:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066426601995391043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1889861257",
+          "start": 3,
+          "username": "__summer__sea__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1vc2p6BXh8",
+          "end": 54,
+          "expanded_url": "https://x.com/__summer__sea__/status/2066153245203140650/photo/1",
+          "media_key": "3_2066153242195836928",
+          "start": 31,
+          "url": "https://t.co/1vc2p6BXh8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066426601995391043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066153245203140650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__summer__sea__: 我操，这简直是我😭 https://t.co/1vc2p6BXh8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2066153242195836928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxzbUSawAAN3Yg.jpg",
+        "width": 1362
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066153242195836928"
+          ],
+          "media_source_tweet_id": [
+            "2066153245203140650"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2066426601995391043",
+        "created_at": "2026-06-15T07:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T08:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066426601995391043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1889861257",
+              "start": 3,
+              "username": "__summer__sea__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1vc2p6BXh8",
+              "end": 54,
+              "expanded_url": "https://x.com/__summer__sea__/status/2066153245203140650/photo/1",
+              "media_key": "3_2066153242195836928",
+              "start": 31,
+              "url": "https://t.co/1vc2p6BXh8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066426601995391043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066153245203140650",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__summer__sea__: 我操，这简直是我😭 https://t.co/1vc2p6BXh8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066153242195836928"
+          ]
+        },
+        "author_id": "1889861257",
+        "conversation_id": "2066153245203140650",
+        "created_at": "2026-06-14T13:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066153245203140650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1vc2p6BXh8",
+              "end": 33,
+              "expanded_url": "https://x.com/__summer__sea__/status/2066153245203140650/photo/1",
+              "media_key": "3_2066153242195836928",
+              "start": 10,
+              "url": "https://t.co/1vc2p6BXh8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066153245203140650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 25153,
+          "like_count": 781,
+          "quote_count": 2,
+          "reply_count": 51,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "我操，这简直是我😭 https://t.co/1vc2p6BXh8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 83,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 108,
+                "start": 97,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/Qlt02IamFt"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 141,
+          "like_count": 5274,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 812
+        },
+        "url": "https://t.co/Qlt02IamFt",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-21T11:07:58.000Z",
+        "description": "神户盐｜16岁｜护理专业｜渴望有人能拯救我｜情感淡漠｜家长不管党｜Q:3755457720｜对象:@sklmm_｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 49,
+                "username": "sklmm_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/1e7qTaQHLq"
+              }
+            ]
+          }
+        },
+        "id": "1889861257",
+        "name": "盐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061179467889074177/WoZoQ9BB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 1004,
+          "like_count": 8901,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 2822
+        },
+        "url": "https://t.co/1e7qTaQHLq",
+        "username": "__summer__sea__",
+        "verified": false
+      }
+    ]
+  }
+}
