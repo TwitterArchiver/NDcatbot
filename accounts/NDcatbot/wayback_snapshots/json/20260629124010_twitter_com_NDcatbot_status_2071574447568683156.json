@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071574427893202944"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071202398459273230",
+    "created_at": "2026-06-29T12:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T13:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071574447568683156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1882671462210998272",
+          "start": 0,
+          "username": "HosinoEJ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6kUQDmD1jq",
+          "end": 42,
+          "expanded_url": "https://x.com/NDcatbot/status/2071574447568683156/photo/1",
+          "media_key": "3_2071574427893202944",
+          "start": 19,
+          "url": "https://t.co/6kUQDmD1jq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071574447568683156",
+    "in_reply_to_user_id": "1882671462210998272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071202398459273230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HosinoEJ 我的廉价注音键帽 https://t.co/6kUQDmD1jq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2071574427893202944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-192xbgAAmHxl.jpg",
+        "width": 4080
+      },
+      {
+        "height": 3048,
+        "media_key": "3_2071202365429166080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5jk-FasAA-Rgd.jpg",
+        "width": 4064
+      },
+      {
+        "height": 3048,
+        "media_key": "3_2071202382818803713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5jl-3bgAE7xxX.jpg",
+        "width": 4064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071574427893202944"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071202398459273230",
+        "created_at": "2026-06-29T12:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071574447568683156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1882671462210998272",
+              "start": 0,
+              "username": "HosinoEJ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6kUQDmD1jq",
+              "end": 42,
+              "expanded_url": "https://x.com/NDcatbot/status/2071574447568683156/photo/1",
+              "media_key": "3_2071574427893202944",
+              "start": 19,
+              "url": "https://t.co/6kUQDmD1jq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071574447568683156",
+        "in_reply_to_user_id": "1882671462210998272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071202398459273230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HosinoEJ 我的廉价注音键帽 https://t.co/6kUQDmD1jq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071202365429166080",
+            "3_2071202382818803713"
+          ]
+        },
+        "author_id": "1882671462210998272",
+        "conversation_id": "2071202398459273230",
+        "created_at": "2026-06-28T12:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071202398459273230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jRcNGpAaBc",
+              "end": 52,
+              "expanded_url": "https://x.com/HosinoEJ/status/2071202398459273230/photo/1",
+              "media_key": "3_2071202365429166080",
+              "start": 29,
+              "url": "https://t.co/jRcNGpAaBc"
+            },
+            {
+              "display_url": "pic.x.com/jRcNGpAaBc",
+              "end": 52,
+              "expanded_url": "https://x.com/HosinoEJ/status/2071202398459273230/photo/1",
+              "media_key": "3_2071202382818803713",
+              "start": 29,
+              "url": "https://t.co/jRcNGpAaBc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071202398459273230",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2361,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有注音键盘超越99%大陆人，沒有注音鍵盤超越99%臺灣人 https://t.co/jRcNGpAaBc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！\n某只猫的转世重生/生活号/淡推\ntg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8\n迷你狗哦尼酱@MZiyu81757\n姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 84,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks0wez"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 143,
+          "like_count": 5483,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 865
+        },
+        "url": "https://t.co/h6V6ks0wez",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "點解我眼角長期都帶住淚？因為我一直被困喺一個暗無天日嘅十月入面。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hosinoneko.me",
+                "end": 23,
+                "expanded_url": "https://hosinoneko.me",
+                "start": 0,
+                "url": "https://t.co/2FBvyw1HI8"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "location": "shanghai",
+        "name": "Rainbow🌈",
+        "pinned_tweet_id": "2045296996916027852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969203560090124288/UXWVrJV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 575,
+          "like_count": 4179,
+          "listed_count": 4,
+          "media_count": 788,
+          "tweet_count": 4021
+        },
+        "url": "https://t.co/2FBvyw1HI8",
+        "username": "HosinoEJ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2071495002304455021",
+    "created_at": "2026-06-29T07:38:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T08:38:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071498644243505444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1756246342676979713",
+          "start": 0,
+          "username": "shungleemain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071498644243505444",
+    "in_reply_to_user_id": "1756246342676979713",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071495002304455021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shungleemain 🫪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2071495002304455021",
+        "created_at": "2026-06-29T07:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071498644243505444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1756246342676979713",
+              "start": 0,
+              "username": "shungleemain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071498644243505444",
+        "in_reply_to_user_id": "1756246342676979713",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071495002304455021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shungleemain 🫪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756246342676979713",
+        "conversation_id": "2071495002304455021",
+        "created_at": "2026-06-29T07:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071495002304455021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "聖米格爾生力麵’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1qxvv…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1qxvvvnBYeqxB",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 麵條喵，像閃電！",
+              "unwound_url": "https://twitter.com/i/spaces/1qxvvvnBYeqxB/peek",
+              "url": "https://t.co/c6E8KW1Qtr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071495002304455021",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/c6E8KW1Qtr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！\n某只猫的转世重生/生活号/淡推\ntg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8\n迷你狗哦尼酱@MZiyu81757\n姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 84,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks0wez"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 143,
+          "like_count": 5480,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 864
+        },
+        "url": "https://t.co/h6V6ks0wez",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T09:19:19.000Z",
+        "description": "超級好詭秘 @Akinoyo_desu\n可愛的蜜獾 @kittymi030\n可愛的Mercy @Mercyvnv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "Akinoyo_desu"
+              },
+              {
+                "end": 37,
+                "start": 26,
+                "username": "kittymi030"
+              },
+              {
+                "end": 56,
+                "start": 47,
+                "username": "Mercyvnv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shungleemain",
+                "end": 23,
+                "expanded_url": "https://t.me/shungleemain",
+                "start": 0,
+                "url": "https://t.co/ZWd7sZXvOA"
+              }
+            ]
+          }
+        },
+        "id": "1756246342676979713",
+        "location": "來看生力麵的TG→",
+        "name": "聖米格爾生力麵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041138223767003137/717JFCWp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2319,
+          "following_count": 620,
+          "like_count": 2834,
+          "listed_count": 7,
+          "media_count": 596,
+          "tweet_count": 6913
+        },
+        "url": "https://t.co/ZWd7sZXvOA",
+        "username": "shungleemain",
+        "verified": false
+      }
+    ]
+  }
+}
