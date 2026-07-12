@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074225690153787392"
+      ],
+      "media_source_tweet_id": [
+        "2074225695891530034"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "conversation_id": "2074546669497336162",
+    "created_at": "2026-07-07T17:30:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T18:30:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074546669497336162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1393881158849503232",
+          "start": 3,
+          "username": "yuki_ciallo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I7aIs5ptOd",
+          "end": 40,
+          "expanded_url": "https://x.com/yuki_ciallo/status/2074225695891530034/photo/1",
+          "media_key": "3_2074225690153787392",
+          "start": 17,
+          "url": "https://t.co/I7aIs5ptOd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074546669497336162",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074225695891530034",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuki_ciallo: https://t.co/I7aIs5ptOd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 702,
+        "media_key": "3_2074225690153787392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkhRoWbIAARaUo.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074225690153787392"
+          ],
+          "media_source_tweet_id": [
+            "2074225695891530034"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "conversation_id": "2074546669497336162",
+        "created_at": "2026-07-07T17:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074546669497336162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1393881158849503232",
+              "start": 3,
+              "username": "yuki_ciallo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I7aIs5ptOd",
+              "end": 40,
+              "expanded_url": "https://x.com/yuki_ciallo/status/2074225695891530034/photo/1",
+              "media_key": "3_2074225690153787392",
+              "start": 17,
+              "url": "https://t.co/I7aIs5ptOd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074546669497336162",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074225695891530034",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuki_ciallo: https://t.co/I7aIs5ptOd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074225690153787392"
+          ]
+        },
+        "author_id": "1393881158849503232",
+        "conversation_id": "2074225695891530034",
+        "created_at": "2026-07-06T20:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T21:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074225695891530034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I7aIs5ptOd",
+              "end": 23,
+              "expanded_url": "https://x.com/yuki_ciallo/status/2074225695891530034/photo/1",
+              "media_key": "3_2074225690153787392",
+              "start": 0,
+              "url": "https://t.co/I7aIs5ptOd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074225695891530034",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2937,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/I7aIs5ptOd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！\n某只猫的转世重生/生活号/淡推\ntg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8\n迷你狗哦尼酱@MZiyu81757\n姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 84,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks0wez"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 143,
+          "like_count": 5593,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 893
+        },
+        "url": "https://t.co/h6V6ks0wez",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-16T10:49:13.000Z",
+        "description": "MtF🏳️‍⚧️ / Sub/M / Bipolar / BPD / DID｜“被所有人爱着……这是我唯一的心愿……”",
+        "id": "1393881158849503232",
+        "location": "Betelgeuse",
+        "name": "神楽 由紀 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2073049561418150196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029423814757769216/N6DaL2T7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 413,
+          "like_count": 1135,
+          "listed_count": 5,
+          "media_count": 137,
+          "tweet_count": 1589
+        },
+        "url": "",
+        "username": "yuki_ciallo",
+        "verified": true
+      }
+    ]
+  }
+}

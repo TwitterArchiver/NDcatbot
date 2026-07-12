@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073405497571753984"
+      ],
+      "media_source_tweet_id": [
+        "2073405504412643575"
+      ]
+    },
+    "author_id": "2034584162246799361",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073844562532168059",
+    "created_at": "2026-07-05T19:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T20:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073844562532168059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1426015810472972298",
+          "start": 3,
+          "username": "CyronANNO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5EhvpeQ2HW",
+          "end": 64,
+          "expanded_url": "https://x.com/CyronANNO/status/2073405504412643575/photo/1",
+          "media_key": "3_2073405497571753984",
+          "start": 41,
+          "url": "https://t.co/5EhvpeQ2HW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073844562532168059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073405504412643575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyronANNO: 教OD和自残的建议下地狱\n这和教唆吸毒有什么区别😅 https://t.co/5EhvpeQ2HW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2006,
+        "media_key": "3_2073405497571753984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMY3UI4bQAALFPJ.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073405497571753984"
+          ],
+          "media_source_tweet_id": [
+            "2073405504412643575"
+          ]
+        },
+        "author_id": "2034584162246799361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073844562532168059",
+        "created_at": "2026-07-05T19:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T20:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073844562532168059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1426015810472972298",
+              "start": 3,
+              "username": "CyronANNO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5EhvpeQ2HW",
+              "end": 64,
+              "expanded_url": "https://x.com/CyronANNO/status/2073405504412643575/photo/1",
+              "media_key": "3_2073405497571753984",
+              "start": 41,
+              "url": "https://t.co/5EhvpeQ2HW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073844562532168059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073405504412643575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyronANNO: 教OD和自残的建议下地狱\n这和教唆吸毒有什么区别😅 https://t.co/5EhvpeQ2HW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073405497571753984"
+          ]
+        },
+        "author_id": "1426015810472972298",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073405504412643575",
+        "created_at": "2026-07-04T13:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073405504412643575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5EhvpeQ2HW",
+              "end": 49,
+              "expanded_url": "https://x.com/CyronANNO/status/2073405504412643575/photo/1",
+              "media_key": "3_2073405497571753984",
+              "start": 26,
+              "url": "https://t.co/5EhvpeQ2HW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073405504412643575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 18788,
+          "like_count": 293,
+          "quote_count": 2,
+          "reply_count": 71,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "教OD和自残的建议下地狱\n这和教唆吸毒有什么区别😅 https://t.co/5EhvpeQ2HW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！\n某只猫的转世重生/生活号/淡推\ntg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8\n迷你狗哦尼酱@MZiyu81757\n姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 84,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks0wez"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 143,
+          "like_count": 5566,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 889
+        },
+        "url": "https://t.co/h6V6ks0wez",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "雑多 | 撮影 | ナチョ､フブキ推し | ガジェット | 音ゲー | チュウマイ | バンドリ | \nDM⇒フォロバ | サブ @cyron_anno",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "cyron_anno"
+              }
+            ]
+          }
+        },
+        "id": "1426015810472972298",
+        "location": "Soochow ",
+        "name": "￴ ￴アノ￴￴ ￴￴ ￴￴ ￴￴︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061700160309325824/pubnTMXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2586,
+          "following_count": 911,
+          "like_count": 209153,
+          "listed_count": 0,
+          "media_count": 5503,
+          "tweet_count": 22508
+        },
+        "url": "",
+        "username": "CyronANNO",
+        "verified": true
+      }
+    ]
+  }
+}
