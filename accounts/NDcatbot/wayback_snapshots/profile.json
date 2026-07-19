@@ -1,29 +1,41 @@
 {
   "name": "面条喵🐱🐈",
   "username": "@NDcatbot",
-  "bio": "面条喵 像闪电！/某只猫的转世重生/生活号/淡推/tg群组t.me/MTNEKO/频道t.me/MTNEKO123456/最爱的主人@hyachana/迷你狗哦尼酱@MZiyu81757/姐姐@berrrry_na",
+  "bio": "面条喵 像闪电！\n某只猫的转世重生/生活号/淡推\ntg群组http://t.me/MTNEKO/频道http://t.me/MTNEKO123456/\n迷你狗哦尼酱@MZiyu81757\n姐姐@berrrry_na",
   "location": "",
-  "link": "t.me/MTNEKO123",
+  "link": "http://t.me/MTNEKO123",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "",
   "bio_entities": {
     "mentions": [
       {
-        "end": 31,
-        "start": 22,
-        "username": "hyachana"
-      },
-      {
-        "end": 45,
-        "start": 34,
+        "end": 95,
+        "start": 84,
         "username": "MZiyu81757"
       },
       {
-        "end": 59,
-        "start": 48,
+        "end": 109,
+        "start": 98,
         "username": "berrrry_na"
       }
+    ],
+    "urls": [
+      {
+        "display_url": "t.me/MTNEKO/",
+        "end": 52,
+        "expanded_url": "http://t.me/MTNEKO/",
+        "start": 29,
+        "url": "https://t.co/Qh0CPYQqgL"
+      },
+      {
+        "display_url": "t.me/MTNEKO123456/",
+        "end": 77,
+        "expanded_url": "http://t.me/MTNEKO123456/",
+        "start": 54,
+        "url": "https://t.co/RMh9UpOBC8"
+      }
     ]
-  }
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg"
 }
