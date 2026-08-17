@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2034584162246799361",
+    "conversation_id": "2078259899457253737",
+    "created_at": "2026-07-19T15:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T16:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078869589384180018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2801561021",
+          "start": 0,
+          "username": "QimoHK300311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078869589384180018",
+    "in_reply_to_user_id": "2801561021",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078259899457253737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QimoHK300311 晚安"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2078259866271965184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNd2VlgXYAAoIxg.jpg",
+        "width": 828
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2078259866263535616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNd2VleWwAA3n0r.jpg",
+        "width": 873
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2078259866263531521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNd2VleWsAEmAMF.jpg",
+        "width": 828
+      },
+      {
+        "height": 1013,
+        "media_key": "3_2078259866276106240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNd2VlhWkAA6ohg.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034584162246799361",
+        "conversation_id": "2078259899457253737",
+        "created_at": "2026-07-19T15:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078869589384180018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2801561021",
+              "start": 0,
+              "username": "QimoHK300311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078869589384180018",
+        "in_reply_to_user_id": "2801561021",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078259899457253737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QimoHK300311 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078259866271965184",
+            "3_2078259866263535616",
+            "3_2078259866263531521",
+            "3_2078259866276106240"
+          ]
+        },
+        "author_id": "2801561021",
+        "conversation_id": "2078259899457253737",
+        "created_at": "2026-07-17T23:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T00:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078259899457253737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JqmQbZOdRw",
+              "end": 184,
+              "expanded_url": "https://x.com/QimoHK300311/status/2078259899457253737/photo/1",
+              "media_key": "3_2078259866271965184",
+              "start": 161,
+              "url": "https://t.co/JqmQbZOdRw"
+            },
+            {
+              "display_url": "pic.x.com/JqmQbZOdRw",
+              "end": 184,
+              "expanded_url": "https://x.com/QimoHK300311/status/2078259899457253737/photo/1",
+              "media_key": "3_2078259866263535616",
+              "start": 161,
+              "url": "https://t.co/JqmQbZOdRw"
+            },
+            {
+              "display_url": "pic.x.com/JqmQbZOdRw",
+              "end": 184,
+              "expanded_url": "https://x.com/QimoHK300311/status/2078259899457253737/photo/1",
+              "media_key": "3_2078259866263531521",
+              "start": 161,
+              "url": "https://t.co/JqmQbZOdRw"
+            },
+            {
+              "display_url": "pic.x.com/JqmQbZOdRw",
+              "end": 184,
+              "expanded_url": "https://x.com/QimoHK300311/status/2078259899457253737/photo/1",
+              "media_key": "3_2078259866276106240",
+              "start": 161,
+              "url": "https://t.co/JqmQbZOdRw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078259899457253737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 24227,
+          "like_count": 343,
+          "quote_count": 8,
+          "reply_count": 100,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "讣告...\n神楽坂雪风，我的姐姐，我的恋人\n于2026.7.17凌晨2-3点在安徽蚌埠服用亚硝酸钠，蚌埠警方已确认于当天下午3点左右离世...\n雪风是寒涟漪危机干预小组的一名志愿者...她救了很多处在生命线左右人...也由于她的善举...使自己原本就并非良好的状态变得愈发低下...最后选择了离世...\n我等深表悲痛.. https://t.co/JqmQbZOdRw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-03-19T10:55:12.000Z",
+        "description": "面条喵 像闪电！\n某只猫的转世重生/生活号/淡推\ntg群组https://t.co/Qh0CPYQqgL频道https://t.co/RMh9UpOBC8\n迷你狗哦尼酱@MZiyu81757\n姐姐@berrrry_na",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 84,
+                "username": "MZiyu81757"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "berrrry_na"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO/",
+                "end": 52,
+                "expanded_url": "http://t.me/MTNEKO/",
+                "start": 29,
+                "url": "https://t.co/Qh0CPYQqgL"
+              },
+              {
+                "display_url": "t.me/MTNEKO123456/",
+                "end": 77,
+                "expanded_url": "http://t.me/MTNEKO123456/",
+                "start": 54,
+                "url": "https://t.co/RMh9UpOBC8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MTNEKO123",
+                "end": 23,
+                "expanded_url": "http://t.me/MTNEKO123",
+                "start": 0,
+                "url": "https://t.co/h6V6ks0wez"
+              }
+            ]
+          }
+        },
+        "id": "2034584162246799361",
+        "name": "面条喵🐱🐈",
+        "pinned_tweet_id": "2051318603086270894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051607789395722241/h1WApGOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 145,
+          "like_count": 5650,
+          "listed_count": 3,
+          "media_count": 85,
+          "tweet_count": 915
+        },
+        "url": "https://t.co/h6V6ks0wez",
+        "username": "NDcatbot",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-03T07:53:19.000Z",
+        "description": "一生中永远最爱的(是亲姐姐?也是对象! 恋人喵🥰)\n是@Kagura_Yukikaze 呢\n生产年月2011.05/可以叫我齐墨/常驻广东佛山/持续深柜(无证含🍥)/hrt:2025.05.09/初中毕业(准高一)/业余无线电爱好者(BG7MUW)/情绪焦虑、抑郁(中度心理问题)\n生来夏花，死时秋叶 --《飞鸟集》",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "Kagura_Yukikaze"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "BG7MUW-Not-Website.com",
+                "end": 23,
+                "expanded_url": "http://BG7MUW-Not-Website.com",
+                "start": 0,
+                "url": "https://t.co/LBSe4QLS4u"
+              }
+            ]
+          }
+        },
+        "id": "2801561021",
+        "location": "Guangdong,P.R.China (OL62)",
+        "name": "HK_本人qimo丶🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020885466019397632/URyAX7Nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 107,
+          "like_count": 560,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/LBSe4QLS4u",
+        "username": "QimoHK300311",
+        "verified": false
+      }
+    ]
+  }
+}
